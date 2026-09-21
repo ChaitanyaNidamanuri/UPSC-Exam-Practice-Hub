@@ -1,0 +1,302 @@
+[
+  {
+    "q": "The first Commonwealth Games in 1930 was held in which country?",
+    "o": [
+      "Australia",
+      "England",
+      "New Zealand",
+      "Canada"
+    ],
+    "a": 3,
+    "tag": "Commonwealth Games",
+    "exp": "Commonwealth Games • 11 countries --> 400 athletes. • 6 Sports -----> 59 events • Held: every four years",
+    "topic": "Commonwealth Games 2026",
+    "page": 2,
+    "photo": "./images/1789905178/page_0002_image_003.jpeg"
+  },
+  {
+    "q": "Which edition of the Commonwealth Games is scheduled to be held in 2026?",
+    "o": [
+      "21st",
+      "22nd",
+      "23rd",
+      "24th"
+    ],
+    "a": 2,
+    "tag": "Commonwealth Games",
+    "exp": "Commonwealth Games • 1930 ---> 1st time Hamilton, Canada • 2022 ----> 22nd time Birmingham, England • 2026 ----> 23rd time glassgow, Scotland",
+    "topic": "Commonwealth Games 2026",
+    "page": 4,
+    "photo": null
+  },
+  {
+    "q": "Consider the following statements regarding the sports program of the 2026 Glasgow Commonwealth Games: The total number of sports was reduced to 10 to cut logistical overheads. Integrated Para-sports were completely removed from the 2026 event to reduce event days. Which of the statements given above is/are correct?",
+    "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "a": 0,
+    "tag": "Commonwealth Games",
+    "exp": "Commonwealth Games • Earlier: 18-20 sports • Now: 10 • Para- Integrated: 6",
+    "topic": "Commonwealth Games 2026",
+    "page": 6,
+    "photo": null
+  },
+  {
+    "q": "Consider the following statements regarding the schedule and hosting of the Commonwealth Games 2026: 1. The 2026 Commonwealth Games are held from 23 July to 2 August 2026. 2. To minimize costs, the sporting events are hosted across five different major cities in Scotland. Which of the statement(s) given above is/are correct?",
+    "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "a": 0,
+    "tag": "Commonwealth Games",
+    "exp": "Commonwealth Games • Commonwealth 2026: single city • 4 existing venues • Located within 8 mile",
+    "topic": "Commonwealth Games 2026",
+    "page": 8,
+    "photo": null
+  },
+  {
+    "q": "Which nation topped the overall medal tally at the 2026 Commonwealth Games held in Glasgow, Scotland?",
+    "o": [
+      "England",
+      "Canada",
+      "Australia",
+      "India"
+    ],
+    "a": 2,
+    "tag": "Commonwealth Games",
+    "exp": "Commonwealth Games Australia --> 171 medals • 70 – Gold 45- Silver 56- Bronze England ----> 110 medals Canada -----> 62 medals",
+    "topic": "Commonwealth Games 2026",
+    "page": 10,
+    "photo": null
+  },
+  {
+    "q": "In the final medal table of the 2026 Glasgow Commonwealth Games, which country secured the 4th rank right behind Australia, England, and Canada?",
+    "o": [
+      "Scotland",
+      "India",
+      "New Zealand",
+      "South Africa"
+    ],
+    "a": 1,
+    "tag": "Commonwealth Games",
+    "exp": "Commonwealth Games India • 4th Rank ----> 39 medals • 13 Gold, 17 Silver, and 9 Bronze",
+    "topic": "Commonwealth Games 2026",
+    "page": 12,
+    "photo": null
+  },
+  {
+    "q": "What is the official motto of the 2026 Commonwealth Games held in Glasgow, Scotland?",
+    "o": [
+      "Games for Everyone",
+      "Sport Is Just the Beginning",
+      "Shared Passion, Shared Future",
+      "Passion. Precision. Progress."
+    ],
+    "a": 1,
+    "tag": "Commonwealth Games",
+    "exp": "",
+    "topic": "Commonwealth Games 2026",
+    "page": 14,
+    "photo": null
+  },
+  {
+    "q": "Who among the following sports personalities carried the Indian flag during the Opening Ceremony of the 2026 Glasgow Commonwealth Games?",
+    "o": [
+      "PV Sindhu and Neeraj Chopra",
+      "Mirabai Chanu and Lovlina Borgohain",
+      "Nikhat Zareen and Sharath Kamal",
+      "Harmanpreet Singh and Savita Punia"
+    ],
+    "a": 1,
+    "tag": "Commonwealth Games",
+    "exp": "",
+    "topic": "Commonwealth Games 2026",
+    "page": 16,
+    "photo": null
+  },
+  {
+    "q": "Which Indian athlete was selected as the country's official flag-bearer for the Closing Ceremony of the 2026 Glasgow Commonwealth Games after winning gold in the women's 57 kg category?",
+    "o": [
+      "Lovlina Borgohain",
+      "Sakshi Chaudhary",
+      "Preeti Pawar",
+      "Jaismine Lamboria"
+    ],
+    "a": 3,
+    "tag": "Commonwealth Games",
+    "exp": "Commonwealth Games • Jaismine Lamboria: Indian pugilist",
+    "topic": "Commonwealth Games 2026",
+    "page": 18,
+    "photo": "./images/1789905178/page_0018_image_003.jpeg"
+  },
+  {
+    "q": "Which prominent weightlifter became the first Indian to win three consecutive Gold Medals across three different editions of the Commonwealth Games ?",
+    "o": [
+      "Bindyarani Devi",
+      "Gyaneshwari Yadav",
+      "Saikhom Mirabai Chanu",
+      "Harjinder Kaur"
+    ],
+    "a": 2,
+    "tag": "Commonwealth Games",
+    "exp": "Commonwealth Games • Mirabai Chanu • 2018, 2022, and 2026. • 3-Gold Medals",
+    "topic": "Commonwealth Games 2026",
+    "page": 20,
+    "photo": "./images/1789905178/page_0020_image_003.jpeg"
+  },
+  {
+    "q": "In which sport did India deliver its most dominant performance at the 2026 Glasgow Games, topping the discipline’s medal table with 7 Gold and 3 Silver medals?",
+    "o": [
+      "Weightlifting",
+      "Judo",
+      "Boxing",
+      "Para-Athletics"
+    ],
+    "a": 2,
+    "tag": "Commonwealth Games",
+    "exp": "Commonwealth Games • 7 Gold medal won by: • Jaismine Lamboria, • Preeti Pawar, • Sakshi Chaudhary, • Priya Ghanghas, • Arundhati Choudhary, • Sachin Siwach, and Ankush Panghal",
+    "topic": "Commonwealth Games 2026",
+    "page": 22,
+    "photo": null
+  },
+  {
+    "q": "In which multi-discipline athletics event did Tejaswin Shankar create history by winning India’s first-ever Commonwealth Games medal (Bronze)?",
+    "o": [
+      "Men's Triple Jump",
+      "Men's Decathlon",
+      "Men's High Jump",
+      "Men's Javelin Throw"
+    ],
+    "a": 1,
+    "tag": "Commonwealth Games",
+    "exp": "",
+    "topic": "Commonwealth Games 2026",
+    "page": 24,
+    "photo": null
+  },
+  {
+    "q": "Who was the only Indian athlete to win two individual medals (a Silver and a Bronze) at the 2026 Commonwealth Games in track and field distance running events?",
+    "o": [
+      "Gulveer Singh",
+      "Murali Sreeshankar",
+      "Praveen Chithravel",
+      "Sarvesh Anil Kushare"
+    ],
+    "a": 0,
+    "tag": "Commonwealth Games",
+    "exp": "",
+    "topic": "Commonwealth Games 2026",
+    "page": 26,
+    "photo": null
+  },
+  {
+    "q": "Consider the following statements regarding the mascots of the Commonwealth Games: \"Finnie\" the Unicorn is the official mascot for the 2026 Glasgow Games. The Commonwealth Games 2010 held in New Delhi featured a mascot named \"Shera\" (a Royal Bengal Tiger). Which of the statement(s) given above is/are correct?",
+    "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "a": 2,
+    "tag": "Commonwealth Games",
+    "exp": "",
+    "topic": "Commonwealth Games 2026",
+    "page": 28,
+    "photo": "./images/1789905178/page_0028_image_003.jpeg"
+  },
+  {
+    "q": "In which edition were Para-sports events included as fully integrated medal events in the main Commonwealth Games medal tally for the first time?",
+    "o": [
+      "1998 Kuala Lumpur Games",
+      "2002 Manchester Games",
+      "2006 Melbourne Games",
+      "2010 New Delhi Games"
+    ],
+    "a": 1,
+    "tag": "Commonwealth Games",
+    "exp": "",
+    "topic": "Commonwealth Games 2026",
+    "page": 30,
+    "photo": null
+  },
+  {
+    "q": "Consider the following statements regarding Para-sports at the 2026 Glasgow Commonwealth Games: Glasgow 2026 featured a record 47 medal events integrated across 6 Para-sport disciplines. Medals won by Para-athletes in the Commonwealth Games are counted in a completely separate medal tally and do not affect their country's main standing. Which of the statement(s) given above is/are correct?",
+    "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "a": 0,
+    "tag": "Commonwealth Games",
+    "exp": "Commonwealth Games • Para Athletics, Para Powerlifting, Para Swimming, 3x3 Wheelchair Basketball, Para Track Cycling, and Para Bowls.",
+    "topic": "Commonwealth Games 2026",
+    "page": 32,
+    "photo": null
+  },
+  {
+    "q": "Which Para-athlete won India’s very first medal at the 2026 Glasgow Commonwealth Games by securing a Bronze medal in the Men's Heavyweight category?",
+    "o": [
+      "Soman Rana",
+      "Jhandu Kumar",
+      "Dilip Mahadu Gavit",
+      "Shubham Juyal"
+    ],
+    "a": 1,
+    "tag": "Commonwealth Games",
+    "exp": "Commonwealth Games • Jhadu kumar: Total score ---> 130.9 points • Gold: Idris Riluwan --> Nigeria • Silver: Matthew Harding ---> England",
+    "topic": "Commonwealth Games 2026",
+    "page": 34,
+    "photo": null
+  },
+  {
+    "q": "Who created history by becoming the first Indian athlete to win a Commonwealth Games Gold Medal in Women’s Para-Athletics ?",
+    "o": [
+      "Bhavina Patel",
+      "Shilpa K. Shyla",
+      "Sharmila Dhankar",
+      "Sakina Khatun"
+    ],
+    "a": 2,
+    "tag": "Commonwealth Games",
+    "exp": "Commonwealth Games • Sharmila Dhankar: • Women's Shot Put F57 • Throw --> 9.81 m • Shilpa K. Shyla ---> Bronze",
+    "topic": "Commonwealth Games 2026",
+    "page": 36,
+    "photo": null
+  },
+  {
+    "q": "Consider the following statements regarding Indian sprinters in the Para Track & Field events at Glasgow 2026: Dilip Mahadu Gavit won the Gold medal in the Men's 100m T47 event, setting a new Games record of 10.71 seconds. India achieved a 1-2 podium finish in the Men's 100m T47 event as Mohammed Basil secured the Silver medal. Which of the statement(s) given above is/are correct?",
+    "o": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "a": 2,
+    "tag": "Commonwealth Games",
+    "exp": "",
+    "topic": "Commonwealth Games 2026",
+    "page": 38,
+    "photo": null
+  },
+  {
+    "q": "Who was the first Indian swimmer to win a Commonwealth Games medal in a Para-integrated event ?",
+    "o": [
+      "Prasanta Karmakar",
+      "Sharath Gayakwad",
+      "Suyash Jadhav",
+      "Niranjan Mukundan"
+    ],
+    "a": 0,
+    "tag": "Commonwealth Games",
+    "exp": "Commonwealth Games • Prasanta Karmakar: • 2010 New Delhi Commonwealth Games • Bronze medal --> Men's 50m Freestyle swimming. • Category: S9",
+    "topic": "Commonwealth Games 2026",
+    "page": 40,
+    "photo": null
+  }
+]
