@@ -891,10 +891,7 @@ body.ui-internal header{display:none!important;}
   border-radius:16px;
   box-shadow:0 8px 20px rgba(0,0,0,.16);
 }
-.tr-qtext{
-    line-height:1.57;
-    white-space:pre-line;
-}
+.tr-qtext{line-height:1.57;}
 .tr-ballot,.ballot-wrap{
   border-radius:15px;
 }
@@ -3470,7 +3467,7 @@ function renderExplanation(text) {
 
 function render(){
   const q=QUESTIONS[idx],sel=answers[idx];if(!q)return;
-  $('cur').textContent=_qStartOffset+idx+1;$('qnum').textContent='Question '+(_qStartOffset+idx+1);$('qtext').textContent = String(q.q || '');
+  $('cur').textContent=_qStartOffset+idx+1;$('qnum').textContent='Question '+(_qStartOffset+idx+1);$('qtext').textContent=q.q.replace(/ (\d+)\. /g,'\n$1. ');
   $('pfill').style.width=((idx+1)/QUESTIONS.length*100)+'%';$('score').textContent=liveScore();_updateTimerDisplay();
   streak=calcStreak();$('streakN').textContent=streak;$('streak').classList.toggle('hot',streak>=3);_updateSaveBtn();
   const tag=$('tag'),fb=$('feedback'),ex=$('expl'),box=$('opts');
@@ -3699,8 +3696,7 @@ function _questionHierarchyHTML(q){
 function _revPick(btn,qi,oi){const card=btn.closest('.tr-qcard');_revealRetry(card,QUESTIONS[qi],oi);}
 function _trPick(btn,qi,oi){if(!_trContext)return;const card=btn.closest('.tr-qcard');_revealRetry(card,_trContext.testRecord.questions[qi],oi);}
 function _retryCardHTML(q,i,fn,dispNum){
-  let h='<div class="tr-qcard" id="revq-'+i+'">'+_questionHierarchyHTML(q)+'<div class="tr-qnum">Q'+dispNum+' • Attempt again</div><div class="tr-qtext">'+esc(String(q.q || ''))+'</div><div class="rt-fb"></div>';  
-
+  let h='<div class="tr-qcard" id="revq-'+i+'">'+_questionHierarchyHTML(q)+'<div class="tr-qnum">Q'+dispNum+' • Attempt again</div><div class="tr-qtext">'+esc(q.q).replace(/ (\d+)\. /g,'\n$1. ')+'</div><div class="rt-fb"></div>';
   q.o.forEach((ot,oi)=>{h+='<button class="rt-opt" onclick="'+fn+'(this,'+i+','+oi+')"><span class="tr-opt-key">'+L[oi]+'</span><span class="rt-txt"><span class="rt-mark"></span>'+esc(ot)+'</span></button>';});
   h+='<div class="tr-expl hidden">'+esc(q.exp||'')+'</div>';
   if(q.photo)h+='<div class="review-source hidden"><img src="'+esc(q.photo)+'" alt="Source image'+(q.page?' — Page '+q.page:'')+'" loading="lazy"></div>';
@@ -3712,7 +3708,7 @@ function _renderReviewList(){
   html+='</div><div class="ts-hint" style="text-align:left;margin-bottom:12px">Attempt each question — the answer &amp; solution unlock only after you pick an option.</div>';let shown=0;
   QUESTIONS.forEach((q,i)=>{const a=answers[i],st=a===null?'skipped':(a===q.a?'correct':'wrong');if(_revFilter!=='all'&&_revFilter!==st)return;shown++;
     if(st==='correct'){
-      html+='<div class="tr-qcard correct" id="revq-'+i+'">'+_questionHierarchyHTML(q)+'<div class="tr-qnum">Q'+(_qStartOffset+i+1)+' • You got this right</div><div class="tr-qtext">'+esc(String(q.q || ''))+'</div>';
+      html+='<div class="tr-qcard correct" id="revq-'+i+'">'+_questionHierarchyHTML(q)+'<div class="tr-qnum">Q'+(_qStartOffset+i+1)+' • You got this right</div><div class="tr-qtext">'+esc(q.q).replace(/ (\d+)\. /g,'\n$1. ')+'</div>';
       q.o.forEach((ot,oi)=>{const isAns=oi===q.a;html+='<div class="tr-opt '+(isAns?'correct-ans':'neutral')+'"><span class="tr-opt-key">'+L[oi]+'</span><span>'+(isAns?'✓ ':'')+esc(ot)+'</span></div>';});
       html+='<div class="tr-expl">'+esc(q.exp||'')+'</div>';if(q.photo)html+='<div class="review-source"><img src="'+esc(q.photo)+'" alt="Source image'+(q.page?' — Page '+q.page:'')+'" loading="lazy"></div>';
       html+='</div>';
@@ -4760,7 +4756,7 @@ function _renderTestReview(t,testNum,topicName){
       html+='<div class="tr-qcard correct" id="trq-'+i+'">';
       if(q.tag)html+='<span class="tr-qtag">'+esc(q.tag)+'</span>';
       html+='<div class="tr-qnum">Q'+(t.fromIdx+i+1)+' • You got this right</div>';
-      html+='<div class="tr-qtext">'+esc(String(q.q || ''))+'</div>';
+      html+='<div class="tr-qtext">'+esc(q.q).replace(/ (\d+)\. /g,'\n$1. ')+'</div>';
       ['A','B','C','D'].forEach((lbl,oi)=>{const isAns=oi===q.a;
         html+='<div class="tr-opt '+(isAns?'correct-ans':'neutral')+'"><span class="tr-opt-key">'+lbl+'</span><span>'+(isAns?'&#10003; ':'')+esc(q.o[oi])+'</span></div>';});
       if(q.exp)html+='<div class="tr-expl">'+esc(q.exp)+'</div>';
