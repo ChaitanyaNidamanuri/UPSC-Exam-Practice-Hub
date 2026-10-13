@@ -1,0 +1,3003 @@
+[
+  {
+    "q": "Consider the following statements regarding the Bahmani Sultanate of the Deccan:\n1. It was founded in 1347 by Allauddin Hasan Gangu, a noble in the court of Muhammad-bin-Tughluq.\n2. It reached its greatest territorial limits under the prime ministership of Muhammad Gawan, who served Sultan Firoz Shah.\n3. Muhammad Gawan was executed in 1482 owing to the jealousy of the nobles, which marked the beginning of the kingdom's decline.\n4. The kingdom eventually broke into five principalities: Golconda, Bijapur, Berar, Bidar and Ahmadnagar.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 3 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.2): Statement 2 is incorrect. Muhammad Gawan was the prime minister of Muhammad Shah III, not Firoz Shah, and the kingdom touched its peak under his ministry. His execution in 1482 triggered the downfall, after which the Bahmani kingdom split into five principalities. This disintegration paved the way for the Qutb Shahis of Golconda.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Bahmani background",
+    "page": 4,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [3, 4],
+    "unit": 1,
+    "q_no": 1,
+    "unit_q_no": 1
+  },
+  {
+    "q": "Consider the following statements regarding the origin of the Qutb Shahi dynasty:\nI. The Qutb Shahis belonged to the Turkish tribe known as Karakanelu.\nII. The rival Turkish tribe Akunelu drove the Karakanelu out of Persia and Transoxiana.\nIII. Quli Qutb, a member of the Karakanelu tribe, came to India in search of fortune and found service under the Bahmani sultan Muhammad Shah III.\nIV. The Qutb Shahi sultans belonged to the Sunni sect of Islam.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Sections 1.2 and 1.6): Statements I, II and III are accurate. Statement IV is wrong because the Qutb Shahi sultans were Shia Muslims, a fact that later became one of the factors in Aurangzeb's hostility towards Golconda.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Origin of the Qutb Shahis",
+    "page": 4,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [4, 6, 28],
+    "unit": 1,
+    "q_no": 2,
+    "unit_q_no": 2
+  },
+  {
+    "q": "Assertion (A): Ibrahim Qutb Shah patronised Telugu poets and was himself addressed as 'Malkibharam' in Telugu literature.\nReason (R): During his exile at the Vijayanagara court, he came into close contact with men of letters and witnessed the royal patronage extended to learning.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.7): Ibrahim spent seven years at the Vijayanagara court, where he acquired proficiency in Telugu and observed royal patronage of scholars. He later patronised Ponnaganti Telaganarya (Yayaticharitra) and Addanki Gangadhara Kavi. The 'Malkabhiram' mentioned by Telugu poets is Ibrahim himself, so the Vijayanagara exposure directly explains his Telugu patronage.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Literature – Telugu patronage",
+    "page": 34,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [34],
+    "unit": 1,
+    "q_no": 3,
+    "unit_q_no": 3
+  },
+  {
+    "q": "Match the Qutb Shahi rulers (List I) with their associated achievements (List II):\n\nList I (Ruler):\nA. Quli Qutb Shah\nB. Ibrahim Qutb Shah\nC. Muhammad Quli Qutb Shah\nD. Muhammad Qutb Shah\n\nList II (Achievement):\n1. Planned the city of Hyderabad in 1591\n2. Fortified Golconda and named it Muhammadnagar\n3. Laid out Ibrahim Bagh and Pool Bagh and excavated tanks\n4. Laid the foundation of the Mecca Masjid",
+    "o": [
+      "A-2, B-1, C-3, D-4",
+      "A-3, B-2, C-1, D-4",
+      "A-2, B-3, C-1, D-4",
+      "A-2, B-3, C-4, D-1"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Quli Qutb Shah fortified Golconda and named it Muhammadnagar after his patron Muhammad Shah III. Ibrahim excavated tanks and laid Ibrahim Bagh and Pool Bagh. Muhammad Quli laid out Hyderabad in 1591. Muhammad Qutb Shah laid the foundation of the Mecca Masjid, which his successors completed.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Qutb Shahi rulers – achievements",
+    "page": 16,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [8, 14, 16],
+    "unit": 1,
+    "q_no": 4,
+    "unit_q_no": 4
+  },
+  {
+    "q": "Consider the following statements regarding the achievements of Sultan Quli Qutb Shah (1518–1543):\n1. He fortified Golconda and named it Muhammadnagar in honour of his patron Muhammad Shah III.\n2. He defeated the Velama chiefs and occupied the Rachakonda and Devarakonda areas.\n3. He invaded Warangal, defeated Shitab Khan (Sitapathi) and occupied that region.\n4. He captured the capital cities of Bidar and Bijapur and annexed both kingdoms.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Statement 4 is incorrect. In his wars against Bidar and Bijapur he only occupied Kovilakonda and Medak. He never annexed those kingdoms. He did become master of Telangana and coastal Andhra, with the Krishna–Godavari region under his direct control.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Quli Qutb Shah – conquests",
+    "page": 8,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [8, 10],
+    "unit": 1,
+    "q_no": 5,
+    "unit_q_no": 5
+  },
+  {
+    "q": "Consider the following statements regarding the succession after Quli Qutb Shah:\nI. Quli Qutb Shah had four sons: Hyder Quli, Qutubuddin, Jamshed Quli and Ibrahim Quli.\nII. Hyder Quli, the eldest, succeeded his father without any dispute.\nIII. Jamshid Quli murdered his father and elder brother and usurped the throne.\nIV. Ibrahim, with the help of Ali Barid of Bidar, defeated Jamshid and captured Golconda at once.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Statements I and III are correct. Statement II is wrong because Hyder Quli predeceased his father, so Qutubuddin was named successor before Jamshid killed him. Statement IV is wrong because Jamshid, backed by Burhan Nizam Shah of Ahmadnagar, defeated Ibrahim and his allies, and Ibrahim retired to Vijayanagara.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Jamshid Quli and succession",
+    "page": 10,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [10, 12],
+    "unit": 1,
+    "q_no": 6,
+    "unit_q_no": 6
+  },
+  {
+    "q": "During his seven-year exile, Ibrahim Quli Qutb Shah was received with sympathy at the Vijayanagara court and learnt the intricacies of statecraft under the patronage of:",
+    "o": [
+      "Sri Krishnadevaraya",
+      "Achyutadevaraya",
+      "Venkatapati Raya",
+      "Aliya Ramaraya"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Ibrahim stayed in the court of Sadasivaraya, where the prime minister Aliya Ramaraya treated him with cordiality and decorum. Krishnadevaraya and Achyutadevaraya belong to the earlier period, and Venkatapati Raya ruled much later.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Ibrahim Qutb Shah – exile at Vijayanagara",
+    "page": 12,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [10, 12],
+    "unit": 1,
+    "q_no": 7,
+    "unit_q_no": 7
+  },
+  {
+    "q": "Ibrahim Qutb Shah, who once enjoyed Vijayanagara hospitality, later turned against it. Which of the following was NOT among the reasons for the change in his attitude?",
+    "o": [
+      "Ramaraya's frequent shifting of alliances from one Muslim ruler to another",
+      "Ramaraya's grant of asylum to Jagadekarao, an enemy of Ibrahim",
+      "Ramaraya's invasion of Golconda and occupation of the fort of Panugal",
+      "Ramaraya's refusal to return the treasures Ibrahim had left at Vijayanagara"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): The text lists exactly three reasons: (1) Ramaraya's changing alliances annoyed Ibrahim; (2) Ramaraya sheltered Jagadekarao; (3) after Ibrahim allied with Ahmadnagar, Ramaraya invaded Golconda and occupied Panugal. No dispute over treasures is mentioned. The estrangement led Ibrahim to build the grand Deccan alliance that fought at Tallikota.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Ibrahim vs Ramaraya – causes",
+    "page": 12,
+    "photo": null,
+    "question_type": "Negative (NOT)",
+    "source_pages": [12, 14],
+    "unit": 1,
+    "q_no": 8,
+    "unit_q_no": 8
+  },
+  {
+    "q": "Consider the following statements regarding the Battle of Tallikota (1565):\n1. It was fought between Vijayanagara and the combined armies of the Deccan sultans.\n2. Aliya Ramaraya was killed on the battlefield by Hussain Nizam Shah of Ahmadnagar.\n3. The forces of Ibrahim destroyed temples at Ahobilam and looted the temple treasury.\n4. Ibrahim Qutb Shah fought on the side of Vijayanagara under the Ramaraya alliance.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Statement 4 is incorrect. Ibrahim engineered the grand alliance of the Deccan sultans against Vijayanagara. The Muslim forces then occupied Kondavidu, Machilipatnam and the coastal region, and Udayagiri and Penugonda. Ibrahim dealt a mortal blow to the Vijayanagara Empire.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Battle of Tallikota (1565)",
+    "page": 14,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [14],
+    "unit": 1,
+    "q_no": 9,
+    "unit_q_no": 9
+  },
+  {
+    "q": "Which of the following were administrative and welfare measures of Ibrahim Qutb Shah?\n1. Introduction of spies to supply information to the central and provincial administrators.\n2. Excavation of canals, tanks and dams, including the tanks at Ibrahimpatnam and Hussainsagar.\n3. Construction of a bridge across the river Musi at Hyderabad.\n4. Construction of the Charminar as a monument of peace.\n\nSelect the correct answer:",
+    "o": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Ibrahim perfected the administration with central and provincial systems and spies, punished robbers to restore law and order, developed communications, and excavated canals, tanks and dams. He also built the Musi bridge. The Charminar was built by Muhammad Quli Qutb Shah, not Ibrahim.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Ibrahim Qutb Shah – administrative measures",
+    "page": 14,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [14, 16, 36],
+    "unit": 1,
+    "q_no": 10,
+    "unit_q_no": 10
+  },
+  {
+    "q": "Consider the following statements regarding Muhammad Quli Qutb Shah (1580–1612):\n1. He ascended the throne at the tender age of fifteen.\n2. The city of Hyderabad was laid out during his reign in 1591.\n3. He composed numerous poems in Deccan Urdu on literary, political and social themes.\n4. He died in 1612 and was succeeded by his son Muhammad Qutb.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Statement 4 is incorrect. Muhammad Qutb was his nephew and son-in-law, not his son. During his reign Golconda embraced the whole of Andhra Pradesh, and he invited Persian families to settle in Hyderabad and Machilipatnam. Mir Mamin Astrabadi was a scholar at his court, and Telaganarya dedicated Yayaticharitra to him.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Muhammad Quli Qutb Shah",
+    "page": 16,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [16],
+    "unit": 1,
+    "q_no": 11,
+    "unit_q_no": 11
+  },
+  {
+    "q": "Consider the following statements regarding the Qutb Shahis and the Mughals up to the reign of Muhammad Qutb Shah (1612–1626):\n1. Akbar tried diplomacy to extend control over the Deccan, but Muhammad Quli refused to become a vassal.\n2. In one of his farmans, Jahangir addressed the Sultan of Golconda as his son.\n3. Prince Kurram (later Shahjahan) defeated Malik Ambar in the Battle of Balaghat.\n4. Muhammad Qutb laid the foundation of the Mecca Masjid, which was completed by his successors.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): All four statements are drawn directly from the text. After the Mughal success against Ahmadnagar, Jahangir obtained the subordinate alliance of Bijapur and Golconda. Muhammad Qutb ruled for fourteen years and died in 1626. His son Abdullah Qutb Shah succeeded him.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Muhammad Qutb Shah and the Mughals",
+    "page": 18,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [16, 18],
+    "unit": 1,
+    "q_no": 12,
+    "unit_q_no": 12
+  },
+  {
+    "q": "Consider the following statements regarding the settlement between Aurangzeb and Abdullah Qutb Shah after the Mughal invasion of Golconda:\nI. The Sultan agreed to pay 16 lakh rupees as war indemnity and also to pay tribute.\nII. Abdullah agreed to give his daughter in marriage to Prince Muhammad, the son of Aurangzeb.\nIII. The property of Mir Jumla that the Sultan had confiscated was restored.\nIV. Shahjahan encouraged Aurangzeb to complete the conquest of Golconda.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Statements I, II and III are the three treaty provisions. Statement IV is wrong because when victory was in sight, Shahjahan ordered Aurangzeb to stop the seizure of Golconda. As a result, Abdullah became a subordinate of the Mughal emperor.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Abdullah Qutb Shah – treaty with Aurangzeb",
+    "page": 20,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [20],
+    "unit": 1,
+    "q_no": 13,
+    "unit_q_no": 13
+  },
+  {
+    "q": "Assertion (A): Aurangzeb, as the Mughal viceroy of the Deccan, invaded Golconda in 1637.\nReason (R): Abdullah Qutb Shah had failed to pay the stipulated tribute under the 1636 treaty and had conquered parts of Karnataka without the permission of the Mughal emperor.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): The text cites non-payment of tribute and the unauthorised Karnataka conquest as Aurangzeb's grounds, and he demanded a heavy fine. The defection of Mir Jumla, who conquered Karnataka at Abdullah's instance and then sought Aurangzeb's help, precipitated the matter. The Mughal emperor Shahjahan eventually stopped the seizure.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Abdullah Qutb Shah – Mughal invasion of 1637",
+    "page": 20,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [18, 20],
+    "unit": 1,
+    "q_no": 14,
+    "unit_q_no": 14
+  },
+  {
+    "q": "Consider the following statements regarding the causes of Aurangzeb's attack on Golconda during the reign of Abul Hasan:\n1. Abul Hasan was a Shia, whereas Aurangzeb was a Sunni.\n2. The Sultan of Golconda was a friend and ally of Shivaji, the arch-enemy of Aurangzeb.\n3. Abul Hasan supported the cause of Bijapur when Aurangzeb attacked it.\n4. Abul Hasan had failed to pay the tribute stipulated in the treaty of 1636.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Statement 4 is a trap. Non-payment of tribute under the 1636 treaty was the grievance against Abdullah Qutb Shah, not Abul Hasan. For Abul Hasan, the text lists his Shia faith, friendship with Shivaji, the appointment of Akkanna and Madanna, and support to Bijapur.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Abul Hasan – causes of Mughal attack",
+    "page": 22,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [20, 22],
+    "unit": 1,
+    "q_no": 15,
+    "unit_q_no": 15
+  },
+  {
+    "q": "Assertion (A): Abul Hasan, the last Qutb Shahi sultan, was an incompetent ruler who neglected administration and religious toleration.\nReason (R): He appointed Madanna and Akkanna to high office and maintained cordial relations with Shivaji, even supporting his southern campaigns.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): The textbook calls Abul Hasan an excellent administrator who followed a policy of religious toleration. It says the 'pleasure hunter' label comes from Aurangzeb and Mughal historians and should not be given much credence as biased opinion. Assertion (A) is therefore false, while Reason (R) is a true statement that actually supports his enlightened rule.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Abul Hasan (Tanishah)",
+    "page": 20,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [20, 22],
+    "unit": 1,
+    "q_no": 16,
+    "unit_q_no": 16
+  },
+  {
+    "q": "After a prolonged siege by Muazzam and later by Aurangzeb himself had failed, Aurangzeb finally gained entry into the Golconda fort in 1687 through:",
+    "o": [
+      "Undermining the fort walls with explosives",
+      "Starving the garrison after cutting off its water supply",
+      "Bribery and the treachery of a garrison officer who opened the gates",
+      "A negotiated surrender by Abul Hasan"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): The siege operations failed, so Aurangzeb resorted to bribery and gained admittance through the treachery of one of the garrison officers, who opened the gates of the fort. Abul Hasan was captured and imprisoned, and Golconda was annexed to the Mughal Empire in 1687.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Fall of Golconda (1687)",
+    "page": 22,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [22],
+    "unit": 1,
+    "q_no": 17,
+    "unit_q_no": 17
+  },
+  {
+    "q": "Arrange the following events in the correct chronological order:\n1. Planning and layout of the city of Hyderabad\n2. Declaration of independence by Quli Qutb Shah at Golconda\n3. Battle of Tallikota\n4. Annexation of Golconda to the Mughal Empire",
+    "o": [
+      "2 – 3 – 1 – 4",
+      "2 – 1 – 3 – 4",
+      "3 – 2 – 1 – 4",
+      "2 – 3 – 4 – 1"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Quli Qutb Shah declared independence in 1518. The Battle of Tallikota was fought in 1565 under Ibrahim. Hyderabad was laid out in 1591 under Muhammad Quli. Aurangzeb annexed Golconda in 1687. The sequence is 2, 3, 1, 4.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Qutb Shahi chronology",
+    "page": 14,
+    "photo": null,
+    "question_type": "Chronology",
+    "source_pages": [8, 14, 16, 22],
+    "unit": 1,
+    "q_no": 18,
+    "unit_q_no": 18
+  },
+  {
+    "q": "Consider the following statements regarding the evolution of composite culture under the Qutb Shahis:\n1. The Qutb Shahi rulers admired Persian art and literature and welcomed Iranian scholars, poets and architects.\n2. Ibrahim Quli Qutb Shah, after his long stay at the Vijayanagara court, picked up Indian socio-cultural norms and traditions.\n3. Persian social norms became Indianised to a great extent during this period.\n4. The composite culture attained its fullest fruition during the reign of Quli Qutb Shah, the founder.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 3 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.3): Statement 4 is incorrect. The textbook says the composite culture reached its fullest fruition during the reigns of Abdullah Qutb Shah and Abul Hasan, the last ruler of the dynasty, not under the founder. The period saw a soft blending of Persian cultural trends with Indian social norms, and literature, architecture and rituals show a fusion of foreign and local traditions.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Evolution of composite culture",
+    "page": 8,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [8],
+    "unit": 1,
+    "q_no": 19,
+    "unit_q_no": 19
+  },
+  {
+    "q": "Assertion (A): The Qutb Shahi rulers appointed non-Muslims to posts of prominence in the administration.\nReason (R): The Qutb Shahi sultans belonged to the Shia sect of Islam.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Sections 1.5 and 1.6): Both statements are factual. However, the textbook explains the appointments by the policy of religious toleration. It says their strength lay in the willing cooperation of the mostly Hindu natives. Being Shia does not explain hiring Hindus. Examples include Madanna as prime minister under Abul Hasan, Gopanna at Bhadrachalam and Murahari Rao under Ibrahim.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Religious policy and administration",
+    "page": 28,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [26, 28, 32],
+    "unit": 1,
+    "q_no": 20,
+    "unit_q_no": 20
+  },
+  {
+    "q": "Consider the following statements regarding the territorial administration of the Qutb Shahi kingdom:\n1. The principal divisions were Tarafs (provinces), Sarkars (districts), Paraganas (talukas) and villages.\n2. A Tarafdar headed a Taraf, and Sarkars were under Fauzdars assisted by Havaldars.\n3. Paraganas were controlled by officers such as Deshpande, Deshmukh, Thanadar, Majumdar and Kulkarni.\n4. Village administration was in the hands of the Muqaddam, the Karanam and the village-elders' Panchayat.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.5): All four statements reproduce the textbook's description. Havaldars were also in charge of ports, where the principal ports were under officers like the Shah Bandar.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Administration – territorial divisions",
+    "page": 24,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [22, 24],
+    "unit": 1,
+    "q_no": 21,
+    "unit_q_no": 21
+  },
+  {
+    "q": "Match the Qutb Shahi officers (List I) with their duties (List II):\n\nList I (Officer):\nA. Shariat Panch\nB. Mazlis\nC. Mahasib (Mustasib)\nD. Havaldar (Shah Bandar)\n\nList II (Duty):\n1. Chief Justice\n2. In charge of civil cases\n3. In charge of public morals\n4. In charge of ports",
+    "o": [
+      "A-2, B-1, C-3, D-4",
+      "A-1, B-3, C-2, D-4",
+      "A-1, B-2, C-3, D-4",
+      "A-1, B-2, C-4, D-3"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.5, officers table): The Shariat Panch was the Chief Justice and had to be a minister. The Mazlis handled civil cases. Mahasibs or Mustasibs looked after public morals, performing functions similar to the Mustasibs of Aurangzeb. The Havaldar, also called Shah Bandar, was in charge of ports.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Administration – officers and duties",
+    "page": 26,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [24, 26],
+    "unit": 1,
+    "q_no": 22,
+    "unit_q_no": 22
+  },
+  {
+    "q": "Consider the following statements regarding the revenue administration of the Qutb Shahis:\n1. Land revenue was the main source of income for the state.\n2. The right to collect land revenue in an area was auctioned publicly to the highest bidder.\n3. The tax farmer was legally restricted to collecting only the amount fixed by the state from the peasants.\n4. Customs dues formed another important source of revenue.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1, 2 and 4 only",
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.5): Statement 3 is incorrect. The tax farmer paid the auctioned amount to the state but was allowed to collect from peasants whatever he desired. This led to peasant exploitation and mass migration of peasants to places of safety on many occasions.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Revenue administration – tax farming",
+    "page": 24,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [24],
+    "unit": 1,
+    "q_no": 23,
+    "unit_q_no": 23
+  },
+  {
+    "q": "Assertion (A): Tax farming was the principal feature of Qutb Shahi revenue administration.\nReason (R): The successful bidder at the public auction was legally bound to collect only the rate fixed by the state, which protected the peasantry from exploitation.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.5): Tax farming was indeed the principal feature. But the bidder was allowed to collect from peasants whatever he desired, which paved the way for peasant exploitation and mass migration. Reason (R) therefore reverses the facts.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Revenue administration – tax farming",
+    "page": 24,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [24],
+    "unit": 1,
+    "q_no": 24,
+    "unit_q_no": 24
+  },
+  {
+    "q": "Consider the following statements regarding the defence administration of the Qutb Shahis:\n1. The early rulers never maintained a standing army and depended on feudal levies from nobles and Jagirdars.\n2. The main wings of the army were infantry, cavalry and artillery.\n3. Foreigners were honoured and rewarded with high ranks and attractive service conditions, and the army accorded importance to merit.\n4. Under Abul Hasan, the dependence on feudal levies supplied by nobles increased further.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.5): Statement 4 is the reverse of the facts. During Abul Hasan's time the sultan depended more on a standing army than on feudal levies supplied by nobles and Jagirdars. The Qutb Shahi army was multiracial, multilingual and multiethnic.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Defence administration",
+    "page": 24,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [24],
+    "unit": 1,
+    "q_no": 25,
+    "unit_q_no": 25
+  },
+  {
+    "q": "Assertion (A): The Qutb Shahi sultans relied mainly on a permanent standing army throughout the dynasty's rule.\nReason (R): The army was largely raised through feudal levies supplied by nobles and Jagirdars, and only Abul Hasan's time saw a shift towards a standing army.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.5): The Qutb Shahi rulers never maintained a standing army and depended on feudal levies. Only under Abul Hasan did the sultan begin to depend more on a standing army. Assertion (A) is false and Reason (R) is true.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Defence administration",
+    "page": 24,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [24],
+    "unit": 1,
+    "q_no": 26,
+    "unit_q_no": 26
+  },
+  {
+    "q": "Consider the following statements regarding the judicial administration of the Qutb Shahis:\n1. It was based on Shariat, royal farmans and local traditions drawn from Hindu law.\n2. The decision of the Sultan was final.\n3. The Qazi, and not the Shariat Panch, was the highest judicial officer next to the Sultan.\n4. Sultan Muhammad Quli established the 'Aman Mahal' (Hall of Peace) to know people's grievances personally.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1, 2 and 4 only",
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.5): Statement 3 is wrong. Next to the Sultan, judicial powers were enjoyed by the Shariat Panch, the chief justice, who had to be a minister. The Qazi ranked below him. The text also notes that lower officials often decided cases arbitrarily, as recorded in the accounts of travellers.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Judicial administration",
+    "page": 24,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [24, 26],
+    "unit": 1,
+    "q_no": 27,
+    "unit_q_no": 27
+  },
+  {
+    "q": "Qutb Shahi rulers followed the policy of appointing non-Muslims to prominent posts. Which of the following pairs is NOT correctly matched?",
+    "o": [
+      "Quli Qutb Shah – Ramaraju occupied a position of prominence",
+      "Jamshid – patronised Jagadekarao and gave him an important post",
+      "Ibrahim Qutb Shah – Murahari Rao became a popular personality",
+      "Abdullah Qutb Shah – Madanna served as prime minister"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.5): Madanna was the prime minister of Abul Hasan, the last sultan, along with Akkanna. During Abdullah's time, Brahmins occupied important positions in the administration. Gopanna was the revenue officer in charge of the Bhadrachalam region.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Non-Muslims in administration",
+    "page": 26,
+    "photo": null,
+    "question_type": "Negative (NOT)",
+    "source_pages": [26, 28],
+    "unit": 1,
+    "q_no": 28,
+    "unit_q_no": 28
+  },
+  {
+    "q": "Consider the following statements regarding the social structure under the Qutb Shahis:\nI. Muslims, Hindus and Christians lived together, and the sultans themselves were Shias.\nII. Brahmanas held a prominent position and acted as ministers, commanders and tax farmers.\nIII. Vaisyas monopolised trade and commerce, and European trading companies purchased goods through them.\nIV. Sudras formed a small minority confined to trade and accounting.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.6): Statements I, II and III are accurate. Statement IV is wrong because Sudras were the agriculturists who also served nobles and acted as soldiers, and they formed the bulk of the population. Accounting and mathematics were the Vaisyas' expertise.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Social structure",
+    "page": 28,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [28],
+    "unit": 1,
+    "q_no": 29,
+    "unit_q_no": 29
+  },
+  {
+    "q": "Consider the following statements regarding the position of women in the Qutb Shahi period:\nI. Hindu women, according to foreign testimony, enjoyed a considerable amount of social freedom.\nII. Muslim women followed the purdah system.\nIII. Widows were treated respectfully, as the practice of Sati was almost absent.\nIV. The Qutb Shahis banned Sati by law throughout the kingdom.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Sections 1.6 and religious policy): Only I and II are correct. The position of widows was deplorable owing to the prevalence of Sati. The Qutb Shahis tried to stop it but never made it law for fear of revolt by the Hindus, who attached importance to the custom.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Position of women",
+    "page": 28,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [28, 32],
+    "unit": 1,
+    "q_no": 30,
+    "unit_q_no": 30
+  },
+  {
+    "q": "According to the French traveller Tavernier, who visited the Golconda kingdom in the later seventeenth century, the number of courtesans, who paid taxes to the state and were expected to dance in the court, was nearly:",
+    "o": [
+      "Twenty thousand",
+      "Two thousand",
+      "Five thousand",
+      "Fifty thousand"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.6): Tavernier's works mention nearly twenty thousand courtesans in the Golconda kingdom. They became a source of revenue because the state taxed them and the shops attached to their houses.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Courtesans and state revenue",
+    "page": 30,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [30],
+    "unit": 1,
+    "q_no": 31,
+    "unit_q_no": 31
+  },
+  {
+    "q": "Consider the following statements regarding the economy of the Golconda kingdom:\nI. Machilipatnam was famous for producing the finest quality of muslin.\nII. According to Tavernier, the famous Kohinoor diamond was discovered in the diamond mines of Kolluru.\nIII. Paritala, Malapalli and Golapalli were famous for diamond mines.\nIV. Banaganapalli, Munimadugu and Timmapuram, famous for diamonds, are in the present Guntur district.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.6): Statements I, II and III are correct. Statement IV is wrong because the diamond-producing places Banaganapalli, Munimadugu and Timmapuram are located in the present Kurnool district. The Kohinoor is stated in the text to have weighed 500 carats at discovery.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Economy – muslin and diamonds",
+    "page": 30,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [30],
+    "unit": 1,
+    "q_no": 32,
+    "unit_q_no": 32
+  },
+  {
+    "q": "Muhammad Quli Qutb Shah maintained friendly relations with the Shah of Persia and encouraged trade guilds. The English East India Company was permitted by him to establish a trade centre at Machilipatnam in:",
+    "o": [
+      "1591",
+      "1611",
+      "1626",
+      "1636"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.6): Muhammad Quli permitted the English to set up trade centres at Machilipatnam in 1611. The year 1591 is the layout of Hyderabad, and 1636 is associated with the Golden Farman and the treaty with the Mughals.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Economy – English at Machilipatnam",
+    "page": 30,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [30],
+    "unit": 1,
+    "q_no": 33,
+    "unit_q_no": 33
+  },
+  {
+    "q": "Consider the following statements regarding the religious policy of the Qutb Shahis:\n1. Abul Hasan gave munificent grants for the maintenance of the Rama temple at Bhadrachalam.\n2. The Qutb Shahis even gave agraharas to Brahmanas.\n3. Hindu decorative motifs such as the purnakumbha are found in some Muslim buildings.\n4. Sultan Muhammad Quli composed verses pointing out similarities in Muslim and Hindu marriage customs.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.6, Religious Policy): All four statements are directly stated. The Qutb Shahis also believed in astrology, eclipses and auspicious times, reflecting their closeness to Hindu customs.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Religious policy",
+    "page": 32,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [32],
+    "unit": 1,
+    "q_no": 34,
+    "unit_q_no": 34
+  },
+  {
+    "q": "Consider the following statements regarding the growth of Deccan Urdu under the Qutb Shahis:\n1. Urdu was an admixture of Persian, Sanskrit and Marathi words and expressions.\n2. The Deccan sultans developed Urdu poets partly as a protest against the north Indian Persian language.\n3. Sufi saints helped spread Urdu by preaching in an easily understandable language.\n4. Urdu reached new heights during the reign of Muhammad Quli.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.7): Statement 4 is incorrect. Urdu reached new heights during the time of Abdullah, who was himself a great poet in that language. Muhammad Quli was an expert in Persian and composed Deccan Urdu poems, but the text credits Abdullah's period with Urdu's peak. The Deccan became the cradle of the Urdu language.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Literature – Deccan Urdu",
+    "page": 32,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [32, 34],
+    "unit": 1,
+    "q_no": 35,
+    "unit_q_no": 35
+  },
+  {
+    "q": "Match the scholars and poets (List I) with their contributions (List II):\n\nList I (Person):\nA. Ponnaganti Telaganarya\nB. Addanki Gangadhara Kavi\nC. Shaikh Akbar\nD. Mir Mamin Astrabadi\n\nList II (Contribution):\n1. Author of Yayaticharitra\n2. Author of Tapati Samvaranopakhyanam\n3. Translated Sringaramanjari into Sanskrit\n4. Scholar and philosopher at the court of Muhammad Quli",
+    "o": [
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-1, C-3, D-4",
+      "A-1, B-2, C-4, D-3",
+      "A-1, B-3, C-2, D-4"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Sections 1.4 and 1.7): Telaganarya wrote Yayaticharitra, and Gangadhara Kavi wrote Tapati Samvaranopakhyanam. Both were patronised by Ibrahim. Shaikh Akbar translated Rangasai's Sringaramanjari into Sanskrit, illustrating that Muslims of the period mastered Telugu and Sanskrit. Mir Mamin Astrabadi was a great scholar in Muhammad Quli's court.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Literature – poets and scholars",
+    "page": 34,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [16, 34],
+    "unit": 1,
+    "q_no": 36,
+    "unit_q_no": 36
+  },
+  {
+    "q": "According to Dr. Yazdani, the Quran verses around the prayer niche of the Jami Masjid are a good specimen of which style of calligraphy?",
+    "o": [
+      "Nastaliq",
+      "Kufic",
+      "Ornamental Naskh",
+      "Devanagari"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.7): Calligraphy assumed special significance under the Deccan rulers. The inscription on the detached gateway of the Jami Masjid is described as perhaps the finest example of Nastaliq in the Deccan, while the Quran verses around the prayer niche are a specimen of ornamental Naskh. Most calligraphers were Persians.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Architecture – calligraphy",
+    "page": 36,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [34, 36],
+    "unit": 1,
+    "q_no": 37,
+    "unit_q_no": 37
+  },
+  {
+    "q": "Consider the following statements regarding the architectural contributions of Muhammad Quli Qutb Shah:\n1. The city of Hyderabad was laid out in 1591 with geometrical accuracy, with straight roads and civic amenities.\n2. The city was originally named Bhagyanagar after the sultan's dancer-concubine, Baghmati.\n3. Important buildings such as the Charminar, Jami Masjid and Chandanamahal are works of this sultan.\n4. The Mecca Masjid was completed by him.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Sections 1.4 and 1.7): Statement 4 is incorrect. The foundation of the Mecca Masjid was laid by Muhammad Qutb Shah, his successor, and it was completed by later rulers. Muhammad Quli also built a dam across the Musi and raised gardens around the city. The Qutb Shahi tombs near Banjara Darwaza are famed for their architecture.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Architecture – Hyderabad",
+    "page": 36,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [16, 36],
+    "unit": 1,
+    "q_no": 38,
+    "unit_q_no": 38
+  },
+  {
+    "q": "According to the textbook, Hussain Sagar was constructed in 1562 by:",
+    "o": [
+      "Hussain Shah Wali, a Sufi saint and son-in-law of Ibrahim Quli Qutb Shah",
+      "Muhammad Quli Qutb Shah, as part of the layout of Hyderabad",
+      "Quli Qutb Shah, to supply water to the Golconda fort",
+      "Abdullah Qutb Shah, after the treaty with the Mughals"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.7): The text states that Hussain Sagar was constructed by Hussain Shah Wali, a famous Sufi saint and son-in-law of Ibrahim Quli Qutb Shah, in 1562 CE. The date falls within Ibrahim's reign (1550–1580), not Muhammad Quli's.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Architecture – Hussain Sagar",
+    "page": 36,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [36],
+    "unit": 1,
+    "q_no": 39,
+    "unit_q_no": 39
+  },
+  {
+    "q": "After the death of Aurangzeb, a Mughal subedar defied the Mughal authority and established the independent state of Hyderabad in 1724. He was the founder of which dynasty?",
+    "o": [
+      "Qutb Shahi dynasty",
+      "Adil Shahi dynasty",
+      "Asaf Jah dynasty",
+      "Nizam Shahi dynasty"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.7): Nizam-ul-Mulk, one of the Mughal subedars, exploited the weakness of the later Mughal emperors and established the independent state of Hyderabad in 1724, founding the Asaf Jah dynasty. The Nizam Shahi dynasty was the earlier Ahmadnagar line.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Post-Qutb Shahi Hyderabad",
+    "page": 36,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [36],
+    "unit": 1,
+    "q_no": 40,
+    "unit_q_no": 40
+  },
+  {
+    "q": "Consider the following statements regarding the background to European arrival in India:\nI. The Asian part of the overseas and overland trade was carried mostly by Arab merchants, while the European part was monopolised by the Italians.\nII. The Ottoman occupation of Constantinople in 1453 brought the old routes under Turkish control.\nIII. The merchants of Venice and Genoa willingly shared the trade with Spain and Portugal.\nIV. The Cape route to India was discovered by Columbus in 1498.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.8): Only I and II are correct. Venice and Genoa refused to let Spain and Portugal share the trade, which pushed them to seek new sea routes. Vasco da Gama of Portugal discovered the all-sea Cape route in 1498, while Columbus of Spain, who set out to reach India, discovered America.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "European advent – background",
+    "page": 38,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [36, 38],
+    "unit": 1,
+    "q_no": 41,
+    "unit_q_no": 41
+  },
+  {
+    "q": "Consider the following statements regarding the Portuguese in India:\nI. Francisco de Almeida was the first governor of the Portuguese possessions in India.\nII. Almeida's 'blue water policy' stressed supremacy at sea and trade rather than a territorial empire.\nIII. Alfonso de Albuquerque, his successor, reversed this policy.\nIV. The Portuguese first settled at Cochin with the help of the Gajapatis of Orissa.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.8): Statements I, II and III are correct. Statement IV is wrong because the Portuguese first settled at Calicut, where the Zamorin extended support, and only afterwards set up centres at Cochin, Goa, Diu and Daman. Note that the reversal of the blue water policy is credited to Albuquerque, not Almeida.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Portuguese – blue water policy",
+    "page": 38,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [38, 40],
+    "unit": 1,
+    "q_no": 42,
+    "unit_q_no": 42
+  },
+  {
+    "q": "Which of the following was NOT cited in the textbook as a cause of the failure of the Portuguese in India?",
+    "o": [
+      "The destruction of their naval superiority by the Zamorin of Calicut within a decade of their arrival",
+      "Their practice of combining the use of force with trade",
+      "The annexation of Portugal by Philip II of Spain, whose interest lay in Brazil and not India",
+      "Their religious intolerance, including forceful conversions"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.8): The causes listed are the combination of force with trade, the neglect of trade in pursuit of territorial empire and interference in native politics, Philip II's annexation of Portugal, religious fanaticism and cruelty, and finally the arrival of the Dutch as competitors. The Zamorin actually supported the Portuguese initially.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Portuguese – causes of failure",
+    "page": 40,
+    "photo": null,
+    "question_type": "Negative (NOT)",
+    "source_pages": [38, 40],
+    "unit": 1,
+    "q_no": 43,
+    "unit_q_no": 43
+  },
+  {
+    "q": "Assertion (A): The Dutch began to seek eastern products directly for themselves in the 1590s.\nReason (R): In 1594, Philip II, ruler of Spain and Portugal, issued an edict preventing the entry of Dutch ships into Lisbon and other ports of his empire, thereby denying them access to spices.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.8): Philip II's edict cut the Dutch off from the spice supply, so they decided to seek out the eastern products themselves. The Dutch were by then in a position to venture east, aided by information such as that from Van Linschoten, who returned in 1592.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Dutch – arrival",
+    "page": 40,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [40],
+    "unit": 1,
+    "q_no": 44,
+    "unit_q_no": 44
+  },
+  {
+    "q": "Consider the following statements regarding the Dutch in Andhra:\n1. Van Linschoten, a Dutch traveller, spent nine years in Southeast Asia and returned home in 1592.\n2. The Dutch referred to the Northern Circars region of the Andhra coast as the 'Gingelly coast'.\n3. The Dutch East India Company (VOC) established seven trading centres on the Andhra coast and made trade agreements with the Qutb Shahis in the first decade of the 17th century.\n4. Wanting a spice monopoly, the Dutch concentrated on the East Indies rather than India, where their factories included those at Surat, Machilipatnam and Petapoli.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.8): All four statements are in the text. Other Dutch settlements included Nagapattinam, Narasapuram, Bheemunipatnam and Chinsurah. The Dutch converted the Andhra hinterland into a great commercial zone, which helped them continue until the end of the eighteenth century.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Dutch settlements in Andhra",
+    "page": 40,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [40, 42],
+    "unit": 1,
+    "q_no": 45,
+    "unit_q_no": 45
+  },
+  {
+    "q": "Match the personalities (List I) with their roles in the Anglo-French rivalry (List II):\n\nList I (Person):\nA. Dupleix\nB. Robert Clive\nC. Bussy\nD. Count de Lally\n\nList II (Role):\n1. French Governor who occupied Madras, where the British had built Fort St. George\n2. Called 'The Hero of Arcot'\n3. French general who installed Salabat Jang on the Hyderabad throne\n4. Sent as French military general in the Third Carnatic War and executed in France after defeat",
+    "o": [
+      "A-2, B-1, C-3, D-4",
+      "A-1, B-2, C-3, D-4",
+      "A-1, B-2, C-4, D-3",
+      "A-1, B-3, C-2, D-4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.9): Dupleix occupied Madras during the First Carnatic War. Robert Clive earned the title 'Hero of Arcot' for his heroic battle at Arcot in the Second War. Bussy installed Salabat Jang after Muzaffar Jang's death. Count de Lally was sent as general in 1756, was defeated, and was executed in France for losing to the British, though honoured posthumously.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Anglo-Carnatic Wars – personalities",
+    "page": 42,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [42, 44],
+    "unit": 1,
+    "q_no": 46,
+    "unit_q_no": 46
+  },
+  {
+    "q": "Match the claimants (List I) with the positions or results associated with them in the Second Anglo-Carnatic War (List II):\n\nList I (Person):\nA. Chanda Saheb\nB. Mohammad Ali\nC. Muzaffar Jung\nD. Salabat Jang\n\nList II (Position / Result):\n1. Made Nawab of the Carnatic by the British after the attack on Arcot\n2. Made Nawab of Arcot with French support after Anwaruddin was killed\n3. Nizam who gave the French territories including Machilipatnam and a large sum of money\n4. Installed on the Hyderabad throne by Bussy after Muzaffar Jang's death",
+    "o": [
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-1, C-4, D-3",
+      "A-2, B-1, C-3, D-4",
+      "A-2, B-3, C-1, D-4"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.9): After Asaf Jah I died in 1748, Nasir Jung (backed by the British) and Muzaffar Jung (backed by the French with Chanda Saheb) contested the throne. The French, with Chanda Saheb and Muzaffar Jung, killed Anwaruddin and made Chanda Saheb Nawab of Arcot. Muzaffar Jung ceded Machilipatnam and money to the French. After Muzaffar Jang was killed in 1751, Bussy installed Salabat Jang. The British then attacked Arcot, killed Chanda Saheb and made Mohammad Ali Nawab of the Carnatic.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Second Anglo-Carnatic War",
+    "page": 44,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [44],
+    "unit": 1,
+    "q_no": 47,
+    "unit_q_no": 47
+  },
+  {
+    "q": "Assertion (A): The recall of Bussy from Hyderabad to assist Lally at Madras benefited the British in coastal Andhra.\nReason (R): After Bussy left, Robert Clive brought Salabat Jung, the Nizam of Hyderabad, under his control, and Salabat Jang gave the British all the northern coastal districts up to the Krishna district.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.9): Bussy knew his departure would help the British but had to obey Lally's order. Taking advantage of this, Clive took Salabat Jung under his control, and Salabat Jang ceded the northern coastal districts up to Krishna. This was the origin of British control over the Northern Circars.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Occupation of Northern Circars",
+    "page": 44,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [44, 46],
+    "unit": 1,
+    "q_no": 48,
+    "unit_q_no": 48
+  },
+  {
+    "q": "Consider the following statements regarding the Third Anglo-Carnatic War (1756–1763):\n1. It was the Indian counterpart of the Seven Years' War in Europe, and Count de Lally was sent as the French military general.\n2. The British defeated the French in the Battle of Wandiwash in 1760 and occupied Pondicherry.\n3. Lally and Bussy surrendered to the British.\n4. Lally was immediately acquitted and honoured on his return to France.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.9): Statement 4 is incorrect. Lally was kept as a prisoner in England for two years, then sent back to France, where he was executed for losing to the British. He was honoured only posthumously. Lally's attempt to capture Madras failed, and French power diminished considerably.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Third Anglo-Carnatic War",
+    "page": 46,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [44, 46],
+    "unit": 1,
+    "q_no": 49,
+    "unit_q_no": 49
+  },
+  {
+    "q": "Consider the following statements regarding the Northern Circars after British acquisition:\n1. The lands were divided into two categories: Zamindari and Haveli (government).\n2. The land assessment was one-fifth of the produce.\n3. Zamindars collected sunkams (customs on articles such as food, cattle and salt), and a loom tax called moturpha was also levied.\n4. The region produced rice in abundance and fine teak used in shipbuilding, and the shipbuilding industry at Corinka could withstand outside competition.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.9): All four statements are in the text. The Zamindars were notorious for oppressing the peasantry, and sunkams hampered the growth of industry and commerce. Inland commerce and maritime exports of the Circar region were about 75 lakhs a year, and the fishing industry was also highly developed.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Northern Circars – revenue and economy",
+    "page": 46,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [46],
+    "unit": 1,
+    "q_no": 50,
+    "unit_q_no": 50
+  },
+  {
+    "q": "Consider the following statements regarding the rulers of the Bahmani kingdom:\nI. Eighteen rulers ruled the Bahmani kingdom.\nII. Five of them were murdered.\nIII. Two of them were blinded.\nIV. Four of them were deposed.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.2): Of the 18 Bahmani rulers, five were murdered, two died of intemperance, three were deposed and two were blinded. Statement IV is wrong because only three were deposed. This record of instability, together with tyranny and incompetence, sounded the death knell of the kingdom.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Bahmani background – instability",
+    "page": 4,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [3, 4],
+    "unit": 1,
+    "q_no": 51,
+    "unit_q_no": 51
+  },
+  {
+    "q": "Match the successor states of the Bahmani kingdom (List I) with their ruling dynasties (List II):\n\nList I (Kingdom):\nA. Ahmadnagar\nB. Golconda\nC. Bijapur\nD. Bidar\n\nList II (Dynasty):\n1. Qutb Shahi\n2. Barid Shahi\n3. Adil Shahi\n4. Nizam Shahi",
+    "o": [
+      "A-4, B-1, C-3, D-2",
+      "A-1, B-4, C-3, D-2",
+      "A-4, B-1, C-2, D-3",
+      "A-3, B-1, C-4, D-2"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Sections 1.2, 1.4 and the model questions in 1.11): Ahmadnagar was under the Nizam Shahis, Golconda under the Qutb Shahis, Bijapur under the Adil Shahis and Bidar under the Barid Shahis. The Bahmani kingdom split after Muhammad Gawan's execution in 1482. Quli Qutb Shah broke away in Telangana, and the Barid Shahis of Bidar occupied what remained of the Bahmani kingdom.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Bahmani successor states",
+    "page": 50,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [3, 4, 50],
+    "unit": 1,
+    "q_no": 52,
+    "unit_q_no": 52
+  },
+  {
+    "q": "Assertion (A): Muhammad Shah III (1482–1518) ruled the Bahmani kingdom with firm central authority.\nReason (R): The sultan's incompetence, court cliques and the designs of Amir Ali Barid, 'the cunning fox of Deccan', set in motion forces of disintegration that Quli Qutb Shah exploited to carve out his own kingdom.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.2): The textbook calls Muhammad Shah III an imbecile sultan who spent much of his time with buffoons and fiddlers. His incompetence, the cliques at court and Amir Ali Barid's activities weakened the kingdom, and Quli Qutb Shah systematically exploited these forces to assert independence. Assertion (A) is false and Reason (R) is true.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Bahmani background – Muhammad Shah III",
+    "page": 4,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [4, 6],
+    "unit": 1,
+    "q_no": 53,
+    "unit_q_no": 53
+  },
+  {
+    "q": "Consider the following statements regarding Sultan Quli Qutb Shah:\nI. He was appointed governor of Telangana in 1492 under the Bahmanis.\nII. He received the title 'Qutb Shah' after the dynasty attained independence.\nIII. He declared independence in 1518 after the death of his patron king Muhammad Shah.\nIV. He extended his territory up to the seaport of Visakhapatnam.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Statements I, II and III are correct. Statement IV is wrong because he extended the territory up to the seaport of Masulipatnam (Machilipatnam). He controlled Telangana for nearly sixty years, first as governor and then as an independent king.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Quli Qutb Shah – career",
+    "page": 8,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [6, 8],
+    "unit": 1,
+    "q_no": 54,
+    "unit_q_no": 54
+  },
+  {
+    "q": "Quli Qutb Shah was a contemporary of several rulers. Which of the following was NOT his contemporary according to the textbook?",
+    "o": [
+      "Sri Krishnadevaraya of Vijayanagara",
+      "Babur, the founder of the Mughal dynasty",
+      "Sher Shah Suri",
+      "Akbar, the Mughal emperor"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Quli Qutb Shah is described as a contemporary of Sri Krishnadevaraya and Achyutadevaraya of Vijayanagara, Babur and Humayun of the Mughals, and Sher Shah Suri. Akbar belongs to a later period. Akbar's diplomacy towards the Deccan is mentioned in the reign of Muhammad Quli.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Quli Qutb Shah – contemporaries",
+    "page": 8,
+    "photo": null,
+    "question_type": "Negative (NOT)",
+    "source_pages": [8, 10],
+    "unit": 1,
+    "q_no": 55,
+    "unit_q_no": 55
+  },
+  {
+    "q": "After consolidating Telangana, Quli Qutb Shah proceeded to coastal Andhra and annexed Rajahmundry, Eluru and other regions by defeating the feudatories of:",
+    "o": [
+      "Sri Krishnadevaraya of Vijayanagara",
+      "The Gajapati king of Orissa",
+      "The Nizam Shahis of Ahmadnagar",
+      "The Barid Shahis of Bidar"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Quli Qutb Shah defeated the feudatories of the Gajapati king and annexed Rajahmundry, Eluru and other areas. Earlier he had defeated Shitab Khan of Warangal, who was a friend and ally of the Gajapatis of Orissa. These conquests made him master of Telangana and coastal Andhra, with the Krishna–Godavari region under his direct control.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Quli Qutb Shah – conquests",
+    "page": 10,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [8, 10],
+    "unit": 1,
+    "q_no": 56,
+    "unit_q_no": 56
+  },
+  {
+    "q": "Consider the following statements regarding Jamshid Quli Qutb Shah (1543–1550):\n1. He reigned for seven years and remained maligned for the murder of his father and elder brother.\n2. He was unpopular with his subjects although he was a good soldier and a man of learning.\n3. Allying with the sultans of Ahmadnagar and Bidar, he defeated the sultan of Bijapur and occupied Medak.\n4. He lost his throne to Ibrahim in a pitched battle at Golconda in 1550.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Statement 4 is incorrect. Jamshid died in 1550, after which the nobles split into two groups, one backing his son Subhan Quli and the other inviting Ibrahim from Vijayanagara. Ibrahim won the support of the nobles and people, came to Golconda and captured the throne. Jamshid had earlier defeated Ibrahim with the help of Burhan Nizam Shah.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Jamshid Quli – reign",
+    "page": 10,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [10, 12],
+    "unit": 1,
+    "q_no": 57,
+    "unit_q_no": 57
+  },
+  {
+    "q": "Ibrahim Qutb Shah, who took a leading part in forming an alliance of the Deccan sultans against Vijayanagara, married the daughter of:",
+    "o": [
+      "Ali Barid of Bidar",
+      "Ibrahim Adil Shah of Bijapur",
+      "Hussain Nizam Shah I of Ahmadnagar",
+      "Aliya Ramaraya of Vijayanagara"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Ibrahim married the daughter of Hussain Nizam Shah I of Ahmadnagar. Ibrahim and the Ahmadnagar sultan had supported Ramaraya against Bijapur earlier. The Ahmadnagar sultan later murdered Ramaraya on the field of Tallikota.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Ibrahim Qutb Shah – alliances",
+    "page": 12,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [12],
+    "unit": 1,
+    "q_no": 58,
+    "unit_q_no": 58
+  },
+  {
+    "q": "Assertion (A): Ibrahim Qutb Shah's reign promoted agriculture, trade and commerce in the Golconda kingdom.\nReason (R): He excavated canals, tanks and dams and developed communication facilities across the kingdom.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.4, Other measures of Ibrahim): Improved communication facilities paved the way for the development of trade and commerce. His canals, tanks and dams, such as those at Ibrahimpatnam and Hussainsagar, paved the way for the development of agriculture. He also punished robbers heavily to restore law and order.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Ibrahim Qutb Shah – welfare measures",
+    "page": 14,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [14],
+    "unit": 1,
+    "q_no": 59,
+    "unit_q_no": 59
+  },
+  {
+    "q": "When Akbar tried to extend his control over the Deccan through diplomacy, which of the following Deccan states alone was prepared to accept Mughal authority?",
+    "o": [
+      "Golconda",
+      "Bijapur",
+      "Ahmadnagar",
+      "Khandesh"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Except for Khandesh, no other Muslim state in the Deccan was prepared to accept Mughal authority. Muhammad Quli received the Mughal envoy and sent presents to Akbar but refused to become a vassal.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Qutb Shahis and the Mughals – Akbar",
+    "page": 16,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [16],
+    "unit": 1,
+    "q_no": 60,
+    "unit_q_no": 60
+  },
+  {
+    "q": "Assertion (A): Jahangir obtained the subordinate alliance of Bijapur and Golconda.\nReason (R): Ahmadnagar under Malik Ambar had earlier recovered its lost possessions and expelled the Mughals from that quarter.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Both statements are factual. However, Malik Ambar's recovery was a setback for the Mughals, not the reason for Bijapur and Golconda's submission. The text links the subordinate alliance to the Mughal success in Jahangir's two campaigns, when Prince Kurram defeated Malik Ambar at Balaghat and Mughal authority was established over Berar, Ahmadnagar and Balaghat.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Qutb Shahis and the Mughals – Jahangir",
+    "page": 18,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [16, 18],
+    "unit": 1,
+    "q_no": 61,
+    "unit_q_no": 61
+  },
+  {
+    "q": "Consider the following statements regarding Abdullah Qutb Shah and Shahjahan:\nI. Shahjahan departed from the policy of Akbar and Jahangir by deciding that there could be no peace for the Mughals while Ahmadnagar remained independent.\nII. Ahmadnagar was annexed to the Mughal Empire in 1635.\nIII. Abdullah acknowledged the Mughal supremacy and even struck coins in the name of Shahjahan.\nIV. The ruler of Bijapur readily accepted Shahjahan's authority without any resistance.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Statements I, II and III are correct. Statement IV is wrong because the ruler of Bijapur refused to submit and his territory was invaded by the Mughals. He was then forced to conclude a treaty and became a tributary of the Mughals. Aurangzeb was subsequently appointed governor of the Deccan.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Abdullah Qutb Shah and Shahjahan",
+    "page": 18,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [18, 20],
+    "unit": 1,
+    "q_no": 62,
+    "unit_q_no": 62
+  },
+  {
+    "q": "Who, at the instance of Abdullah Qutb Shah, conquered the Karnataka region, bought over nobles and commanders with the wealth he amassed, and finally sought Aurangzeb's help against his own patron?",
+    "o": [
+      "Mir Jumla",
+      "Malik Ambar",
+      "Muazzam",
+      "Murahari Rao"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Mir Jumla conquered Karnataka for Abdullah, accumulated wealth and used it to win over nobles and army commanders. He then defied the Sultan and turned to Aurangzeb. His property, confiscated by the Sultan, was restored under the treaty with Aurangzeb. Malik Ambar was the Ahmadnagar leader, and Muazzam was Aurangzeb's son who led the siege.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Abdullah Qutb Shah – Mir Jumla",
+    "page": 20,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [18, 20],
+    "unit": 1,
+    "q_no": 63,
+    "unit_q_no": 63
+  },
+  {
+    "q": "Consider the following statements regarding Abul Hasan's relations with Shivaji:\nI. Abul Hasan invited Shivaji to Hyderabad and gave him a rousing reception.\nII. He supported Shivaji's southern campaigns by sending troops and offering money.\nIII. Through this alliance, he lost Bellary and Gandikota to Shivaji.\nIV. He paid an annual tribute to Shivaji.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Statements I and II are correct. Statement III is reversed because Abul Hasan gained some important regions like Bellary and Gandikota through the cooperation. Statement IV has no basis in the text. This friendship with Shivaji, Aurangzeb's arch-enemy, was one of the causes of the Mughal attack on Golconda.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Abul Hasan and Shivaji",
+    "page": 22,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [20, 22],
+    "unit": 1,
+    "q_no": 64,
+    "unit_q_no": 64
+  },
+  {
+    "q": "Arrange the following events in the correct chronological order:\n1. Annexation of the Golconda kingdom to the Mughal Empire\n2. Annexation of Ahmadnagar by Shahjahan\n3. Defeat of Malik Ambar by Prince Kurram at Balaghat\n4. Invasion of Golconda by Aurangzeb as viceroy of the Deccan",
+    "o": [
+      "3 – 4 – 2 – 1",
+      "3 – 2 – 4 – 1",
+      "2 – 3 – 4 – 1",
+      "3 – 2 – 1 – 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): The Balaghat victory under Jahangir came first. Shahjahan annexed Ahmadnagar in 1635. Aurangzeb, as viceroy, invaded Golconda in 1637 (as dated in the textbook). Golconda was finally annexed in 1687. The sequence is 3, 2, 4, 1.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Qutb Shahis and the Mughals – chronology",
+    "page": 18,
+    "photo": null,
+    "question_type": "Chronology",
+    "source_pages": [16, 18, 20, 22],
+    "unit": 1,
+    "q_no": 65,
+    "unit_q_no": 65
+  },
+  {
+    "q": "According to the textbook, the composite culture of Golconda evolved from the synthesis of which cultures?",
+    "o": [
+      "Arabian, Turkish and Telugu",
+      "Persian, Maratha and Tamil",
+      "Deccan, Arabian and Kannada",
+      "Deccan, Persian and Telugu"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.3): Golconda, under the influence of Deccan, Persian and Telugu cultures, synthesised and evolved its own Andhra culture. The binding culture rested on religious tolerance, broad-mindedness and a humane outlook. Muslims and Hindus borrowed heavily from each other's traditions.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Evolution of composite culture",
+    "page": 8,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [8],
+    "unit": 1,
+    "q_no": 66,
+    "unit_q_no": 66
+  },
+  {
+    "q": "Consider the following statements regarding punishments and justice under the Qutb Shahis:\n1. Traitors and revolters were punished with death.\n2. The punishment for theft was the amputation of limbs.\n3. Punishments were mild, and offenders were generally let off with fines.\n4. Accounts left by travellers show that lower officials often decided cases arbitrarily, damaging people's rights.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 3 and 4 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.5, Judicial Administration): Statement 3 is incorrect because punishments were very severe. The text does say the Qutb Shahis were impartial in executing judicial administration, yet lower officials arbitrarily decided cases and did untold damage to people's rights. The text also mentions the 'Aman Mahal' established by Sultan Muhammad Quli to hear grievances personally.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Judicial administration – punishments",
+    "page": 26,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [26],
+    "unit": 1,
+    "q_no": 67,
+    "unit_q_no": 67
+  },
+  {
+    "q": "Match the social groups (List I) with their roles in Qutb Shahi society (List II):\n\nList I (Group):\nA. Brahmanas\nB. Vaisyas\nC. Sudras\nD. Untouchables\n\nList II (Role):\n1. Ministers, commanders and tax farmers; experts in astrology and astronomy\n2. Monopolised trade and commerce; experts in accounting and mathematics\n3. Agriculturists, servants to nobles and soldiers; formed the bulk of the population\n4. Lived outside the villages as tanners, shoemakers and manual labourers",
+    "o": [
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-1, C-3, D-4",
+      "A-1, B-2, C-4, D-3",
+      "A-1, B-3, C-2, D-4"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.6): Brahmanas held a prominent position as ministers, commanders and tax farmers, besides being custodians of learning and experts in astrology and astronomy. Vaisyas monopolised trade, and European companies bought goods through them. Sudras were the agriculturists and the bulk of the population. The untouchables lived outside the villages and did manual and menial work, and the text notes that heavy punishments were inflicted on them.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Social structure – groups and roles",
+    "page": 28,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [28],
+    "unit": 1,
+    "q_no": 68,
+    "unit_q_no": 68
+  },
+  {
+    "q": "Assertion (A): The Qutb Shahis never made Sati illegal by law, although they tried to stop the practice.\nReason (R): They feared a revolt by the Hindus, who attached great importance to the custom.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.6, Religious Policy): The text says Sati was a social evil in the kingdom and there are instances showing it was often not voluntary. The Qutb Shahis tried to stop it but never made it law for fear of revolt by the Hindus. There were even cases where a woman committed Sati though the local subedar had refused permission.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Sati and religious policy",
+    "page": 32,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [32],
+    "unit": 1,
+    "q_no": 69,
+    "unit_q_no": 69
+  },
+  {
+    "q": "Consider the following statements regarding agriculture and trade in the Golconda kingdom:\n1. The sultans took particular interest in improving irrigation works.\n2. In some places, one to three crops were cultivated in a year.\n3. The agricultural surplus gave an impetus to trade, commerce and industry.\n4. Muhammad Quli discouraged trade guilds to protect local merchants.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.6, Economic Prosperity): Statement 4 is wrong because Muhammad Quli encouraged trade guilds. He also maintained friendly relations with the Shah of Persia, which helped bring Persian traders to settle in Hyderabad and Machilipatnam. The coastal area was fertile and rice was grown in plenty.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Economy – agriculture and trade",
+    "page": 30,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [30],
+    "unit": 1,
+    "q_no": 70,
+    "unit_q_no": 70
+  },
+  {
+    "q": "According to the textbook's account of European trading centres in the Golconda kingdom, arrange the European powers in the order in which they established their trading centres:\n1. The Dutch\n2. The French\n3. The Portuguese\n4. The English",
+    "o": [
+      "3 – 4 – 1 – 2",
+      "1 – 3 – 4 – 2",
+      "3 – 1 – 2 – 4",
+      "3 – 1 – 4 – 2"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.6): The text states that the Portuguese, the Dutch, the English and finally the French established their trading centres in the Golconda kingdom. The Qutb Shahi kings permitted this, which contributed to the development of trade and commerce. The tempting items were fine muslin, kalamkaris and diamonds.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Europeans in Golconda – sequence",
+    "page": 32,
+    "photo": null,
+    "question_type": "Chronology",
+    "source_pages": [30, 32],
+    "unit": 1,
+    "q_no": 71,
+    "unit_q_no": 71
+  },
+  {
+    "q": "Consider the following statements regarding the European travellers who left accounts of the Golconda kingdom:\nI. Tavernier, Thevenot, Bernier and Abbe Carre were French.\nII. Thomas Bowrey was English.\nIII. Niccolao Manucci was Italian.\nIV. All of them visited Golconda in the first half of the seventeenth century.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.2): Statements I, II and III are correct. Statement IV is wrong because all of them belonged to the second half of the seventeenth century. They gave first-hand though scanty information about conditions in the Golconda kingdom and about their own activities and those of other European settlers.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "European travellers' accounts",
+    "page": 6,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [6],
+    "unit": 1,
+    "q_no": 72,
+    "unit_q_no": 72
+  },
+  {
+    "q": "Which of the following pairs of European travellers and their nationalities is NOT correctly matched?",
+    "o": [
+      "Tavernier – French",
+      "Bernier – French",
+      "Thomas Bowrey – English",
+      "Niccolao Manucci – Portuguese"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.2): Tavernier, Thevenot, Bernier and Abbe Carre were French, Thomas Bowrey was English, and Niccolao Manucci was Italian. Manucci was therefore not Portuguese.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "European travellers' accounts",
+    "page": 6,
+    "photo": null,
+    "question_type": "Negative (NOT)",
+    "source_pages": [6],
+    "unit": 1,
+    "q_no": 73,
+    "unit_q_no": 73
+  },
+  {
+    "q": "Consider the following statements from the concluding assessment of the Qutb Shahi period:\n1. The rule of the Qutb Shahis is considered a memorable epoch in Andhra history, after which the Deccan came under the Mughals through their viceroys.\n2. The dynasty is seen as representing a 'composite culture' of Hindu-Muslim socio-religious and cultural conditions.\n3. Deccan architecture under the Qutb Shahis borrowed heavily from the Hindu style, using symbols like the pot, lotus and elephant trunk even in mosques.\n4. The Qutb Shahi patronage was confined to Persian and Urdu, and Telugu poets were excluded.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.10, Summary): Statement 4 is wrong because the Qutb Shahi rulers were particularly liberal in patronising Telugu poets. The socio-cultural life of the period was marked by broad-mindedness and the sharing of traditions. The textbook also notes that Hindu decorative motifs such as the purnakumbha appear on mosques.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Summary – composite culture and architecture",
+    "page": 46,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [46, 48],
+    "unit": 1,
+    "q_no": 74,
+    "unit_q_no": 74
+  },
+  {
+    "q": "The Qutb Shahi tombs, which were very popular for their architectural beauty, are located at:",
+    "o": [
+      "Banjara Darwaza near Golconda",
+      "The Charminar in the old city of Hyderabad",
+      "The Hussain Sagar tank",
+      "The seaport of Machilipatnam"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.7): The Qutb Shahi tombs of the sultans were popular for their architectural beauty and are located at Banjara Darwaza near Golconda.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Architecture – Qutb Shahi tombs",
+    "page": 36,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [36],
+    "unit": 1,
+    "q_no": 75,
+    "unit_q_no": 75
+  },
+  {
+    "q": "Assertion (A): Nizam-ul-Mulk established the independent state of Hyderabad in 1724.\nReason (R): The Qutb Shahi dynasty ruled the Golconda kingdom for two centuries.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Sections 1.4 and 1.7): Both statements are factual, but the Qutb Shahi rule had already ended in 1687. Nizam-ul-Mulk's independence arose from the selfishness and neglect of the Mughal viceroys after Aurangzeb's death and the weakness of the later Mughal emperors. He founded the Asaf Jah dynasty.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "End of Qutb Shahi rule – Asaf Jahis",
+    "page": 36,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [22, 36],
+    "unit": 1,
+    "q_no": 76,
+    "unit_q_no": 76
+  },
+  {
+    "q": "Of the three old trade routes between India and Europe, the least frequented one lay through:",
+    "o": [
+      "The Persian Gulf, Iraq and Turkey, then by sea to Venice and Genoa",
+      "The Red Sea and overland to Alexandria in Egypt",
+      "The passes of the north-west frontier across Central Asia and Russia to the Baltic",
+      "The Cape of Good Hope around Africa"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.8): The first route was by sea along the Persian Gulf, overland through Iraq and Turkey, and by sea to Venice and Genoa. The second went via the Red Sea and overland to Alexandria. The third, less frequented, overland route passed through the north-west frontier of India, across Central Asia and Russia, to the Baltic. The Cape route came only after 1498 and was a sea route found by the Portuguese.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "European advent – trade routes",
+    "page": 38,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [36, 38],
+    "unit": 1,
+    "q_no": 77,
+    "unit_q_no": 77
+  },
+  {
+    "q": "The discovery of America and the discovery of the Cape route to India were described as 'the two greatest and most important events recorded in the history of mankind' by:",
+    "o": [
+      "Adam Smith",
+      "Karl Marx",
+      "Edward Gibbon",
+      "David Ricardo"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.8): The textbook says Adam Smith later wrote that these two discoveries were the greatest events in the history of mankind. The two discoveries were Columbus's voyage, which reached America while seeking India, and Vasco da Gama's all-sea Cape route to India in 1498.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "European advent – voyages of discovery",
+    "page": 38,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [38],
+    "unit": 1,
+    "q_no": 78,
+    "unit_q_no": 78
+  },
+  {
+    "q": "Consider the following statements regarding the rise of Portuguese power in India:\n1. The Portuguese first settled at Calicut, where the Zamorin extended the required support.\n2. They were helped by the superiority of their armed ships.\n3. They exploited the mutual rivalries of Indian princes to strengthen their position.\n4. Francisco de Almeida urged the Portuguese to build a territorial empire in India.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.8): Statement 4 is incorrect. Almeida's 'blue water policy' held that the Portuguese should maintain supremacy at sea and concentrate on trade, not a territorial empire. The policy was reversed by his successor Albuquerque. The Portuguese soon set up trading centres at Cochin, Goa, Diu and Daman, and gained control over the Malabar Coast.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Portuguese – rise of power",
+    "page": 38,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [38, 40],
+    "unit": 1,
+    "q_no": 79,
+    "unit_q_no": 79
+  },
+  {
+    "q": "Consider the following statements regarding the Dutch trade in Andhra:\n1. The Dutch replaced the Portuguese, whose trade in Andhra had been very irregular.\n2. They first entered the hinterland and established factories at the weaving centres.\n3. Their factories were prosperous because they were involved in the trade of the interior coastal Andhra.\n4. The Dutch continued their presence in Andhra only until the end of the seventeenth century.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2 and 3 only"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.8): Statement 4 is incorrect. The textbook says the hinterland of Andhra became a great commercial zone that helped the Dutch continue for a long time, until the end of the eighteenth century. The Dutch also made trade agreements with the Qutb Shahis in the first decade of the seventeenth century.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Dutch – factories in Andhra",
+    "page": 42,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [40, 42],
+    "unit": 1,
+    "q_no": 80,
+    "unit_q_no": 80
+  },
+  {
+    "q": "Consider the following statements regarding the political background of the Carnatic before the Anglo-French conflict:\nI. The Carnatic was a southeast coastal region bounded on the west by the Mysore kingdom.\nII. Arcot was the capital of the Carnatic.\nIII. Nawab Dost Ali died in a war with the Marathas, and his son-in-law Chanda Saheb was captured.\nIV. Chanda Saheb was the son of Dost Ali and succeeded him as Nawab immediately.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.9): Statements I, II and III are correct. Statement IV is wrong because Chanda Saheb was Dost Ali's son-in-law, and Dost Ali's son Safdar Ali became the Nawab. The Nizam later dethroned Safdar Ali and installed his own follower Anwaruddin.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Anglo-Carnatic Wars – background",
+    "page": 42,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [42],
+    "unit": 1,
+    "q_no": 81,
+    "unit_q_no": 81
+  },
+  {
+    "q": "The First Anglo-Carnatic War (1744–1746) in India was the extension of which European war between Britain and France?",
+    "o": [
+      "The Seven Years' War",
+      "The War of the Austrian Succession",
+      "The Thirty Years' War",
+      "The War of the Spanish Succession"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.9): The Anglo-French war in Europe known as the War of Austrian Succession was the precipitating cause of the First Anglo-Carnatic War. The Seven Years' War, by contrast, precipitated the Third Carnatic War. Dupleix, the French governor, occupied Madras, and the war ended with Madras returned to the British under a peace treaty.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "First Anglo-Carnatic War",
+    "page": 42,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [42],
+    "unit": 1,
+    "q_no": 82,
+    "unit_q_no": 82
+  },
+  {
+    "q": "Arrange the following events in the correct chronological order:\n1. Death of Nizam Asaf Jah I and the rivalry of Nasir Jung and Muzaffar Jung\n2. Occupation of Madras by Dupleix\n3. Arrival of Count de Lally as French general\n4. Battle of Wandiwash",
+    "o": [
+      "2 – 1 – 3 – 4",
+      "1 – 2 – 3 – 4",
+      "2 – 1 – 4 – 3",
+      "2 – 3 – 1 – 4"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.9): Dupleix occupied Madras during the First Carnatic War (1744–46). Asaf Jah I died in 1748, which began the succession dispute of the Second War. Lally was sent in 1756 in the context of the Seven Years' War. The British defeated the French at Wandiwash in 1760.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Anglo-Carnatic Wars – chronology",
+    "page": 44,
+    "photo": null,
+    "question_type": "Chronology",
+    "source_pages": [42, 44, 46],
+    "unit": 1,
+    "q_no": 83,
+    "unit_q_no": 83
+  },
+  {
+    "q": "In the Northern Circars under British control, the loom tax levied on weavers was called:",
+    "o": [
+      "Sunkam",
+      "Pesh Kush",
+      "Kaulu",
+      "Moturpha"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.9): A loom tax, or moturpha, was levied in the Circars. 'Sunkams' were the customs collected on commerce in articles like food, cattle and salt at short intervals, and they hampered the growth of industry and commerce. The land assessment was one-fifth of the produce.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Northern Circars – taxes",
+    "page": 46,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [46],
+    "unit": 1,
+    "q_no": 84,
+    "unit_q_no": 84
+  },
+  {
+    "q": "During the Qutb Shahi period, the gold coin was known as:",
+    "o": [
+      "Mohur",
+      "Pagoda",
+      "Honnu",
+      "Tanka"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.11, fill in the blanks): The textbook's answer is Honnu. This is one of the model questions in the unit. Questions on the Qutb Shahi currency system are also listed among the short-answer topics.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Currency of the Qutb Shahis",
+    "page": 52,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [50, 52],
+    "unit": 1,
+    "q_no": 85,
+    "unit_q_no": 85
+  },
+  {
+    "q": "According to the textbook's model questions, which Qutb Shahi sultan issued the 'Golden Farman' to the Europeans?",
+    "o": [
+      "Ibrahim",
+      "Abdullah",
+      "Jamshid",
+      "Abul Hasan"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.11, MCQ 10): The textbook's key gives Abdullah as the sultan who issued the Golden Farman to the Europeans. This ties in with the unit's theme that the Qutb Shahi kings permitted European companies to set up trading centres in their kingdom.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Europeans in Golconda – Golden Farman",
+    "page": 50,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [50],
+    "unit": 1,
+    "q_no": 86,
+    "unit_q_no": 86
+  },
+  {
+    "q": "Assertion (A): Quli Qutb Shah achieved the political unification of Andhra to some extent.\nReason (R): His Mughal contemporaries, Babur and Humayun, had no opportunity to divert their attention towards the Deccan.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Both statements appear in the text. However, the unification came from Quli's own conquests of Warangal, Rajahmundry, Eluru and other regions and his mastery over Telangana and the coastal districts. The Mughal preoccupation merely provided a favourable climate. It is a circumstance, not the explanation.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Quli Qutb Shah – unification of Andhra",
+    "page": 10,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [8, 10],
+    "unit": 1,
+    "q_no": 87,
+    "unit_q_no": 87
+  },
+  {
+    "q": "Match the Qutb Shahi rulers (List I) with their reign periods (List II):\n\nList I (Ruler):\nA. Quli Qutb Shah\nB. Jamshid Quli\nC. Ibrahim Qutb Shah\nD. Abdullah Qutb Shah\n\nList II (Reign period):\n1. 1543–1550\n2. 1550–1580\n3. 1626–1672\n4. 1518–1543",
+    "o": [
+      "A-1, B-4, C-2, D-3",
+      "A-4, B-1, C-3, D-2",
+      "A-4, B-2, C-1, D-3",
+      "A-4, B-1, C-2, D-3"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Quli Qutb Shah ruled 1518–1543, Jamshid Quli 1543–1550, Ibrahim Qutb Shah 1550–1580 and Abdullah Qutb Shah 1626–1672. The other sultans were Muhammad Quli (1580–1612), Muhammad Qutb Shah (1612–1626) and Abul Hasan (1672–1687).",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Qutb Shahi rulers – reign periods",
+    "page": 8,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [8, 10, 12, 18, 20],
+    "unit": 1,
+    "q_no": 88,
+    "unit_q_no": 88
+  },
+  {
+    "q": "Consider the following statements regarding the Deccan sultanates and the Qutb Shahis:\nI. The Bahmani sultans and the Vijayanagara kings fought wars for a couple of centuries over the Tungabhadra doab, the Krishna–Godavari delta and Marathwada.\nII. Firoz Shah was the greatest sultan of the Bahmani dynasty.\nIII. The Bahmani kingdom acted as a cultural bridge between the North and the South.\nIV. The Qutb Shahis, with the assistance of other Deccan powers, maintained the balance of power and checked the Mughal penetration for a long time.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.2): All four statements are stated in the introduction. The Bahmani kingdom's disappearance by the end of the fifteenth century paved the way for the rise of the Qutb Shahis of Golconda, who played a very important role in the medieval history of the Deccan.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Bahmani–Vijayanagara background",
+    "page": 4,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [4, 6],
+    "unit": 1,
+    "q_no": 89,
+    "unit_q_no": 89
+  },
+  {
+    "q": "Consider the following statements regarding courtesans and Devadasis in Golconda society:\n1. According to Tavernier, there were nearly twenty thousand courtesans in the kingdom.\n2. The courtesans paid taxes to the state and were expected to dance in the court regularly.\n3. They maintained shops attached to their houses selling intoxicating drinks and drugs, on which the state levied taxes.\n4. The Devadasis had a low social status compared to the courtesans.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.6): Statement 4 is incorrect because the text says the Devadasis also enjoyed a high social status. The courtesans became a source of revenue for the state through the taxes on them and on their shops.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Courtesans and Devadasis",
+    "page": 30,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [28, 30],
+    "unit": 1,
+    "q_no": 90,
+    "unit_q_no": 90
+  },
+  {
+    "q": "Consider the following statements regarding the later years of Abdullah Qutb Shah's reign:\n1. He came to the throne at a very tender age, and during his boyhood the administration became rotten and court cliques frequent.\n2. After growing up, he showed more interest in a life of ease and luxury than in the interests of the people and the kingdom.\n3. Incompetent and selfish officials exploited their power for their own interests.\n4. He devoted himself to military expansion and neglected the pleasures of the court.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.4): Statement 4 is the opposite of the text. The administration became paralytic and decadent, which, together with the Mughals casting their eyes on the Deccan Muslim kingdoms, weakened Golconda. Even so, Urdu literature reached new heights during his time.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Abdullah Qutb Shah – administration",
+    "page": 18,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [18],
+    "unit": 1,
+    "q_no": 91,
+    "unit_q_no": 91
+  },
+  {
+    "q": "Assertion (A): European trading companies established trading centres in the Golconda kingdom.\nReason (R): Fine muslin, kalamkaris and diamonds were available in abundance, which tempted European merchants.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.6): The text says the fine muslin, kalamkaris and diamonds, available like air and water in Golconda, became a temptation for European merchants. The Portuguese, the Dutch, the English and finally the French therefore set up trading centres, and the Qutb Shahi kings permitted it.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Europeans in Golconda – motives",
+    "page": 32,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [30, 32],
+    "unit": 1,
+    "q_no": 92,
+    "unit_q_no": 92
+  },
+  {
+    "q": "Arrange the following events in the correct chronological order:\n1. Planning and layout of the city of Hyderabad\n2. Permission to the English to establish a trade centre at Machilipatnam\n3. Construction of Hussain Sagar by Hussain Shah Wali\n4. Annexation of Golconda by Aurangzeb",
+    "o": [
+      "1 – 3 – 2 – 4",
+      "3 – 2 – 1 – 4",
+      "3 – 1 – 2 – 4",
+      "3 – 1 – 4 – 2"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Sections 1.6 and 1.7): Hussain Sagar was constructed in 1562. Hyderabad was laid out in 1591, the English were permitted to establish a trade centre at Machilipatnam in 1611, and Golconda was annexed in 1687. The sequence is 3, 1, 2, 4.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Hyderabad and Golconda – chronology",
+    "page": 36,
+    "photo": null,
+    "question_type": "Chronology",
+    "source_pages": [22, 30, 36],
+    "unit": 1,
+    "q_no": 93,
+    "unit_q_no": 93
+  },
+  {
+    "q": "Match the wars and battles (List I) with the descriptions (List II):\n\nList I (War / Battle):\nA. First Anglo-Carnatic War\nB. Second Anglo-Carnatic War\nC. Third Anglo-Carnatic War\nD. Battle of Wandiwash\n\nList II (Description):\n1. Precipitated by the Seven Years' War in Europe\n2. Precipitated by the War of Austrian Succession\n3. Robert Clive fought a heroic battle at Arcot and earned the title 'Hero of Arcot'\n4. British defeated the French in 1760 and Pondicherry was occupied",
+    "o": [
+      "A-1, B-3, C-2, D-4",
+      "A-2, B-3, C-1, D-4",
+      "A-2, B-1, C-3, D-4",
+      "A-2, B-3, C-4, D-1"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.9): The First War was the Indian counterpart of the War of Austrian Succession. In the Second War, Clive's heroic defence of Arcot earned him the title 'Hero of Arcot' and began the downfall of the French in India. The Third War followed the Seven Years' War, and its decisive battle at Wandiwash in 1760 led to the occupation of Pondicherry.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Anglo-Carnatic Wars – overview",
+    "page": 44,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [42, 44, 46],
+    "unit": 1,
+    "q_no": 94,
+    "unit_q_no": 94
+  },
+  {
+    "q": "Which of the following was NOT one of the principalities into which the Bahmani kingdom broke up?",
+    "o": [
+      "Bijapur",
+      "Ahmadnagar",
+      "Bidar",
+      "Vijayanagara"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Section 1.2): The Bahmani kingdom was divided into five principalities: Golconda, Bijapur, Berar, Bidar and Ahmadnagar. Vijayanagara was a separate Hindu empire that fought the Bahmanis for control of the Tungabhadra doab and the Krishna–Godavari delta.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Bahmani successor states",
+    "page": 4,
+    "photo": null,
+    "question_type": "Negative (NOT)",
+    "source_pages": [4],
+    "unit": 1,
+    "q_no": 95,
+    "unit_q_no": 95
+  },
+  {
+    "q": "Assertion (A): Urdu more or less became the language of the masses in the Golconda kingdom.\nReason (R): Sufi saints spread their gospel in easily understandable Urdu.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 1 (Section 1.7): Urdu was an admixture of Persian, Sanskrit and Marathi, and the Deccan became its cradle (Deccan Urdu). The Sufi saints helped spread it by preaching in easily understandable Urdu, and Urdu more or less became the language of the masses. The Deccan sultans also developed Urdu poets as a protest against the north Indian Persian language.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Literature – Deccan Urdu and Sufis",
+    "page": 34,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [32, 34],
+    "unit": 1,
+    "q_no": 96,
+    "unit_q_no": 96
+  },
+  {
+    "q": "Consider the following statements regarding the works of the Qutb Shahis in and around Hyderabad:\nI. Muhammad Quli constructed a dam across the Musi River to provide water to the inmates of the city.\nII. He raised beautiful gardens and fruit-bearing trees around Hyderabad.\nIII. The Qutb Shahi tombs near Banjara Darwaza were popular for their architectural beauty.\nIV. Hussain Sagar was constructed by Quli Qutb Shah, the founder of the dynasty.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.7): Statements I, II and III are correct. Statement IV is wrong because Hussain Sagar was constructed in 1562 by Hussain Shah Wali, a Sufi saint and son-in-law of Ibrahim Quli Qutb Shah. Quli Qutb Shah's own contribution to Golconda was fortifying the fort with massive walls and a moat.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Architecture – Hyderabad works",
+    "page": 36,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [8, 10, 36],
+    "unit": 1,
+    "q_no": 97,
+    "unit_q_no": 97
+  },
+  {
+    "q": "Which of the following was NOT a characteristic of the culture that bound Golconda society, as described in the textbook?",
+    "o": [
+      "Religious tolerance",
+      "Strict exclusion of Hindu traditions from court life and architecture",
+      "Broad-mindedness",
+      "A humane outlook"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 1 (Section 1.3): The culture binding society rested on religious tolerance, broad-mindedness and a humane outlook. Muslims and Hindus borrowed heavily from each other's traditions. Exclusion of Hindu traditions contradicts the evidence, for example Hindu motifs on mosques and non-Muslims in high office.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Evolution of composite culture",
+    "page": 8,
+    "photo": null,
+    "question_type": "Negative (NOT)",
+    "source_pages": [8],
+    "unit": 1,
+    "q_no": 98,
+    "unit_q_no": 98
+  },
+  {
+    "q": "According to the textbook, the Dutch in Andhra replaced which European power, whose trade in the region had been very irregular?",
+    "o": [
+      "The French",
+      "The English",
+      "The Portuguese",
+      "The Danes"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 1 (Section 1.8): The Dutch replaced the Portuguese, whose trade in Andhra was very irregular. They entered the hinterland and set up factories at weaving centres. The Portuguese had failed in India because of the use of force with trade, religious intolerance, Philip II's neglect of India and the arrival of the Dutch as rivals.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "Dutch – replacement of the Portuguese",
+    "page": 40,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [40, 42],
+    "unit": 1,
+    "q_no": 99,
+    "unit_q_no": 99
+  },
+  {
+    "q": "Arrange the following events in the correct chronological order:\n1. Discovery of the Cape route to India by Vasco da Gama\n2. Occupation of Constantinople by the Ottoman Turks\n3. Permission to the English to establish a trade centre at Machilipatnam\n4. Edict of Philip II preventing the entry of Dutch ships into Lisbon and other ports",
+    "o": [
+      "1 – 2 – 4 – 3",
+      "2 – 1 – 3 – 4",
+      "4 – 2 – 1 – 3",
+      "2 – 1 – 4 – 3"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 1 (Sections 1.6 and 1.8): The Ottoman occupation of Constantinople came in 1453. Vasco da Gama found the Cape route in 1498. Philip II's edict against Dutch ships came in 1594, and the English received permission at Machilipatnam in 1611. The sequence is 2, 1, 4, 3.",
+    "topic": "Unit 1: Andhra through the 16th–19th Centuries AD",
+    "tag": "European advent – chronology",
+    "page": 38,
+    "photo": null,
+    "question_type": "Chronology",
+    "source_pages": [30, 36, 38, 40],
+    "unit": 1,
+    "q_no": 100,
+    "unit_q_no": 100
+  },
+
+  {
+    "q": "Consider the following statements regarding Andhra under British rule:\n1. The Andhra region was under the control of the Madras Presidency during the British colonial era.\n2. The period marked the beginning of modern history in the region, with English education, railways and telegraph introduced.\n3. The cottage industries of the region, affected by the Industrial Revolution, weakened and lost their influence.\n4. The administrative changes brought modernisation without any social or economic upheaval or resistance from the people.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 2 (Section 2.2): Statement 4 is incorrect. The textbook says the changes also led to social and economic upheavals and to resistance from the people of Andhra. Consecutive droughts occurred in this 'age of peace' because of systematic management errors and natural calamities. The period also created opportunities for new cultural development and social reform through Western ideas.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Andhra under British rule – overview",
+    "page": 58,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [57, 58],
+    "unit": 2,
+    "q_no": 101,
+    "unit_q_no": 1
+  },
+  {
+    "q": "Which of the following were causes of the revolts by local landlords and tribals in the Andhra region during British rule?\n1. The exorbitant increase in the land tax (pesh kush) imposed on the zamindars.\n2. Strict collection of the fixed pesh kush and frequent interference in inheritance matters.\n3. Restrictions on the use of forest resources.\n4. Licensing policies on the manufacture and consumption of alcohol.\n\nSelect the correct answer:",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 2 (Section 2.2): All four were causes. The forest and liquor restrictions interfered with the traditional way of life of the tribes and their livelihood, and the textbook calls the tribal revolts 'Pithuri'. After the Company conquered the Northern Sarkars and Rayalaseema, protests of local landlords sometimes escalated into revolts.",
+    "topic": "Unit 2: Andhra under British Rule", 
+    "tag": "Early revolts – causes",
+    "page": 60,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [59, 60],
+    "unit": 2,
+    "q_no": 102,
+    "unit_q_no": 2
+  },
+  {
+    "q": "Assertion (A): After the fall of the Vijayanagara Empire, local landlords in Rayalaseema (poligars) and in the Sarkar areas (zamindars) became strong, independent and maintained their own armies.\nReason (R): These landlords welcomed the control and discipline policies of the East India Company.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 2 (Section 2.2): The lack of political stability after Vijayanagara strengthened the poligars and zamindars. They did not like the control and discipline policies of the East India Company, and a clash for real power created a conflicting environment. Reason (R) therefore reverses the facts.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Poligars and zamindars vs the Company",
+    "page": 58,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [57, 58],
+    "unit": 2,
+    "q_no": 103,
+    "unit_q_no": 3
+  },
+  {
+    "q": "Consider the following statements regarding British administration in Andhra:\nI. British administration was divided into two periods: the East India Company administration and the Queen's (Crown) administration.\nII. The Board of Revenue was abolished in 1794, and district collectors were introduced in the administration from that year.\nIII. The District Collector, the Superintendent of Police and the District Judge formed the three pillars of district administration under the Company.\nIV. The Collectors retained judicial powers permanently under the Company's rule.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 2 (Section 2.3): Statements I, II and III are correct. Statement IV is wrong because in 1816 the Company's government abolished the judicial powers of collectors and appointed special officers to administer justice. The collector's main responsibilities were collecting land tax, maintaining law and order and acting as Chief Magistrate.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Administration – district collectors",
+    "page": 60,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [59, 60, 62],
+    "unit": 2,
+    "q_no": 104,
+    "unit_q_no": 4
+  },
+  {
+    "q": "According to the Act enacted in 1839, the Collector of Ganjam was to act as the agent of the Governor and exercise authority over:",
+    "o": [
+      "The non-tribal plains of the district only",
+      "The hilly agency areas inhabited by tribal people",
+      "The ports of the Northern Circars",
+      "The Ceded Districts of Rayalaseema"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 2 (Section 2.3): Chicacole was part of Ganjam district, where non-tribals lived in the plains and tribal people lived in hilly 'agency areas'. The two areas were administratively treated as separate. Under the 1839 Act, the Collector of Ganjam acted as the Governor's agent and managed the administrative affairs of the agency areas.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Administration – Ganjam agency areas",
+    "page": 62,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [62],
+    "unit": 2,
+    "q_no": 105,
+    "unit_q_no": 5
+  },
+  {
+    "q": "Match the districts or areas (List I) with the years of their formation or inclusion (List II):\n\nList I:\nA. Kurnool district\nB. Anantapur district\nC. Chittoor district\nD. Bhadrachalam taluk added to Godavari district\n\nList II (Year):\n1. 1858\n2. 1874\n3. 1882\n4. 1911",
+    "o": [
+      "A-1, B-2, C-3, D-4",
+      "A-1, B-3, C-4, D-2",
+      "A-3, B-1, C-4, D-2",
+      "A-1, B-3, C-2, D-4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 2 (Section 2.3): The ceded districts were first organised as one district, then re-divided into Bellary and Kadapa in 1808. Kurnool district was formed in 1858 and Anantapur in 1882, and Chittoor in 1911. Bhadrachalam taluk was transferred from the Central Provinces and added to Godavari district in 1874.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Administration – formation of districts",
+    "page": 62,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [62],
+    "unit": 2,
+    "q_no": 106,
+    "unit_q_no": 6
+  },
+  {
+    "q": "Arrange the following administrative developments in chronological order:\n1. Judicial powers taken away from the collectors\n2. The Sarkar areas coming under British control\n3. Re-division of the Ceded Districts into Bellary and Kadapa\n4. Abolition of the Board of Revenue and introduction of collectors",
+    "o": [
+      "2 – 4 – 3 – 1",
+      "2 – 3 – 4 – 1",
+      "4 – 2 – 3 – 1",
+      "2 – 4 – 1 – 3"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 2 (Section 2.3): The Sarkar areas came under British control in 1766. The Board of Revenue was abolished in 1794 and collectors were introduced. The ceded districts were re-divided into Bellary and Kadapa in 1808, and collectors lost their judicial powers in 1816. The sequence is 2, 4, 3, 1.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Administration – chronology",
+    "page": 62,
+    "photo": null,
+    "question_type": "Chronology",
+    "source_pages": [60, 62],
+    "unit": 2,
+    "q_no": 107,
+    "unit_q_no": 7
+  },
+  {
+    "q": "Initially, the government areas of the Northern Sarkars were divided into five districts. Which of the following was NOT among them?",
+    "o": [
+      "Ganjam",
+      "Godavari",
+      "Nellore",
+      "Kurnool"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 2 (Section 2.3): The five districts were Ganjam, Visakhapatnam, Godavari, Krishna and Nellore. Kurnool district was formed only later, in 1858. The ceded districts were organised separately into a single district with Anantapur as the headquarters.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Administration – formation of districts",
+    "page": 62,
+    "photo": null,
+    "question_type": "Negative (NOT)",
+    "source_pages": [62],
+    "unit": 2,
+    "q_no": 108,
+    "unit_q_no": 8
+  },
+  {
+    "q": "Consider the following statements regarding the judiciary under the Company:\n1. Minor disputes were resolved in the Sadar Amin courts, which were under the District Judge.\n2. Above the district courts were the Sadar Adalat (civil) and the Sadar Paujudari Adalat (criminal).\n3. Transferring incompetent revenue officials to the judicial department was widely welcomed as a sound practice.\n4. Corruption and inefficiency were rampant in the judiciary of this period.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 2 (Section 2.3, Judiciary): Statement 3 is incorrect because the practice of transferring scandalous, incompetent revenue officials to the judicial department was generally frowned upon. The District Judge was responsible for legal matters in the district, and corruption and inefficiency were rampant.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Administration – judiciary",
+    "page": 64,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [62, 64],
+    "unit": 2,
+    "q_no": 109,
+    "unit_q_no": 9
+  },
+  {
+    "q": "Match the land revenue systems or categories (List I) with their features (List II):\n\nList I:\nA. Permanent Settlement (Zamindari)\nB. Ryotwari Settlement\nC. Mahalwari (Village-wise) system\nD. Haveli lands\n\nList II (Feature):\n1. The village was treated as the unit and tax-collection responsibility was placed on the villagers\n2. The government collected tax directly from the cultivator, with no middlemen\n3. Zamindars were made hereditary owners of land and paid a fixed pesh kush\n4. Lands whose revenue went directly to the government",
+    "o": [
+      "A-3, B-2, C-1, D-4",
+      "A-2, B-3, C-1, D-4",
+      "A-3, B-1, C-2, D-4",
+      "A-3, B-2, C-4, D-1"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 2 (Section 2.4): Under the Permanent Settlement the zamindars, who were tax collectors, were made owners of the land with the right of inheritance. Ryotwari did away with middlemen and dealt directly with the farmer. Mahalwari treated the village as the unit and made villagers collectively responsible. The text classifies lands in government areas as Haveli (government) lands and zamindars' lands.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Land revenue settlements – overview",
+    "page": 64,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [64, 66, 68],
+    "unit": 2,
+    "q_no": 110,
+    "unit_q_no": 10
+  },
+  {
+    "q": "Assertion (A): The Permanent Settlement enabled the Company's government to forecast its revenue in advance.\nReason (R): The zamindars were made hereditary owners of the land and had to pay a fixed amount of tax, known as pesh kush, to the government.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 2 (Section 2.4a): In 1793 Governor General Cornwallis made the earlier system permanent. The zamindars became owners with inheritance rights and paid a fixed sum, so the government knew its revenue in advance and decided expenditure accordingly. The system also created an elite Indian class dependent on the Company.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Permanent Settlement",
+    "page": 66,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [64, 66],
+    "unit": 2,
+    "q_no": 111,
+    "unit_q_no": 11
+  },
+  {
+    "q": "Consider the following statements regarding the Permanent Settlement:\n1. Cornwallis made the policy permanent in 1793.\n2. It was introduced in Bengal, Bihar and Orissa as well as in coastal Andhra districts from Ganjam to Nellore.\n3. The tax paid to the government by the zamindars was called 'kaulu'.\n4. Because of it, the lives of the cultivators depended on the benevolence of the landlords.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 2 (Sections 2.4 and 2.4a): Statement 3 is incorrect. The tax paid by zamindars was pesh kush. 'Kaulu' was the written contract between the zamindar and the government that fixed the amount of tax.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Permanent Settlement",
+    "page": 66,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [64, 66],
+    "unit": 2,
+    "q_no": 112,
+    "unit_q_no": 12
+  },
+  {
+    "q": "Consider the following statements regarding the Ryotwari Settlement:\nI. It was devised as an alternative after many defects of the Permanent Zamindari system were exposed.\nII. It was first introduced in the Ceded Districts of Rayalaseema.\nIII. Captain Reid formulated it in principle and Thomas Munro further refined it.\nIV. The farmer was not allowed to sell or bequeath the land he cultivated.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 2 (Section 2.4b): Statements I and III are correct. Statement II is wrong because the system was first introduced in the Baramahal area of Salem district in Tamil Nadu. Statement IV is wrong because a farmer could pass his land to his offspring or sell it as long as he paid the prescribed tax.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Ryotwari Settlement",
+    "page": 66,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [66, 68],
+    "unit": 2,
+    "q_no": 113,
+    "unit_q_no": 13
+  },
+  {
+    "q": "The village-wise (Mahalwari) system was implemented in 1804 in North Sarkar, Nellore and Rayalaseema for a period of:",
+    "o": [
+      "5 years",
+      "10 years",
+      "15 years",
+      "20 years"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 2 (Section 2.4c): The village-wise tax system was introduced in 1804 for 15 years. The village headman decided how much each farmer should pay, but the system did not work properly. It was later ended, and the permanent or Ryotwari system was introduced.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Mahalwari (village-wise) system",
+    "page": 68,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [68],
+    "unit": 2,
+    "q_no": 114,
+    "unit_q_no": 14
+  },
+  {
+    "q": "Consider the following statements regarding society in colonial Andhra:\n1. Agricultural castes such as Reddy, Vaishya, Kapu, Kamma and Velama began competing with Brahmins for employment, education and representation.\n2. The Madras Literary Society was formed in 1812 with seven members from the Telugu region of Machilipatnam.\n3. Gazulu Lakshminarasu Chetty established the Madras Native Association in 1852.\n4. The Kakinada Literary Association was formed in 1877.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 2 (Section 2.5): All four statements appear in the text. A public discussion forum was also set up at Machilipatnam in 1851. Since 1821 people had been submitting petitions to the Governor of Madras on government-related issues. English education produced a new educated middle class, many of whom took up law, teaching and journalism.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Society – new associations and castes",
+    "page": 70,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [68, 70],
+    "unit": 2,
+    "q_no": 115,
+    "unit_q_no": 15
+  },
+  {
+    "q": "Match the associations (List I) with their years (List II):\n\nList I:\nA. Madras Literary Society\nB. Public discussion forum at Machilipatnam\nC. Madras Native Association\nD. Kakinada Literary Association\n\nList II (Year):\n1. 1851\n2. 1812\n3. 1852\n4. 1877",
+    "o": [
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-3, C-1, D-4",
+      "A-2, B-1, C-3, D-4",
+      "A-2, B-1, C-4, D-3"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 2 (Section 2.5): The Madras Literary Society was formed in 1812. A public discussion forum was set up in Machilipatnam in 1851. The Madras Native Association was established in 1852 by Gazulu Lakshminarasu Chetty, and the Kakinada Literary Association was formed in Kakinada in 1877.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Society – public associations",
+    "page": 70,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [70],
+    "unit": 2,
+    "q_no": 116,
+    "unit_q_no": 16
+  },
+  {
+    "q": "Consider the following statements regarding communications and transport in colonial Andhra:\n1. The first railway line in Andhra was constructed between Puttur and Renigunta and was in use by September 1862.\n2. Another line connecting Guntakal (Gutthi) and Renigunta was built between 1864 and 1869.\n3. Because of the 1857 revolt in North India, the British focused on that region and neglected South Indian transport.\n4. In the Madras Presidency ten percent of the government's revenue was earmarked for land and waterways.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 2 (Section 2.5a): Statement 4 is incorrect. The text says five percent of the government's revenue in the Madras Presidency was earmarked for the development of land and waterways. This formed the transport system of the Andhra region.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Communications – roads and railways",
+    "page": 70,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [70],
+    "unit": 2,
+    "q_no": 117,
+    "unit_q_no": 17
+  },
+  {
+    "q": "Consider the following statements regarding early British educational policy:\n1. In 1813 the East India Company took over responsibility for education in India and allocated some money.\n2. In 1822, Thomas Munro as Governor sought reports from the District Collectors on indigenous education.\n3. The Bellary Collector, Campbell, reported that only seven out of every thousand were studying.\n4. The 300 Tahsildari schools and 40 Collectorate schools set up by Munro were judged a success in a government report of 1839.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 2 (Section 2.6): Statement 4 is incorrect because the government report of 1839 declared that these schools had failed to achieve their intended goals. Campbell added that education was damaged by poverty and that students could read verses without mistakes but could not interpret them.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Education – early policy",
+    "page": 72,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [71, 72],
+    "unit": 2,
+    "q_no": 118,
+    "unit_q_no": 18
+  },
+  {
+    "q": "Assertion (A): The traditional education system in Andhra before the Company's rule was open to all castes and to women.\nReason (R): Only Brahmin boys were given the opportunity for higher education, and lower-caste men and women were denied education.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 2 (Section 2.6): The traditional system trained castes for their own professions under their elders, only Brahmin boys got higher education, and lower-caste men and women were denied schooling. Muslims taught Arabic in madrasas. Assertion (A) is false and Reason (R) is true.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Education – traditional system",
+    "page": 70,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [69, 70],
+    "unit": 2,
+    "q_no": 119,
+    "unit_q_no": 19
+  },
+  {
+    "q": "Higher education began in the Andhra region with the establishment of Madras University in 1857. The University actually started teaching in:",
+    "o": [
+      "1857",
+      "1862",
+      "1864",
+      "1877"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 2 (Section 2.6): Higher education began in 1857 with the establishment of Madras University, which started teaching in 1864. In the Queen's period Noble College was started at Bandar in 1864 and Andhra Christian College at Guntur in 1866.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Education – higher education",
+    "page": 72,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [72, 74],
+    "unit": 2,
+    "q_no": 120,
+    "unit_q_no": 20
+  },
+  {
+    "q": "Match the colleges (List I) with their years (List II) as given in the textbook:\n\nList I:\nA. Noble College at Bandar\nB. Andhra Christian College, Guntur\nC. Government Arts College (Degree), Rajahmundry\nD. Hindu College, Visakhapatnam\n\nList II (Year):\n1. 1878\n2. 1877\n3. 1866\n4. 1864",
+    "o": [
+      "A-4, B-3, C-2, D-1",
+      "A-3, B-4, C-2, D-1",
+      "A-4, B-3, C-1, D-2",
+      "A-4, B-2, C-3, D-1"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 2 (Section 2.6): Noble College was started at Bandar in 1864 and Andhra Christian College at Guntur in 1866. A junior college started at Rajahmundry in 1873 became the Government Arts College (Degree College) in 1877. Hindu College was established at Visakhapatnam in 1878, and Kallikota College followed in 1879.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Education – colleges",
+    "page": 74,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [72, 74],
+    "unit": 2,
+    "q_no": 121,
+    "unit_q_no": 21
+  },
+  {
+    "q": "Consider the following statements regarding the 'rate schools' of the Godavari region:\n1. George Noble Taylor, sub-collector of Rajahmundry Division, collected donations locally in 1852 to organise them.\n2. English schools of this kind functioned effectively at Narsapur and Palakollu.\n3. They are also known as the Taylor system of education.\n4. They were funded entirely by government grants without any local donations.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2 and 3 only"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 2 (Section 2.6): Statement 4 is wrong because the schools depended on local donations. People started donating themselves, and non-Brahmin agricultural castes like Reddy and Naidu volunteered to help, hoping for the academic and social development of boys and girls of their castes. The success of the experiment led surrounding villages to establish similar schools.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Education – rate schools",
+    "page": 74,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [74],
+    "unit": 2,
+    "q_no": 122,
+    "unit_q_no": 22
+  },
+  {
+    "q": "Consider the following statements regarding the effects of English education in Andhra:\n1. New colleges exposed youth to Western ideas, leading to a critical examination of traditional customs and beliefs.\n2. The spread of education was mainly among the upper and middle classes.\n3. At the primary level, lower-caste students were far fewer than upper-caste students.\n4. Brahmins were dominant in higher education.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 2 (Section 2.6): Statement 3 is incorrect because the text says there was not much difference between the percentages of lower-caste and upper-caste students at the primary level. Brahmins, however, dominated higher education. Primary schools existed in villages and higher education institutions in towns.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Education – social effects",
+    "page": 74,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [74],
+    "unit": 2,
+    "q_no": 123,
+    "unit_q_no": 23
+  },
+  {
+    "q": "The Jesuit missionary Robert de Nobili, who was known at the court of the second Venkatapati Raya, preached Christianity in South India around 1626 under the name:",
+    "o": [
+      "Tattva Bodhananda Swami",
+      "Mandava Rishi",
+      "Apara Bhagiratha",
+      "Shwetambara Rishi"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 2 (Section 2.7): Robert de Nobili preached under the name Tattva Bodhananda Swami. Protestant centres were later established at Punganur (Chittoor district) and Firangipuram (Guntur district). 'Mandava Rishi' was the name given to Thomas Munro by farmers, and 'Shwetambara Rishi' was R. Venkataratnam Naidu.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Religion – early missionaries",
+    "page": 76,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [75, 76],
+    "unit": 2,
+    "q_no": 124,
+    "unit_q_no": 24
+  },
+  {
+    "q": "Match the Christian missionary organisations (List I) with their main centres (List II):\n\nList I (Mission):\nA. Lutheran Mission\nB. Canadian Baptist Mission\nC. Free Church Mission\nD. North German Missionary Society\n\nList II (Centre):\n1. Rajahmundry (Godavari coast)\n2. Nellore\n3. Ongole\n4. Guntur",
+    "o": [
+      "A-3, B-4, C-2, D-1",
+      "A-4, B-3, C-1, D-2",
+      "A-4, B-3, C-2, D-1",
+      "A-4, B-2, C-3, D-1"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 2 (Section 2.7): After the Charter Act of 1813 lifted the ban on propagating Christianity, the Lutheran Mission became the main body at Guntur and the Canadian Baptist Mission at Ongole. The Free Church Mission extended its activities to Nellore. By 1840 the North German Missionary Society was working along the Godavari coast with Rajahmundry as its hub. The Church Mission Society worked in Hyderabad and the American Baptists in Guntur.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Religion – missionary centres",
+    "page": 76,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [76],
+    "unit": 2,
+    "q_no": 125,
+    "unit_q_no": 25
+  },
+  {
+    "q": "Assertion (A): Christian missionary societies played an important role in promoting education among the lower castes in the Telugu regions.\nReason (R): The Charter Act of 1813 lifted the ban on the propagation of Christianity in India.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 2 (Section 2.7): Both are factual. The Charter Act intensified missionary activity in general, but the text links the education of the lower castes to the missionaries' invitation to untouchables who faced discrimination in Hinduism, hoping to raise their social standing. Education then helped many of them secure jobs and respectable positions.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Religion – missionaries and education",
+    "page": 76,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [76],
+    "unit": 2,
+    "q_no": 126,
+    "unit_q_no": 26
+  },
+  {
+    "q": "Consider the following statements regarding the impact of the Industrial Revolution on Andhra:\n1. Indian raw cotton exports were promoted to supply textile mills in England.\n2. Machine-made English textiles flooded the Indian market at high quality and low prices.\n3. The paper and glass industries of the Andhra region declined under foreign competition.\n4. The displaced workers were absorbed into new industries that emerged in the region.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 2 (Section 2.8): Statement 4 is incorrect because no other industry emerged in the region that could accommodate the unemployed workers. They became marginal agricultural labourers or migrated abroad. The rising unemployment pushed pressure onto agriculture, dividing land into small plots and lowering agricultural profits.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Industrial Revolution – impact on cottage industries",
+    "page": 78,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [77, 78, 80],
+    "unit": 2,
+    "q_no": 127,
+    "unit_q_no": 27
+  },
+  {
+    "q": "The average annual exports from Machilipatnam, which were around ten lakh rupees in the 1820s, had fallen by 1843–44 to:",
+    "o": [
+      "Below three thousand rupees",
+      "About five lakh rupees",
+      "About two lakh rupees",
+      "About seventy thousand rupees"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 2 (Section 2.8): Exports from Machilipatnam fell from around ten lakh to below three thousand. The annual export from Visakhapatnam, about seven lakh, fell to just one lakh. The decline resulted from cheap machine-made English cloth and was worsened by taxes on weavers such as the 'Moturpha' on looms.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Industrial Revolution – decline of textile exports",
+    "page": 80,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [79, 80],
+    "unit": 2,
+    "q_no": 128,
+    "unit_q_no": 28
+  },
+  {
+    "q": "Consider the following statements regarding Andhra's textile industry in the colonial period:\nI. The loom tax called 'Moturpha' further weakened the already struggling weavers.\nII. Many weavers migrated to England in search of employment.\nIII. The Dutch factory at Machilipatnam employed around 5,000 weavers.\nIV. Annual exports from Visakhapatnam rose from one lakh to seven lakh rupees.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 2 (Section 2.8): Statements I and III are correct. Statement II is wrong because weavers migrated to Burma, Mauritius and Sri Lanka as labourers. Statement IV reverses the figures, since Visakhapatnam's exports fell from about seven lakh to one lakh.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Industrial Revolution – weavers",
+    "page": 80,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [78, 80],
+    "unit": 2,
+    "q_no": 129,
+    "unit_q_no": 29
+  },
+  {
+    "q": "Assertion (A): Manganese deposits of Nellore and Vizianagaram were exported abroad during British rule.\nReason (R): Rising unemployment put pressure on agriculture to provide employment, dividing land into small plots and reducing profits.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 2 (Section 2.8): Both statements appear in the text, but the pressure on agriculture came from the decline of the cottage industries, not from manganese exports. The text mentions the manganese export as a contrast to the damage done to traditional industries. In the Queen's period some modern industries like jute, textiles, cement and sugar were also established.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Industrial Revolution – economic effects",
+    "page": 78,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [78],
+    "unit": 2,
+    "q_no": 130,
+    "unit_q_no": 30
+  },
+  {
+    "q": "Consider the following statements regarding agriculture under the Company:\n1. The Company's directors in London wanted more revenue from the newly acquired territories, so the tax burden on agriculture was increased.\n2. The coastal lands were mainly owned by zamindars, from whom the Company collected pesh kush.\n3. In Rayalaseema the Ryotwari system was applied, but tax rates were set too high.\n4. From 1834 farmers were required to pay their taxes in kind.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 2 (Section 2.9A): Statement 4 is incorrect because from 1834 farmers were required to pay their taxes in cash, which added to their difficulties. Zamindars in Godavari, Krishna and Ganjam faced financial losses from high pesh kush. Only under the Queen did land survey records become fully available and tax collection more transparent.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Peasantry – agriculture and taxation",
+    "page": 80,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [79, 80, 82],
+    "unit": 2,
+    "q_no": 131,
+    "unit_q_no": 31
+  },
+  {
+    "q": "Arrange the following irrigation developments in chronological order:\n1. Completion of the Dhavaleswaram project on the Godavari\n2. Establishment of a separate irrigation department in Madras with a superintendent engineer\n3. Start of work on the Kurnool–Kadapa canal at Sunkesula\n4. Sir Arthur Cotton's first report to the government on dams",
+    "o": [
+      "2 – 1 – 4 – 3",
+      "4 – 2 – 1 – 3",
+      "2 – 4 – 3 – 1",
+      "2 – 4 – 1 – 3"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 2 (Section 2.9A): A separate irrigation department was established in 1819. Cotton sent his first report in 1844 and a second in 1845. The Dhavaleswaram project, begun in 1847, was completed in 1852. The Kurnool–Kadapa canal was begun in 1863 and finished by 1870. The sequence is 2, 4, 1, 3.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Irrigation – chronology",
+    "page": 82,
+    "photo": null,
+    "question_type": "Chronology",
+    "source_pages": [81, 82, 84],
+    "unit": 2,
+    "q_no": 132,
+    "unit_q_no": 32
+  },
+  {
+    "q": "Match the irrigation works and persons (List I) with the descriptions (List II):\n\nList I:\nA. Dhavaleswaram project\nB. Dam at Bejawada on the Krishna\nC. Kurnool–Kadapa Canal\nD. Veenam Veeranna\n\nList II:\n1. Built on the Tungabhadra at Sunkesula near Kurnool\n2. Included the Eastern, Central and Western Delta canals\n3. Work led by Captain C.A. Orr\n4. Indian assistant praised by Cotton and promoted as Assistant Engineer with the title Rao Bahadur",
+    "o": [
+      "A-2, B-1, C-3, D-4",
+      "A-2, B-3, C-1, D-4",
+      "A-3, B-2, C-1, D-4",
+      "A-2, B-3, C-4, D-1"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 2 (Section 2.9A): The Dhavaleswaram project comprised three delta canals (Eastern, Central and Western), and Cotton also built the barrage to control floods. The Krishna dam at Bejawada (1852–55) was led by Captain C.A. Orr. The Kurnool–Kadapa Canal (Tungabhadra Project) was built from 1863 to 1870. Veenam Veeranna, who worked with Cotton, was promoted and given the title Rao Bahadur.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Irrigation – projects and persons",
+    "page": 84,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [82, 84],
+    "unit": 2,
+    "q_no": 133,
+    "unit_q_no": 33
+  },
+  {
+    "q": "Assertion (A): Sir Arthur Cotton is remembered in the Godavari region as 'Apara Bhagiratha'.\nReason (R): The British government conferred the title 'Sir' on him in 1847, soon after the Dhavaleswaram project began.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 2 (Section 2.9A): Cotton was glorified as 'Apara Bhagiratha', and homage is offered to him along with ancestors during the Godavari Pushkaras. The title 'Sir' was awarded to him in 1861, not 1847. His reports argued that dam costs could be recouped in two years and that diverting river water to farmland could avert millions of deaths from drought.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Sir Arthur Cotton",
+    "page": 84,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [82, 84],
+    "unit": 2,
+    "q_no": 134,
+    "unit_q_no": 34
+  },
+  {
+    "q": "In the ceded districts, the farmers respectfully referred to Thomas Munro by which title?",
+    "o": [
+      "Apara Bhagiratha",
+      "Mandava Rishi",
+      "Andhra Kesari",
+      "Kavi Samrat"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 2 (Section 2.11): Munro, who was fluent in Telugu and had a special bond with the Rayalaseema people, was respectfully called 'Mandava Rishi'. Farmers even named their sons after him, such as Mandolappa. Cotton, by contrast, was called 'Apara Bhagiratha'.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Sir Thomas Munro – legacy",
+    "page": 96,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [94, 96],
+    "unit": 2,
+    "q_no": 135,
+    "unit_q_no": 35
+  },
+  {
+    "q": "Consider the following statements regarding Andhra's industries in the colonial period:\nI. The Company favoured the muslin cloth of Srikakulam for export to Europe.\nII. Indian silk successfully overcame competition from Chinese and Japanese silks in European markets.\nIII. The Eluru carpet industry was developed by Persian immigrants who settled in the region.\nIV. Ships built at Korinka were regarded as being of poor quality.\n\nHow many of the above statements are correct?",
+    "o": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 2 (Section 2.9B): Statements I and III are correct. Statement II is wrong because Chinese and Japanese silks became dominant in European markets over Indian silk. Statement IV is wrong because ships built at Korinka were considered of high quality, and many foreign ships anchored there for servicing and repairs. Kurnool blankets and Eluru carpets also won international recognition.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Industries – textiles, carpets and shipbuilding",
+    "page": 86,
+    "photo": null,
+    "question_type": "Statement-Count",
+    "source_pages": [85, 86],
+    "unit": 2,
+    "q_no": 136,
+    "unit_q_no": 36
+  },
+  {
+    "q": "Match the famines (List I) with their descriptions (List II):\n\nList I:\nA. Drought of 1791 in the northern districts\nB. Famine of 1823–24 at Machilipatnam\nC. Famine of 1833 in Guntur\nD. Ganjam famine of 1865–66\n\nList II:\n1. Known as the 'Dokkala' famine\n2. Linked to a shift from rice to cotton cultivation after the American Civil War boom\n3. Grain imported from Bengal as a precaution, but the quantity was insufficient\n4. Law and order deteriorated and looting became rampant",
+    "o": [
+      "A-3, B-4, C-1, D-2",
+      "A-4, B-3, C-2, D-1",
+      "A-1, B-3, C-4, D-2",
+      "A-4, B-3, C-1, D-2"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 2 (Section 2.10): In 1791 insufficient rainfall caused food shortage with deaths and looting. In 1823–24 local Company officials imported grain from Bengal, but the quantity was insufficient. The 1833 drought in Guntur is called the 'Dokkala' famine. The Ganjam famine (1865–66) followed the switch to cotton cultivation and the price crash after the American Civil War.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Famines – major famines",
+    "page": 88,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [86, 88],
+    "unit": 2,
+    "q_no": 137,
+    "unit_q_no": 37
+  },
+  {
+    "q": "Consider the following statements regarding the famines of colonial Andhra:\n1. In the ceded districts, famine deaths rose from 3,225 in 1805 to 4,902 in 1806 and 17,207 in 1807.\n2. The 1833 'Dokkala' famine in Guntur is estimated to have caused around two lakh deaths.\n3. Rayalaseema, lacking proper irrigation, became a permanently drought-prone area dependent on rain-fed agriculture.\n4. During the Ganjam famine, land under rice expanded at the expense of cotton.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 2 (Section 2.10): Statement 4 is reversed. In the Ganjam region, lands previously under rice were allotted to cotton, producing a shortage of food grains and thousands of hunger deaths. In the 1890s many people in Kadapa and Kurnool also died of hunger or while migrating.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Famines – deaths and causes",
+    "page": 88,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [87, 88],
+    "unit": 2,
+    "q_no": 138,
+    "unit_q_no": 38
+  },
+  {
+    "q": "The Ganjam famine of 1865–66 was aggravated mainly by:",
+    "o": [
+      "Floods that destroyed the standing paddy crop",
+      "Heavy export of grain from the district to Madras",
+      "A shift of farmland from rice to cotton during the American Civil War boom, followed by a crash in cotton prices",
+      "A cattle disease that wiped out plough animals"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 2 (Section 2.10): The American Civil War raised cotton demand and prices, so Ganjam farmers switched to cotton. When supply recovered after the war, prices fell, damaging farmers' finances. The fields formerly under rice were no longer producing food, causing hunger deaths. Many people also migrated to South Africa and Mauritius as labourers.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Famines – Ganjam famine",
+    "page": 88,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [88],
+    "unit": 2,
+    "q_no": 139,
+    "unit_q_no": 39
+  },
+  {
+    "q": "Consider the following statements regarding the early life of Sir Thomas Munro:\n1. He was born on 27 May 1761 in Glasgow.\n2. He arrived in India in 1779 and joined the East India Company's Madras Infantry.\n3. He served as a revenue officer in the Baramahal area of Salem district under Captain Reed.\n4. He began his career in the Bengal army and administered Bengal districts.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 3 and 4 only",
+      "1, 2 and 3 only"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 2 (Section 2.11): Statement 4 is incorrect because Munro joined the Madras Infantry and took part in the Mysore wars. He gained governance experience as an assistant to Captain Reed in Baramahal, and he became an expert in land tax management.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Sir Thomas Munro – early life",
+    "page": 90,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [89, 90],
+    "unit": 2,
+    "q_no": 140,
+    "unit_q_no": 40
+  },
+  {
+    "q": "Assertion (A): Thomas Munro introduced the Ryotwari system in the Ceded Districts.\nReason (R): Munro believed that ownership of land would improve the social status of the farmer and that agriculture would develop if there were many small landowners rather than a few large cultivators.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 2 (Sections 2.4b and 2.11): Munro oversaw the Rayalaseema administration from 1800 to 1807 and introduced Ryotwari there, after first trying it in Baramahal. He believed in leaving surplus money with the farmer rather than the government treasury, and that having 40 or 50 small landowners instead of two or three large ones would develop agriculture.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Sir Thomas Munro – Ryotwari philosophy",
+    "page": 92,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [66, 90, 92],
+    "unit": 2,
+    "q_no": 141,
+    "unit_q_no": 41
+  },
+  {
+    "q": "Consider the following statements regarding Munro's survey and settlement in the Ceded Districts:\n1. The survey began in 1792 and was completed in 1797.\n2. Each cultivator was given a unique identification number, and the area of his cultivated land was recorded along with his name.\n3. The land survey was designed on the basis of soil fertility and availability of irrigation.\n4. The survey records are still regarded as authentic documents even after more than 200 years.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "2 and 3 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 2 (Section 2.11): Statement 1 is wrong. The survey was initiated in 1802 and completed by 1807, whereas 1792–99 is the period during which Munro first introduced Ryotwari in Baramahal. Before this, a village-wise system had operated, which was replaced because it was not working properly.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Sir Thomas Munro – survey and settlement",
+    "page": 92,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [92],
+    "unit": 2,
+    "q_no": 142,
+    "unit_q_no": 42
+  },
+  {
+    "q": "Consider the following recommendations of the Munro Report submitted in 1807:\n1. Reducing survey rates by one-fourth.\n2. Government management of irrigation ponds.\n3. Remission when the yield decreased.\n4. Transferring land rights from the farmer to the village headman.\n\nWhich of the above were recommendations of the report?",
+    "o": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 2 (Section 2.11): Statement 4 is the opposite of the report. Munro stressed that land rights should remain with the farmer to encourage development of the land. He also gave loans for seeds, bullocks, ploughs, wells and irrigation canals, and repaired ponds without waiting for government orders.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Sir Thomas Munro – Munro Report (1807)",
+    "page": 94,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [93, 94],
+    "unit": 2,
+    "q_no": 143,
+    "unit_q_no": 43
+  },
+  {
+    "q": "Match the items (List I) with the descriptions of Munro's patronage and legacy (List II):\n\nList I:\nA. Agusteshwara and Chennakeshwara temples\nB. Rameshwara temple\nC. Gangalam\nD. Mandava Rishi\n\nList II:\n1. Reconstructed at Jammalamadugu\n2. Large vessel gifted to the Tirumala Devasthanam\n3. Repaired in Kadapa district\n4. Respectful name given to Munro by the farmers of the ceded districts",
+    "o": [
+      "A-1, B-3, C-2, D-4",
+      "A-3, B-2, C-1, D-4",
+      "A-3, B-1, C-4, D-2",
+      "A-3, B-1, C-2, D-4"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 2 (Section 2.11): Despite being a Christian, Munro showed respect for Hindu traditions and gave financial support to many temples. He repaired the Agusteshwara and Chennakeshwara temples in Kadapa district, reconstructed the Rameshwara temple at Jammalamadugu and gifted a large vessel called Gangalam to the Tirumala Devasthanam. He was called Mandava Rishi in the ceded districts.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Sir Thomas Munro – patronage of temples",
+    "page": 94,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [94, 96],
+    "unit": 2,
+    "q_no": 144,
+    "unit_q_no": 44
+  },
+  {
+    "q": "Sir Thomas Munro, who had been appointed Governor of Madras in 1820, died of cholera on 6 July 1827 at:",
+    "o": [
+      "Pattikonda",
+      "Gooty",
+      "Bellary",
+      "Madras"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 2 (Section 2.11): Munro passed away on 6 July 1827, the day of his retirement, of a cholera infection while at Pattikonda among his favourite people of the ceded districts. The text says he had laid the foundations of an efficient administration in the region.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "Sir Thomas Munro – last years",
+    "page": 94,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [94],
+    "unit": 2,
+    "q_no": 145,
+    "unit_q_no": 45
+  },
+  {
+    "q": "Consider the following statements regarding Charles Phillips Brown:\n1. He was born on 10 November 1798 in Calcutta.\n2. He trained at Haileybury College and was appointed in 1817 as a deputy to John Hanbury, Collector of Kadapa.\n3. Governor Thomas Munro directed him to learn the local languages and improve his administrative skills.\n4. His 'Brownyanigantu' is a Sanskrit–English dictionary.\n\nWhich of the statements given above are correct?",
+    "o": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "a": 2,
+    "exp": "Telugu Academy Unit 2 (Section 2.12): Statement 4 is incorrect because 'Brownyanigantu' is the first comprehensive and authoritative Telugu–English dictionary. Brown became proficient in Telugu and developed a special admiration for it. He is credited with helping to modernise the Telugu alphabet.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "C.P. Brown – life",
+    "page": 96,
+    "photo": null,
+    "question_type": "Multi-Statement",
+    "source_pages": [96, 98],
+    "unit": 2,
+    "q_no": 146,
+    "unit_q_no": 46
+  },
+  {
+    "q": "Match the aspects of C.P. Brown's work (List I) with the details (List II):\n\nList I:\nA. Brownyanigantu\nB. Vemana Padyalu and Andhra Mahabharata\nC. Kadapa\nD. London University\n\nList II:\n1. Place where he employed over a hundred Telugu scholars in a spacious building\n2. Where he worked as a Telugu professor after returning in 1854\n3. First comprehensive and authoritative Telugu–English dictionary\n4. Telugu works he published at great personal expense",
+    "o": [
+      "A-3, B-4, C-1, D-2",
+      "A-4, B-3, C-1, D-2",
+      "A-3, B-4, C-2, D-1",
+      "A-3, B-1, C-4, D-2"
+    ],
+    "a": 0,
+    "exp": "Telugu Academy Unit 2 (Section 2.12): Brownyanigantu is the first comprehensive Telugu–English dictionary. He published Vemana Padyalu, Andhra Mahabharata and other works at great expense. As Kadapa collector he employed over a hundred Telugu scholars in a spacious building, and he returned to London in 1854 and worked as a Telugu professor at London University.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "C.P. Brown – literary revival of Telugu",
+    "page": 98,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [96, 98],
+    "unit": 2,
+    "q_no": 147,
+    "unit_q_no": 47
+  },
+  {
+    "q": "Match the personalities (List I) with their role in the 1857 revolt in the Andhra region (List II):\n\nList I:\nA. Sheikh Peer Saheb\nB. Dandusena\nC. Korukonda Subbareddy\nD. Turrebaz Khan\n\nList II:\n1. Leader of the Savara tribesmen's revolt in Parlakimidi (Ganjam)\n2. Tribal revolt leader hanged by the Company government\n3. Muslim religious leader who called for Jihad against the British at Kadapa\n4. Led an attack on the British Residency at Secunderabad",
+    "o": [
+      "A-1, B-3, C-2, D-4",
+      "A-3, B-2, C-1, D-4",
+      "A-3, B-1, C-4, D-2",
+      "A-3, B-1, C-2, D-4"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 2 (Section 2.13): Sheikh Peer Saheb called for a religious war during prayers in Kadapa. Dandusena led the Savara revolt at Parlakimidi, which the Company suppressed easily. Korukonda Subbareddy was hanged after claiming that Nanasaheb was succeeding. Turrebaz Khan led five thousand men against the Residency at Secunderabad, and the attack was repulsed.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "1857 Revolt – local leaders",
+    "page": 100,
+    "photo": null,
+    "question_type": "Matching",
+    "source_pages": [99, 100],
+    "unit": 2,
+    "q_no": 148,
+    "unit_q_no": 48
+  },
+  {
+    "q": "Assertion (A): The 1857 Revolt had a massive impact across the Andhra region, with large-scale armed uprisings in every district.\nReason (R): Salar Jung, the Prime Minister of the Nizam, gave full cooperation to the British and maintained law and order in Hyderabad.",
+    "o": [
+      "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+      "Both (A) and (R) are true, but (R) is NOT the correct explanation of (A)",
+      "(A) is true, but (R) is false",
+      "(A) is false, but (R) is true"
+    ],
+    "a": 3,
+    "exp": "Telugu Academy Unit 2 (Section 2.13): The revolt was mainly in North and Central India, and its impact in South India was less. Only a few sporadic incidents occurred in Andhra, in towns with significant Muslim populations such as Kadapa, Machilipatnam and Visakhapatnam. Educated people in several towns held public meetings supporting the British. Assertion (A) is false and Reason (R) is true.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "1857 Revolt – impact in Andhra",
+    "page": 100,
+    "photo": null,
+    "question_type": "Assertion-Reason",
+    "source_pages": [99, 100, 102],
+    "unit": 2,
+    "q_no": 149,
+    "unit_q_no": 49
+  },
+  {
+    "q": "After the Revolt of 1857, the administration of India was taken out of the hands of the East India Company and entrusted to:",
+    "o": [
+      "The Governor-General acting alone",
+      "The British Queen, with a Cabinet-level minister in the British Parliament overseeing Indian affairs on her behalf",
+      "The Court of Directors in London",
+      "The Viceroy acting independently of the British Parliament"
+    ],
+    "a": 1,
+    "exp": "Telugu Academy Unit 2 (Section 2.13): The British believed the revolt was due to the Company's mismanagement, so the Company was relieved of the administration of India. The administration was entrusted to the British Queen, who promised to rule without discrimination, though the text states the promises were not fulfilled in reality.",
+    "topic": "Unit 2: Andhra under British Rule",
+    "tag": "1857 Revolt – transfer of power to the Crown",
+    "page": 100,
+    "photo": null,
+    "question_type": "Single Correct",
+    "source_pages": [98, 100],
+    "unit": 2,
+    "q_no": 150, 
+    "unit_q_no": 50
+  }  
+]  
