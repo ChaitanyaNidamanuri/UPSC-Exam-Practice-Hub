@@ -1,0 +1,977 @@
+{
+  "source": "GK SSC STENO 2026 CHAPTERWISE-EN (1).pdf",
+  "total_index_questions": 550,
+  "total_extracted_questions": 550,
+  "page_numbering": {
+    "printed_page_offset": 2,
+    "rule": "For this PDF, physical PDF page = printed page + 2; question page fields use physical PDF page numbers."
+  },
+  "chapters": [
+    {
+      "topic": "Static GK",
+      "printed_page": 6,
+      "pdf_page": 8,
+      "question_count": 153,
+      "extracted_question_count": 153,
+      "subtopics": [
+        {
+          "tag": "Sports(Static & Current)",
+          "printed_page": 6,
+          "pdf_page": 8,
+          "question_count": 48,
+          "pdf_heading_page": 8,
+          "heading": "1 Sports(Static & Current) (48 Qs)"
+        },
+        {
+          "tag": "Music and Musical Instruments",
+          "printed_page": 20,
+          "pdf_page": 22,
+          "question_count": 23,
+          "pdf_heading_page": 22,
+          "heading": "2 Music and Musical Instruments (23 Qs)"
+        },
+        {
+          "tag": "Classical Dance",
+          "printed_page": 29,
+          "pdf_page": 31,
+          "question_count": 7,
+          "pdf_heading_page": 31,
+          "heading": "3 Classical Dance (7 Qs)"
+        },
+        {
+          "tag": "Folk Dances and Festivals",
+          "printed_page": 31,
+          "pdf_page": 33,
+          "question_count": 35,
+          "pdf_heading_page": 33,
+          "heading": "4 Folk Dances and Festivals (35 Qs)"
+        },
+        {
+          "tag": "Books and Authors",
+          "printed_page": 42,
+          "pdf_page": 44,
+          "question_count": 14,
+          "pdf_heading_page": 44,
+          "heading": "5 Books and Authors (14 Qs)"
+        },
+        {
+          "tag": "International Organisations",
+          "printed_page": 46,
+          "pdf_page": 48,
+          "question_count": 6,
+          "pdf_heading_page": 48,
+          "heading": "6 International Organisations (6 Qs)"
+        },
+        {
+          "tag": "Awards and Honours",
+          "printed_page": 49,
+          "pdf_page": 51,
+          "question_count": 3,
+          "pdf_heading_page": 51,
+          "heading": "7 Awards and Honours (3 Qs)"
+        },
+        {
+          "tag": "Government Schemes",
+          "printed_page": 50,
+          "pdf_page": 52,
+          "question_count": 6,
+          "pdf_heading_page": 52,
+          "heading": "8 Government Schemes (6 Qs)"
+        },
+        {
+          "tag": "Miscellaneous",
+          "printed_page": 53,
+          "pdf_page": 55,
+          "question_count": 11,
+          "pdf_heading_page": 55,
+          "heading": "9 Miscellaneous (11 Qs)"
+        }
+      ]
+    },
+    {
+      "topic": "Ancient History",
+      "printed_page": 58,
+      "pdf_page": 60,
+      "question_count": 19,
+      "extracted_question_count": 19,
+      "subtopics": [
+        {
+          "tag": "Stone Age",
+          "printed_page": 58,
+          "pdf_page": 60,
+          "question_count": 6,
+          "pdf_heading_page": 60,
+          "heading": "1 Stone Age (6 Qs)"
+        },
+        {
+          "tag": "Indus Valley Civilization",
+          "printed_page": 60,
+          "pdf_page": 62,
+          "question_count": 2,
+          "pdf_heading_page": 62,
+          "heading": "2 Indus Valley Civilization (2 Qs)"
+        },
+        {
+          "tag": "Vedic Age",
+          "printed_page": 61,
+          "pdf_page": 63,
+          "question_count": 3,
+          "pdf_heading_page": 63,
+          "heading": "3 Vedic Age (3 Qs)"
+        },
+        {
+          "tag": "Jainism and Buddhism",
+          "printed_page": 64,
+          "pdf_page": 66,
+          "question_count": 2,
+          "pdf_heading_page": 66,
+          "heading": "4 Jainism and Buddhism (2 Qs)"
+        },
+        {
+          "tag": "Post-Maurya Dynasties",
+          "printed_page": 66,
+          "pdf_page": 68,
+          "question_count": 3,
+          "pdf_heading_page": 68,
+          "heading": "5 Post-Maurya Dynasties (3 Qs)"
+        },
+        {
+          "tag": "Gupta Dynasty",
+          "printed_page": 68,
+          "pdf_page": 70,
+          "question_count": 1,
+          "pdf_heading_page": 70,
+          "heading": "6 Gupta Dynasty (1 Qs)"
+        },
+        {
+          "tag": "Tripartite Struggle and Cholas",
+          "printed_page": 69,
+          "pdf_page": 71,
+          "question_count": 1,
+          "pdf_heading_page": 71,
+          "heading": "7 Tripartite Struggle and Cholas (1 Qs)"
+        },
+        {
+          "tag": "Miscellaneous",
+          "printed_page": 70,
+          "pdf_page": 72,
+          "question_count": 1,
+          "pdf_heading_page": 72,
+          "heading": "8 Miscellaneous (1 Qs)"
+        }
+      ]
+    },
+    {
+      "topic": "Medieval History",
+      "printed_page": 72,
+      "pdf_page": 74,
+      "question_count": 11,
+      "extracted_question_count": 11,
+      "subtopics": [
+        {
+          "tag": "Delhi Sultanate",
+          "printed_page": 72,
+          "pdf_page": 74,
+          "question_count": 1,
+          "pdf_heading_page": 74,
+          "heading": "1 Delhi Sultanate (1 Qs)"
+        },
+        {
+          "tag": "Vijayanagara and Bahmani Kingdom",
+          "printed_page": 73,
+          "pdf_page": 75,
+          "question_count": 4,
+          "pdf_heading_page": 75,
+          "heading": "2 Vijayanagara and Bahmani Kingdom (4 Qs)"
+        },
+        {
+          "tag": "The Mughal Empire",
+          "printed_page": 76,
+          "pdf_page": 78,
+          "question_count": 2,
+          "pdf_heading_page": 78,
+          "heading": "3 The Mughal Empire (2 Qs)"
+        },
+        {
+          "tag": "Marathas",
+          "printed_page": 78,
+          "pdf_page": 80,
+          "question_count": 1,
+          "pdf_heading_page": 80,
+          "heading": "4 Marathas (1 Qs)"
+        },
+        {
+          "tag": "Miscellaneous",
+          "printed_page": 79,
+          "pdf_page": 81,
+          "question_count": 3,
+          "pdf_heading_page": 81,
+          "heading": "5 Miscellaneous (3 Qs)"
+        }
+      ]
+    },
+    {
+      "topic": "Modern History",
+      "printed_page": 82,
+      "pdf_page": 84,
+      "question_count": 22,
+      "extracted_question_count": 22,
+      "subtopics": [
+        {
+          "tag": "Socio Religious Reforms",
+          "printed_page": 82,
+          "pdf_page": 84,
+          "question_count": 2,
+          "pdf_heading_page": 84,
+          "heading": "1 Socio Religious Reforms (2 Qs)"
+        },
+        {
+          "tag": "Revolt of 1857",
+          "printed_page": 84,
+          "pdf_page": 86,
+          "question_count": 1,
+          "pdf_heading_page": 86,
+          "heading": "2 Revolt of 1857 (1 Qs)"
+        },
+        {
+          "tag": "Governor-General and Viceroy",
+          "printed_page": 86,
+          "pdf_page": 88,
+          "question_count": 12,
+          "pdf_heading_page": 88,
+          "heading": "3 Governor-General and Viceroy (12 Qs)"
+        },
+        {
+          "tag": "Miscellaneous",
+          "printed_page": 90,
+          "pdf_page": 92,
+          "question_count": 7,
+          "pdf_heading_page": 92,
+          "heading": "4 Miscellaneous (7 Qs)"
+        }
+      ]
+    },
+    {
+      "topic": "Economics",
+      "printed_page": 95,
+      "pdf_page": 97,
+      "question_count": 72,
+      "extracted_question_count": 72,
+      "subtopics": [
+        {
+          "tag": "National Income",
+          "printed_page": 95,
+          "pdf_page": 97,
+          "question_count": 3,
+          "pdf_heading_page": 97,
+          "heading": "1 National Income (3 Qs)"
+        },
+        {
+          "tag": "Budget and Taxation",
+          "printed_page": 97,
+          "pdf_page": 99,
+          "question_count": 7,
+          "pdf_heading_page": 99,
+          "heading": "2 Budget and Taxation (7 Qs)"
+        },
+        {
+          "tag": "Inflation and Unemployment",
+          "printed_page": 100,
+          "pdf_page": 102,
+          "question_count": 3,
+          "pdf_heading_page": 102,
+          "heading": "3 Inflation and Unemployment (3 Qs)"
+        },
+        {
+          "tag": "Banking",
+          "printed_page": 101,
+          "pdf_page": 103,
+          "question_count": 4,
+          "pdf_heading_page": 103,
+          "heading": "4 Banking (4 Qs)"
+        },
+        {
+          "tag": "Monetary Policy",
+          "printed_page": 103,
+          "pdf_page": 105,
+          "question_count": 1,
+          "pdf_heading_page": 105,
+          "heading": "5 Monetary Policy (1 Qs)"
+        },
+        {
+          "tag": "Poverty and Balance of Payment",
+          "printed_page": 104,
+          "pdf_page": 106,
+          "question_count": 3,
+          "pdf_heading_page": 106,
+          "heading": "6 Poverty and Balance of Payment (3 Qs)"
+        },
+        {
+          "tag": "Five Year Plan and Industrial Policy Resolution",
+          "printed_page": 106,
+          "pdf_page": 108,
+          "question_count": 20,
+          "pdf_heading_page": 108,
+          "heading": "7 Five Year Plan and Industrial Policy Resolution (20 Qs)"
+        },
+        {
+          "tag": "Reports and Indices",
+          "printed_page": 113,
+          "pdf_page": 115,
+          "question_count": 6,
+          "pdf_heading_page": 115,
+          "heading": "8 Reports and Indices (6 Qs)"
+        },
+        {
+          "tag": "1991 Reforms And Industrial policy",
+          "printed_page": 115,
+          "pdf_page": 117,
+          "question_count": 22,
+          "pdf_heading_page": 117,
+          "heading": "9 1991 Reforms And Industrial policy (22 Qs)"
+        },
+        {
+          "tag": "Miscellaneous",
+          "printed_page": 124,
+          "pdf_page": 126,
+          "question_count": 3,
+          "pdf_heading_page": 126,
+          "heading": "10 Miscellaneous (3 Qs)"
+        }
+      ]
+    },
+    {
+      "topic": "Polity",
+      "printed_page": 127,
+      "pdf_page": 129,
+      "question_count": 55,
+      "extracted_question_count": 55,
+      "subtopics": [
+        {
+          "tag": "Making of Constitution",
+          "printed_page": 128,
+          "pdf_page": 130,
+          "question_count": 1,
+          "pdf_heading_page": 130,
+          "heading": "1 Making of Constitution (1 Qs)"
+        },
+        {
+          "tag": "Salient Features of the Constitution",
+          "printed_page": 130,
+          "pdf_page": 132,
+          "question_count": 1,
+          "pdf_heading_page": 132,
+          "heading": "2 Salient Features of the Constitution (1 Qs)"
+        },
+        {
+          "tag": "Preamble",
+          "printed_page": 132,
+          "pdf_page": 134,
+          "question_count": 1,
+          "pdf_heading_page": 134,
+          "heading": "3 Preamble (1 Qs)"
+        },
+        {
+          "tag": "Fundamental Rights",
+          "printed_page": 133,
+          "pdf_page": 135,
+          "question_count": 4,
+          "pdf_heading_page": 135,
+          "heading": "4 Fundamental Rights (4 Qs)"
+        },
+        {
+          "tag": "DPSP and Fundamental Duties",
+          "printed_page": 135,
+          "pdf_page": 137,
+          "question_count": 5,
+          "pdf_heading_page": 137,
+          "heading": "5 DPSP and Fundamental Duties (5 Qs)"
+        },
+        {
+          "tag": "President and Vice President of India",
+          "printed_page": 138,
+          "pdf_page": 140,
+          "question_count": 2,
+          "pdf_heading_page": 140,
+          "heading": "6 President and Vice President of India (2 Qs)"
+        },
+        {
+          "tag": "Prime Minister and Council of Ministers",
+          "printed_page": 140,
+          "pdf_page": 142,
+          "question_count": 1,
+          "pdf_heading_page": 142,
+          "heading": "7 Prime Minister and Council of Ministers (1 Qs)"
+        },
+        {
+          "tag": "Parliament",
+          "printed_page": 141,
+          "pdf_page": 143,
+          "question_count": 5,
+          "pdf_heading_page": 143,
+          "heading": "8 Parliament (5 Qs)"
+        },
+        {
+          "tag": "State Legislature",
+          "printed_page": 143,
+          "pdf_page": 145,
+          "question_count": 1,
+          "pdf_heading_page": 145,
+          "heading": "9 State Legislature (1 Qs)"
+        },
+        {
+          "tag": "Centre-State Relations",
+          "printed_page": 144,
+          "pdf_page": 146,
+          "question_count": 9,
+          "pdf_heading_page": 146,
+          "heading": "10 Centre-State Relations (9 Qs)"
+        },
+        {
+          "tag": "Emergency & Constitutional Amendment",
+          "printed_page": 147,
+          "pdf_page": 149,
+          "question_count": 4,
+          "pdf_heading_page": 149,
+          "heading": "11 Emergency & Constitutional Amendment (4 Qs)"
+        },
+        {
+          "tag": "Supreme Court and High Court",
+          "printed_page": 149,
+          "pdf_page": 151,
+          "question_count": 2,
+          "pdf_heading_page": 151,
+          "heading": "12 Supreme Court and High Court (2 Qs)"
+        },
+        {
+          "tag": "Constitutional and Non-Constitutional Bodies",
+          "printed_page": 150,
+          "pdf_page": 152,
+          "question_count": 2,
+          "pdf_heading_page": 152,
+          "heading": "13 Constitutional and Non-Constitutional Bodies (2 Qs)"
+        },
+        {
+          "tag": "New Criminal Laws 2023",
+          "printed_page": 151,
+          "pdf_page": 153,
+          "question_count": 10,
+          "pdf_heading_page": 153,
+          "heading": "14 New Criminal Laws 2023 (10 Qs)"
+        },
+        {
+          "tag": "Important Acts",
+          "printed_page": 155,
+          "pdf_page": 157,
+          "question_count": 3,
+          "pdf_heading_page": 157,
+          "heading": "15 Important Acts (3 Qs)"
+        },
+        {
+          "tag": "Sources of the Indian Constitution",
+          "printed_page": 158,
+          "pdf_page": 160,
+          "question_count": 3,
+          "pdf_heading_page": 160,
+          "heading": "16 Sources of the Indian Constitution (3 Qs)"
+        },
+        {
+          "tag": "Miscellaneous",
+          "printed_page": 161,
+          "pdf_page": 163,
+          "question_count": 1,
+          "pdf_heading_page": 163,
+          "heading": "17 Miscellaneous (1 Qs)"
+        }
+      ]
+    },
+    {
+      "topic": "Geography",
+      "printed_page": 164,
+      "pdf_page": 166,
+      "question_count": 72,
+      "extracted_question_count": 72,
+      "subtopics": [
+        {
+          "tag": "Solar System",
+          "printed_page": 165,
+          "pdf_page": 167,
+          "question_count": 7,
+          "pdf_heading_page": 167,
+          "heading": "1 Solar System (7 Qs)"
+        },
+        {
+          "tag": "Earth's Interior and Plate Tectonics & Latitude and Longitude",
+          "printed_page": 167,
+          "pdf_page": 169,
+          "question_count": 6,
+          "pdf_heading_page": 169,
+          "heading": "2 Earth's Interior and Plate Tectonics & Latitude and Longitude (6 Qs)"
+        },
+        {
+          "tag": "Landforms",
+          "printed_page": 170,
+          "pdf_page": 172,
+          "question_count": 3,
+          "pdf_heading_page": 172,
+          "heading": "3 Landforms (3 Qs)"
+        },
+        {
+          "tag": "Atmosphere",
+          "printed_page": 171,
+          "pdf_page": 173,
+          "question_count": 2,
+          "pdf_heading_page": 173,
+          "heading": "4 Atmosphere (2 Qs)"
+        },
+        {
+          "tag": "Wind, Ocean Current, and Cyclone",
+          "printed_page": 173,
+          "pdf_page": 175,
+          "question_count": 1,
+          "pdf_heading_page": 175,
+          "heading": "5 Wind, Ocean Current, and Cyclone (1 Qs)"
+        },
+        {
+          "tag": "India and Its Location",
+          "printed_page": 174,
+          "pdf_page": 176,
+          "question_count": 4,
+          "pdf_heading_page": 176,
+          "heading": "6 India and Its Location (4 Qs)"
+        },
+        {
+          "tag": "Himalayas",
+          "printed_page": 176,
+          "pdf_page": 178,
+          "question_count": 4,
+          "pdf_heading_page": 178,
+          "heading": "7 Himalayas (4 Qs)"
+        },
+        {
+          "tag": "Peninsular Plateau",
+          "printed_page": 177,
+          "pdf_page": 179,
+          "question_count": 4,
+          "pdf_heading_page": 179,
+          "heading": "8 Peninsular Plateau (4 Qs)"
+        },
+        {
+          "tag": "Northern Plains and Islands",
+          "printed_page": 179,
+          "pdf_page": 181,
+          "question_count": 1,
+          "pdf_heading_page": 181,
+          "heading": "9 Northern Plains and Islands (1 Qs)"
+        },
+        {
+          "tag": "Himalayan River System",
+          "printed_page": 180,
+          "pdf_page": 182,
+          "question_count": 4,
+          "pdf_heading_page": 182,
+          "heading": "10 Himalayan River System (4 Qs)"
+        },
+        {
+          "tag": "Peninsular Rivers",
+          "printed_page": 182,
+          "pdf_page": 184,
+          "question_count": 1,
+          "pdf_heading_page": 184,
+          "heading": "11 Peninsular Rivers (1 Qs)"
+        },
+        {
+          "tag": "Dams, Lakes and Waterfall",
+          "printed_page": 183,
+          "pdf_page": 185,
+          "question_count": 3,
+          "pdf_heading_page": 185,
+          "heading": "12 Dams, Lakes and Waterfall (3 Qs)"
+        },
+        {
+          "tag": "Soil",
+          "printed_page": 186,
+          "pdf_page": 188,
+          "question_count": 2,
+          "pdf_heading_page": 188,
+          "heading": "13 Soil (2 Qs)"
+        },
+        {
+          "tag": "Agriculture",
+          "printed_page": 189,
+          "pdf_page": 191,
+          "question_count": 2,
+          "pdf_heading_page": 191,
+          "heading": "14 Agriculture (2 Qs)"
+        },
+        {
+          "tag": "Minerals",
+          "printed_page": 191,
+          "pdf_page": 193,
+          "question_count": 7,
+          "pdf_heading_page": 193,
+          "heading": "15 Minerals (7 Qs)"
+        },
+        {
+          "tag": "World Map",
+          "printed_page": 194,
+          "pdf_page": 196,
+          "question_count": 1,
+          "pdf_heading_page": 196,
+          "heading": "16 World Map (1 Qs)"
+        },
+        {
+          "tag": "Human Geography",
+          "printed_page": 195,
+          "pdf_page": 197,
+          "question_count": 15,
+          "pdf_heading_page": 197,
+          "heading": "17 Human Geography (15 Qs)"
+        },
+        {
+          "tag": "Transport",
+          "printed_page": 200,
+          "pdf_page": 202,
+          "question_count": 1,
+          "pdf_heading_page": 202,
+          "heading": "18 Transport (1 Qs)"
+        },
+        {
+          "tag": "Miscellaneous",
+          "printed_page": 201,
+          "pdf_page": 203,
+          "question_count": 4,
+          "pdf_heading_page": 203,
+          "heading": "19 Miscellaneous (4 Qs)"
+        }
+      ]
+    },
+    {
+      "topic": "Physics",
+      "printed_page": 204,
+      "pdf_page": 206,
+      "question_count": 24,
+      "extracted_question_count": 24,
+      "subtopics": [
+        {
+          "tag": "Force and Laws of Motion",
+          "printed_page": 204,
+          "pdf_page": 206,
+          "question_count": 2,
+          "pdf_heading_page": 206,
+          "heading": "1 Force and Laws of Motion (2 Qs)"
+        },
+        {
+          "tag": "Gravitation and Work Done",
+          "printed_page": 205,
+          "pdf_page": 207,
+          "question_count": 2,
+          "pdf_heading_page": 207,
+          "heading": "2 Gravitation and Work Done (2 Qs)"
+        },
+        {
+          "tag": "Electricity",
+          "printed_page": 206,
+          "pdf_page": 208,
+          "question_count": 2,
+          "pdf_heading_page": 208,
+          "heading": "3 Electricity (2 Qs)"
+        },
+        {
+          "tag": "Magnetic Effect of Electric Current",
+          "printed_page": 208,
+          "pdf_page": 210,
+          "question_count": 1,
+          "pdf_heading_page": 210,
+          "heading": "4 Magnetic Effect of Electric Current (1 Qs)"
+        },
+        {
+          "tag": "Nuclear Technology",
+          "printed_page": 210,
+          "pdf_page": 212,
+          "question_count": 2,
+          "pdf_heading_page": 212,
+          "heading": "5 Nuclear Technology (2 Qs)"
+        },
+        {
+          "tag": "Radioactivity",
+          "printed_page": 213,
+          "pdf_page": 215,
+          "question_count": 2,
+          "pdf_heading_page": 215,
+          "heading": "6 Radioactivity (2 Qs)"
+        },
+        {
+          "tag": "Miscellaneous",
+          "printed_page": 215,
+          "pdf_page": 217,
+          "question_count": 13,
+          "pdf_heading_page": 217,
+          "heading": "7 Miscellaneous (13 Qs)"
+        }
+      ]
+    },
+    {
+      "topic": "Chemistry",
+      "printed_page": 222,
+      "pdf_page": 224,
+      "question_count": 4,
+      "extracted_question_count": 4,
+      "subtopics": [
+        {
+          "tag": "Matter",
+          "printed_page": 223,
+          "pdf_page": 225,
+          "question_count": 1,
+          "pdf_heading_page": 225,
+          "heading": "1 Matter (1 Qs)"
+        },
+        {
+          "tag": "Metals and Non-Metals",
+          "printed_page": 224,
+          "pdf_page": 226,
+          "question_count": 1,
+          "pdf_heading_page": 226,
+          "heading": "2 Metals and Non-Metals (1 Qs)"
+        },
+        {
+          "tag": "Acid, Base and Salt",
+          "printed_page": 224,
+          "pdf_page": 226,
+          "question_count": 1,
+          "pdf_heading_page": 226,
+          "heading": "3 Acid, Base and Salt (1 Qs)"
+        },
+        {
+          "tag": "Miscellaneous",
+          "printed_page": 226,
+          "pdf_page": 228,
+          "question_count": 1,
+          "pdf_heading_page": 228,
+          "heading": "4 Miscellaneous (1 Qs)"
+        }
+      ]
+    },
+    {
+      "topic": "Biology",
+      "printed_page": 228,
+      "pdf_page": 230,
+      "question_count": 17,
+      "extracted_question_count": 17,
+      "subtopics": [
+        {
+          "tag": "Cell",
+          "printed_page": 228,
+          "pdf_page": 230,
+          "question_count": 1,
+          "pdf_heading_page": 230,
+          "heading": "1 Cell (1 Qs)"
+        },
+        {
+          "tag": "Plant Tissue and Animal Tissue",
+          "printed_page": 229,
+          "pdf_page": 231,
+          "question_count": 1,
+          "pdf_heading_page": 231,
+          "heading": "2 Plant Tissue and Animal Tissue (1 Qs)"
+        },
+        {
+          "tag": "Plant and Animal Kingdom",
+          "printed_page": 231,
+          "pdf_page": 233,
+          "question_count": 2,
+          "pdf_heading_page": 233,
+          "heading": "3 Plant and Animal Kingdom (2 Qs)"
+        },
+        {
+          "tag": "Nervous System",
+          "printed_page": 233,
+          "pdf_page": 235,
+          "question_count": 1,
+          "pdf_heading_page": 235,
+          "heading": "4 Nervous System (1 Qs)"
+        },
+        {
+          "tag": "Hormones and Plant Movement",
+          "printed_page": 234,
+          "pdf_page": 236,
+          "question_count": 1,
+          "pdf_heading_page": 236,
+          "heading": "5 Hormones and Plant Movement (1 Qs)"
+        },
+        {
+          "tag": "Reproduction",
+          "printed_page": 234,
+          "pdf_page": 236,
+          "question_count": 1,
+          "pdf_heading_page": 236,
+          "heading": "6 Reproduction (1 Qs)"
+        },
+        {
+          "tag": "Diseases",
+          "printed_page": 235,
+          "pdf_page": 237,
+          "question_count": 1,
+          "pdf_heading_page": 237,
+          "heading": "7 Diseases (1 Qs)"
+        },
+        {
+          "tag": "Nutrients",
+          "printed_page": 236,
+          "pdf_page": 238,
+          "question_count": 4,
+          "pdf_heading_page": 238,
+          "heading": "8 Nutrients (4 Qs)"
+        },
+        {
+          "tag": "Heredity and Evolution",
+          "printed_page": 238,
+          "pdf_page": 240,
+          "question_count": 5,
+          "pdf_heading_page": 240,
+          "heading": "9 Heredity and Evolution (5 Qs)"
+        }
+      ]
+    },
+    {
+      "topic": "Science and Technology",
+      "printed_page": 242,
+      "pdf_page": 244,
+      "question_count": 34,
+      "extracted_question_count": 34,
+      "subtopics": [
+        {
+          "tag": "Science and Technology",
+          "printed_page": 242,
+          "pdf_page": 244,
+          "question_count": 34,
+          "pdf_heading_page": 244,
+          "heading": "1 Science and Technology (34 Qs)"
+        }
+      ]
+    },
+    {
+      "topic": "Environment",
+      "printed_page": 258,
+      "pdf_page": 260,
+      "question_count": 13,
+      "extracted_question_count": 13,
+      "subtopics": [
+        {
+          "tag": "Basics of Environmental Sciences",
+          "printed_page": 258,
+          "pdf_page": 260,
+          "question_count": 8,
+          "pdf_heading_page": 260,
+          "heading": "1 Basics of Environmental Sciences (8 Qs)"
+        },
+        {
+          "tag": "Ecosystem",
+          "printed_page": 262,
+          "pdf_page": 264,
+          "question_count": 1,
+          "pdf_heading_page": 264,
+          "heading": "2 Ecosystem (1 Qs)"
+        },
+        {
+          "tag": "Environmental Conventions",
+          "printed_page": 263,
+          "pdf_page": 265,
+          "question_count": 1,
+          "pdf_heading_page": 265,
+          "heading": "3 Environmental Conventions (1 Qs)"
+        },
+        {
+          "tag": "National Parks",
+          "printed_page": 264,
+          "pdf_page": 266,
+          "question_count": 1,
+          "pdf_heading_page": 266,
+          "heading": "4 National Parks (1 Qs)"
+        },
+        {
+          "tag": "Miscellaneous",
+          "printed_page": 265,
+          "pdf_page": 267,
+          "question_count": 2,
+          "pdf_heading_page": 267,
+          "heading": "5 Miscellaneous (2 Qs)"
+        }
+      ]
+    },
+    {
+      "topic": "Current Affairs",
+      "printed_page": 269,
+      "pdf_page": 271,
+      "question_count": 54,
+      "extracted_question_count": 54,
+      "subtopics": [
+        {
+          "tag": "National News",
+          "printed_page": 269,
+          "pdf_page": 271,
+          "question_count": 1,
+          "pdf_heading_page": 271,
+          "heading": "1 National News (1 Qs)"
+        },
+        {
+          "tag": "International News",
+          "printed_page": 270,
+          "pdf_page": 272,
+          "question_count": 6,
+          "pdf_heading_page": 272,
+          "heading": "2 International News (6 Qs)"
+        },
+        {
+          "tag": "Appointments and Resignations",
+          "printed_page": 273,
+          "pdf_page": 275,
+          "question_count": 11,
+          "pdf_heading_page": 275,
+          "heading": "3 Appointments and Resignations (11 Qs)"
+        },
+        {
+          "tag": "Awards and Honours (Current)",
+          "printed_page": 276,
+          "pdf_page": 278,
+          "question_count": 6,
+          "pdf_heading_page": 278,
+          "heading": "4 Awards and Honours (Current) (6 Qs)"
+        },
+        {
+          "tag": "Reports and Indices (Current)",
+          "printed_page": 279,
+          "pdf_page": 281,
+          "question_count": 19,
+          "pdf_heading_page": 281,
+          "heading": "5 Reports and Indices (Current) (19 Qs)"
+        },
+        {
+          "tag": "Government Schemes and Policies (Current)",
+          "printed_page": 285,
+          "pdf_page": 287,
+          "question_count": 8,
+          "pdf_heading_page": 287,
+          "heading": "6 Government Schemes and Policies (Current) (8 Qs)"
+        },
+        {
+          "tag": "MoUs and Agreements",
+          "printed_page": 289,
+          "pdf_page": 291,
+          "question_count": 2,
+          "pdf_heading_page": 291,
+          "heading": "7 MoUs and Agreements (2 Qs)"
+        },
+        {
+          "tag": "Miscellaneous",
+          "printed_page": 291,
+          "pdf_page": 293,
+          "question_count": 1,
+          "pdf_heading_page": 293,
+          "heading": "8 Miscellaneous (1 Qs)"
+        }
+      ]
+    }
+  ],
+  "physical_pdf_pages": 294
+}
