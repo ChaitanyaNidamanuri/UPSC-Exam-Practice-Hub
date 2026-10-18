@@ -1,0 +1,366 @@
+{
+  "schemaVersion": 1,
+  "bankKey": "ssc_cgl_pyq",
+  "totalCount": 5030,
+  "topicCount": 7,
+  "topics": [
+    {
+      "name": "Static GK",
+      "count": 1683,
+      "subtopics": [
+        {
+          "name": "Dances (Classical & Folk)",
+          "count": 268
+        },
+        {
+          "name": "Musical Instruments & Gharanas",
+          "count": 125
+        },
+        {
+          "name": "Festivals & Fairs",
+          "count": 209
+        },
+        {
+          "name": "Temples & Monuments",
+          "count": 111
+        },
+        {
+          "name": "Books & Authors",
+          "count": 307
+        },
+        {
+          "name": "Sports",
+          "count": 451
+        },
+        {
+          "name": "Awards & Honours",
+          "count": 61
+        },
+        {
+          "name": "International & National Organizations",
+          "count": 60
+        },
+        {
+          "name": "Science & Technology",
+          "count": 70
+        },
+        {
+          "name": "Important Days & Govt Schemes",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "name": "Polity",
+      "count": 672,
+      "subtopics": [
+        {
+          "name": "Making of the Constitution",
+          "count": 27
+        },
+        {
+          "name": "Salient Features",
+          "count": 68
+        },
+        {
+          "name": "Preamble",
+          "count": 4
+        },
+        {
+          "name": "Union Territory & Citizenship",
+          "count": 18
+        },
+        {
+          "name": "Fundamental Rights",
+          "count": 42
+        },
+        {
+          "name": "DPSP & Fundamental Duties",
+          "count": 29
+        },
+        {
+          "name": "President & Vice-President",
+          "count": 40
+        },
+        {
+          "name": "PM & Council of Ministers",
+          "count": 16
+        },
+        {
+          "name": "Parliament",
+          "count": 72
+        },
+        {
+          "name": "State Legislature",
+          "count": 46
+        },
+        {
+          "name": "Emergency & Amendments",
+          "count": 44
+        },
+        {
+          "name": "Supreme Court & High Courts",
+          "count": 34
+        },
+        {
+          "name": "Local Government",
+          "count": 9
+        },
+        {
+          "name": "Constitutional & Non-Constitutional Bodies",
+          "count": 64
+        },
+        {
+          "name": "Important Acts & New Laws",
+          "count": 159
+        }
+      ]
+    },
+    {
+      "name": "Ancient History",
+      "count": 314,
+      "subtopics": [
+        {
+          "name": "Prehistory & Indus Valley Civilization",
+          "count": 57
+        },
+        {
+          "name": "Vedic Culture",
+          "count": 37
+        },
+        {
+          "name": "Mahajanapadas, Mauryas & Post-Mauryan Empire",
+          "count": 75
+        },
+        {
+          "name": "Gupta Empire",
+          "count": 45
+        },
+        {
+          "name": "Ancient South India & Sangam Age",
+          "count": 29
+        },
+        {
+          "name": "Buddhism & Jainism",
+          "count": 57
+        },
+        {
+          "name": "Miscellaneous (Ancient)",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "name": "Medieval History",
+      "count": 331,
+      "subtopics": [
+        {
+          "name": "Early Medieval & Regional Kingdoms",
+          "count": 61
+        },
+        {
+          "name": "Delhi Sultanate",
+          "count": 63
+        },
+        {
+          "name": "Mughal Empire & Sur Dynasty",
+          "count": 114
+        },
+        {
+          "name": "Vijayanagar & Bahmani Kingdom",
+          "count": 22
+        },
+        {
+          "name": "Maratha Empire",
+          "count": 19
+        },
+        {
+          "name": "Bhakti & Sufi Saints",
+          "count": 27
+        },
+        {
+          "name": "Sikhism",
+          "count": 13
+        },
+        {
+          "name": "Miscellaneous (Medieval)",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "name": "Modern History",
+      "count": 307,
+      "subtopics": [
+        {
+          "name": "Decline of Mughals & Autonomous Powers",
+          "count": 9
+        },
+        {
+          "name": "Advent of Europeans & British Expansion",
+          "count": 27
+        },
+        {
+          "name": "British Administration & Economic Policy",
+          "count": 75
+        },
+        {
+          "name": "Revolt of 1857",
+          "count": 12
+        },
+        {
+          "name": "Social & Religious Reforms",
+          "count": 27
+        },
+        {
+          "name": "Freedom Struggle",
+          "count": 117
+        },
+        {
+          "name": "Tribal & Peasant Movements",
+          "count": 18
+        },
+        {
+          "name": "Post Independence Era",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "count": 723,
+      "subtopics": [
+        {
+          "name": "Solar System",
+          "count": 47
+        },
+        {
+          "name": "Earth's Interior & Tectonics",
+          "count": 10
+        },
+        {
+          "name": "Rocks, Continents & Oceans",
+          "count": 5
+        },
+        {
+          "name": "Geomorphology & Landforms",
+          "count": 42
+        },
+        {
+          "name": "Atmosphere",
+          "count": 35
+        },
+        {
+          "name": "Wind, Currents & Cyclone",
+          "count": 10
+        },
+        {
+          "name": "India & Its Location",
+          "count": 26
+        },
+        {
+          "name": "Himalayas",
+          "count": 10
+        },
+        {
+          "name": "Peninsular Plateaus",
+          "count": 30
+        },
+        {
+          "name": "Northern Plains & Islands",
+          "count": 25
+        },
+        {
+          "name": "Peninsular Rivers",
+          "count": 13
+        },
+        {
+          "name": "Dams, Lakes & Waterfalls",
+          "count": 25
+        },
+        {
+          "name": "Monsoon",
+          "count": 16
+        },
+        {
+          "name": "Forest & Grasslands",
+          "count": 14
+        },
+        {
+          "name": "Soil & Agriculture",
+          "count": 63
+        },
+        {
+          "name": "Minerals",
+          "count": 74
+        },
+        {
+          "name": "World Map",
+          "count": 10
+        },
+        {
+          "name": "National Parks",
+          "count": 25
+        },
+        {
+          "name": "Transports",
+          "count": 55
+        },
+        {
+          "name": "Demographics",
+          "count": 169
+        },
+        {
+          "name": "Miscellaneous",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "name": "Economy",
+      "count": 1000,
+      "subtopics": [
+        {
+          "name": "Basics of Economy",
+          "count": 158
+        },
+        {
+          "name": "Demand and Supply",
+          "count": 26
+        },
+        {
+          "name": "National Income",
+          "count": 43
+        },
+        {
+          "name": "Inflation and Unemployment",
+          "count": 25
+        },
+        {
+          "name": "Budget & Taxation",
+          "count": 128
+        },
+        {
+          "name": "Monetary Policy",
+          "count": 22
+        },
+        {
+          "name": "Money and Banking",
+          "count": 86
+        },
+        {
+          "name": "BoP, Poverty & International Trade",
+          "count": 177
+        },
+        {
+          "name": "Five Year Plans & Industrial Policy",
+          "count": 321
+        },
+        {
+          "name": "Miscellaneous",
+          "count": 14
+        }
+      ]
+    }
+  ]
+}
