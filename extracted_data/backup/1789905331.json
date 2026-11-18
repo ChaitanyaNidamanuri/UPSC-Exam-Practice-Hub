@@ -1,0 +1,272 @@
+[
+  {
+    "q": "Which ministry is primarily responsible for conducting the Census in India?",
+    "o": [
+      "Ministry of Finance",
+      "Ministry of Statistics and Programme Implementation",
+      "Ministry of Home Affairs",
+      "Ministry of Rural Development"
+    ],
+    "a": 2,
+    "tag": "Census",
+    "exp": "• The Census in India conducted Registrar General and Census Commissioner of India. • Current Registrar General and census commissioner: Mrityunjay Kumar Narain",
+    "topic": "Census 2027",
+    "page": 2,
+    "photo": null
+  },
+  {
+    "q": "The person who has been appointed as Brand Ambassador of Census 2027 famous for which art?",
+    "o": [
+      "Sand Art",
+      "Painting",
+      "Social Worker",
+      "Madhubani Art"
+    ],
+    "a": 0,
+    "tag": "Census",
+    "exp": "2027 Sudarshan Patnaik ----> Brand Ambassador • Famous for Sand Art • Padma Shri awardee (2014)",
+    "topic": "Census 2027",
+    "page": 4,
+    "photo": null
+  },
+  {
+    "q": "Under which Act is the Census conducted in India?",
+    "o": [
+      "Population Act, 1948",
+      "Census Act, 1948",
+      "National Survey Act, 1950",
+      "Demographic Registration Act, 1949"
+    ],
+    "a": 1,
+    "tag": "Census",
+    "exp": "• This act ensures to collect demographic data. • Cover under article: 246 • Schedule: Seventh • Under Union List • Article 82: Readjustment of seat after each census • 84th CA 2001: Readjustment of lok sabha seat frozen",
+    "topic": "Census 2027",
+    "page": 6,
+    "photo": null
+  },
+  {
+    "q": "Census 2027 in India is proposed to be conducted primarily through which mode?",
+    "o": [
+      "Only offline survey.",
+      "Only satellite mapping.",
+      "Digital and self-enumeration mode.",
+      "Telephone interviews only"
+    ],
+    "a": 2,
+    "tag": "Census",
+    "exp": "2027 • Self-enumeration • Enter self detail using online platform • 1st Ever census conduct Digitally. • Portal: se.census.gov.in",
+    "topic": "Census 2027",
+    "page": 8,
+    "photo": null
+  },
+  {
+    "q": "Census 2027 is expected to be which Census ?",
+    "o": [
+      "14th",
+      "15th",
+      "16th",
+      "17th"
+    ],
+    "a": 2,
+    "tag": "Census",
+    "exp": "2027 • Census ----> 1st 1872 ------> non- synchronous. • Viceroy ----> Lord Mayo.",
+    "topic": "Census 2027",
+    "page": 10,
+    "photo": null
+  },
+  {
+    "q": "Which Census was postponed due to the COVID-19 pandemic?",
+    "o": [
+      "1991 Census",
+      "2001 Census",
+      "2011 Census",
+      "2021 Census"
+    ],
+    "a": 3,
+    "tag": "Census",
+    "exp": "",
+    "topic": "Census 2027",
+    "page": 12,
+    "photo": null
+  },
+  {
+    "q": "Census 2027 is expected to be which Census of independent India?",
+    "o": [
+      "8th",
+      "7th",
+      "6th",
+      "5th"
+    ],
+    "a": 0,
+    "tag": "Census",
+    "exp": "2027 • Census ----> After Independence------> 1st 1951. • Follow decennial system(every 10 years)",
+    "topic": "Census 2027",
+    "page": 14,
+    "photo": null
+  },
+  {
+    "q": "Census 2027 in India is proposed to be conducted in how many phases?",
+    "o": [
+      "One Phase",
+      "Two Phases",
+      "Three Phases",
+      "Four Phases"
+    ],
+    "a": 1,
+    "tag": "Census",
+    "exp": "2027 Census ----> Two Phase Housing Listing Population Enumeration Phase Phase • Budget: 11,718.24 Cr.",
+    "topic": "Census 2027",
+    "page": 16,
+    "photo": null
+  },
+  {
+    "q": "What is the reference date for Census 2027 in snow-bound and hilly regions of India?",
+    "o": [
+      "1 January 2027",
+      "1 October 2026",
+      "1 March 2027",
+      "1 July 2026"
+    ],
+    "a": 1,
+    "tag": "Census",
+    "exp": "2027 Census ----> Hilly-snow region ---> Phase 1: April 2026- August 2026 Phase 2: starts in Sep 2026 Reference Date: 1 October 2026. Snow-bound areas: J&K, Ladakh, Himachal Pradesh, Uttarakhand.",
+    "topic": "Census 2027",
+    "page": 18,
+    "photo": null
+  },
+  {
+    "q": "What is the reference date for Census 2027 in other part of india except snow- bound and hilly regions?",
+    "o": [
+      "1 January 2027",
+      "1 October 2026",
+      "1 March 2027",
+      "1 July 2026"
+    ],
+    "a": 2,
+    "tag": "Census",
+    "exp": "2027 Census ----> Most of the region of India---> Phase 1: 1 April 2026 – 30 September 2026 Phase 2: starts in Feb 2027 Reference Date: 1 March 2027.",
+    "topic": "Census 2027",
+    "page": 20,
+    "photo": null
+  },
+  {
+    "q": "Who has been selected as official mascot of Census 2027 as male enumerator ?",
+    "o": [
+      "Cheetah",
+      "Lion",
+      "Tejas",
+      "Vikas"
+    ],
+    "a": 3,
+    "tag": "Census",
+    "exp": "2027 Census Mascot Pragati Vikas (Female Enumerator) (Male Enumerator)",
+    "topic": "Census 2027",
+    "page": 22,
+    "photo": null
+  },
+  {
+    "q": "What is main motto of Census 2027 ?",
+    "o": [
+      "Public Welfare through Public participation",
+      "Our India, One Census",
+      "Digital Census",
+      "Digital India"
+    ],
+    "a": 0,
+    "tag": "Census",
+    "exp": "",
+    "topic": "Census 2027",
+    "page": 24,
+    "photo": null
+  },
+  {
+    "q": "What has been added as new criteria in Census 2027",
+    "o": [
+      "Enumeration of foriegners",
+      "Literacy Based census",
+      "Religion Based Census",
+      "Caste Based Census"
+    ],
+    "a": 3,
+    "tag": "Census",
+    "exp": "2027 Unique Fully Digital Caste-Based Total Question asked: 33 Coduct in 16 Langauges",
+    "topic": "Census 2027",
+    "page": 26,
+    "photo": null
+  },
+  {
+    "q": "What is the motto of Census 2011",
+    "o": [
+      "Public Welfare through Public participation",
+      "Our Census, Our Future",
+      "Digital Census",
+      "Digital India"
+    ],
+    "a": 1,
+    "tag": "Census",
+    "exp": "2011 15th 7th After Independence • Home Minister: P. Chidambaram • Registrar General & Census Commissioner: Dr. C. Chandramouli. • Population: 1.21 Billion (17% of total world population)",
+    "topic": "Census 2027",
+    "page": 28,
+    "photo": null
+  },
+  {
+    "q": "According to the 2011 census, which of the following Union Territories of India has the lowest population density per square kilometer?",
+    "o": [
+      "Chandigarh",
+      "Delhi",
+      "Jammu and Kashmir",
+      "Andaman and Nicobar Islands"
+    ],
+    "a": 3,
+    "tag": "Census",
+    "exp": "2011 STATE Union Territories Low Population Arunachal Pradesh Andaman & Nicobar Density island Highest Population Bihar Delhi Density",
+    "topic": "Census 2027",
+    "page": 31,
+    "photo": null
+  },
+  {
+    "q": "According to the census 2011, which UT has the lowest literacy rate?",
+    "o": [
+      "Nagaland",
+      "Haryana",
+      "Jammu and Kashmir",
+      "Dadra & Nagar Haveli"
+    ],
+    "a": 3,
+    "tag": "Census",
+    "exp": "2011 STATE Union Territories Low Literacy Rate Bihar(61.8%) Dadar & Nagar Haveli Highest Literacy rate Kerela(94%) Lakshadweep(91.85 %) • Male Literacy: 82.14% • Female Literacy: 65.64% • Rajasthan has highest difference b/w male & Female literacy",
+    "topic": "Census 2027",
+    "page": 33,
+    "photo": null
+  },
+  {
+    "q": "According to the 2011 census, the only Indian state with a negative decadal population growth rate between 2001-2011 is _______.",
+    "o": [
+      "Nagaland",
+      "Bihar",
+      "Jammu and Kashmir",
+      "Haryana"
+    ],
+    "a": 0,
+    "tag": "Census",
+    "exp": "2011 STATE Union Territories Low Decade Rate Nagaland -- Highest Decade rate Meghalaya Dadar & Nagar Haveli District Kurung kumey(Aru.) Longleng(Nagaland) • Highest Decade growth rate: 1961-71 • Lowest Decade: 1911-1921",
+    "topic": "Census 2027",
+    "page": 35,
+    "photo": null
+  },
+  {
+    "q": "According to the Census of India 2011, what was the percentage of Sikh community in the population of India?",
+    "o": [
+      "1.7%",
+      "79.8%",
+      "0.4%",
+      "14.2%"
+    ],
+    "a": 0,
+    "tag": "Census",
+    "exp": "2011 Population in number Percentage Hindu 96.63cr 79.8% sikh 2.08 cr 1.7% Jain (Highest Literacy) 0.45 cr 0.4% Buddhist 0.84 cr 0.7% Christian 2.78 cr 2.3% Muslim (Lowest Literacy) 17.22 cr 14.2%",
+    "topic": "Census 2027",
+    "page": 37,
+    "photo": null
+  }
+]
