@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "bankKey": "pinnacle_gs_complete",
+  "totalCount": 6661,
+  "topicCount": 9,
+  "topics": [
+    {
+      "name": "Static G.K.",
+      "count": 2095,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 2095
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "count": 924,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 924
+        }
+      ]
+    },
+    {
+      "name": "Polity",
+      "count": 500,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 500
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "count": 909,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 909
+        }
+      ]
+    },
+    {
+      "name": "Economics",
+      "count": 444,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 444
+        }
+      ]
+    },
+    {
+      "name": "Physics",
+      "count": 251,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 251
+        }
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "count": 486,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 486
+        }
+      ]
+    },
+    {
+      "name": "Biology",
+      "count": 552,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 552
+        }
+      ]
+    },
+    {
+      "name": "Current Affairs",
+      "count": 500,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 500
+        }
+      ]
+    }
+  ]
+}
