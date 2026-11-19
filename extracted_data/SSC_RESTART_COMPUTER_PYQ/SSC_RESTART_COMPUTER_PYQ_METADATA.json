@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "bankKey": "ssc_restart_computer",
+  "totalCount": 1737,
+  "topicCount": 15,
+  "topics": [
+    {
+      "name": "Computer Fundamentals & New Tech",
+      "count": 55,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 55
+        }
+      ]
+    },
+    {
+      "name": "CPU, Hardware & I/O Devices",
+      "count": 70,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 70
+        }
+      ]
+    },
+    {
+      "name": "Memory & Storage Devices",
+      "count": 48,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "name": "Software, OS & Programming",
+      "count": 63,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 63
+        }
+      ]
+    },
+    {
+      "name": "Microsoft Windows",
+      "count": 137,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 137
+        }
+      ]
+    },
+    {
+      "name": "MS Word",
+      "count": 358,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 358
+        }
+      ]
+    },
+    {
+      "name": "MS Excel",
+      "count": 503,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 503
+        }
+      ]
+    },
+    {
+      "name": "MS PowerPoint",
+      "count": 55,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 55
+        }
+      ]
+    },
+    {
+      "name": "Computer Networks",
+      "count": 66,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 66
+        }
+      ]
+    },
+    {
+      "name": "Internet, E-mail & E-Banking",
+      "count": 310,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 310
+        }
+      ]
+    },
+    {
+      "name": "Cyber Security & Malware",
+      "count": 47,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 47
+        }
+      ]
+    },
+    {
+      "name": "Number System, Codes & Logic Gates",
+      "count": 6,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "name": "Database Management System (DBMS)",
+      "count": 7,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "Emerging Tech: AI, Cloud, IoT & Blockchain",
+      "count": 6,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "name": "Multimedia & Digital Literacy",
+      "count": 6,
+      "subtopics": [
+        {
+          "name": "Uncategorized",
+          "count": 6
+        }
+      ]
+    }
+  ]
+}
