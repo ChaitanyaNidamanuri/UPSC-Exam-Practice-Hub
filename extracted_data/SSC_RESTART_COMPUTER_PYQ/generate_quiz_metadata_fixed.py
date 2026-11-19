@@ -26,7 +26,10 @@ def clean_name(value: Any, field: str, question_number: int) -> str:
 
 
 def make_bank_key(source: Path) -> str:
-    name = re.sub(r"[^A-Za-z0-9]+", "_", source.stem)
+    # Ignore browser/download duplicate suffixes such as "(2)" so that
+    # SSC_RESTART_COMPUTER_PYQ(2).json keeps the canonical bank key.
+    stem = re.sub(r"\s*\(\d+\)$", "", source.stem).strip()
+    name = re.sub(r"[^A-Za-z0-9]+", "_", stem)
     return re.sub(r"_+", "_", name).strip("_").lower() or "quiz_bank"
 
 
