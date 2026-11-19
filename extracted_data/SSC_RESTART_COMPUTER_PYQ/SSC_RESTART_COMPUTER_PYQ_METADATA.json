@@ -9,8 +9,40 @@
       "count": 55,
       "subtopics": [
         {
-          "name": "Uncategorized",
-          "count": 55
+          "name": "Applications of Computers",
+          "count": 8
+        },
+        {
+          "name": "Characteristics of Computers",
+          "count": 12
+        },
+        {
+          "name": "General Computer Fundamentals",
+          "count": 4
+        },
+        {
+          "name": "Computer Pioneers & Early Computers",
+          "count": 6
+        },
+        {
+          "name": "Computer Generations & History",
+          "count": 8
+        },
+        {
+          "name": "Character Encoding & Codes",
+          "count": 12
+        },
+        {
+          "name": "Computer Applications & Digital Technologies",
+          "count": 3
+        },
+        {
+          "name": "Computer System & IPO Cycle",
+          "count": 1
+        },
+        {
+          "name": "Types of Computers",
+          "count": 1
         }
       ]
     },
@@ -19,8 +51,24 @@
       "count": 70,
       "subtopics": [
         {
-          "name": "Uncategorized",
-          "count": 70
+          "name": "CPU Architecture & Processing",
+          "count": 38
+        },
+        {
+          "name": "Input Devices",
+          "count": 19
+        },
+        {
+          "name": "Motherboard, BIOS & System Hardware",
+          "count": 7
+        },
+        {
+          "name": "Ports & Interfaces",
+          "count": 2
+        },
+        {
+          "name": "Output Devices",
+          "count": 4
         }
       ]
     },
@@ -29,8 +77,24 @@
       "count": 48,
       "subtopics": [
         {
-          "name": "Uncategorized",
-          "count": 48
+          "name": "Computer Memory & Memory Types",
+          "count": 38
+        },
+        {
+          "name": "File & Disk Management",
+          "count": 1
+        },
+        {
+          "name": "Storage Units & Performance",
+          "count": 4
+        },
+        {
+          "name": "Storage Devices & Media",
+          "count": 4
+        },
+        {
+          "name": "Other Memory & Storage Concepts",
+          "count": 1
         }
       ]
     },
@@ -39,8 +103,32 @@
       "count": 63,
       "subtopics": [
         {
-          "name": "Uncategorized",
-          "count": 63
+          "name": "Types of Software & Device Drivers",
+          "count": 7
+        },
+        {
+          "name": "Operating System Concepts & File Systems",
+          "count": 20
+        },
+        {
+          "name": "Programming Languages & Translators",
+          "count": 6
+        },
+        {
+          "name": "Operating Systems",
+          "count": 26
+        },
+        {
+          "name": "Other Software & OS Concepts",
+          "count": 2
+        },
+        {
+          "name": "Database & Data Software",
+          "count": 1
+        },
+        {
+          "name": "User Interfaces & Software Tools",
+          "count": 1
         }
       ]
     },
@@ -49,8 +137,36 @@
       "count": 137,
       "subtopics": [
         {
-          "name": "Uncategorized",
-          "count": 137
+          "name": "Power, Sleep & Startup Options",
+          "count": 8
+        },
+        {
+          "name": "File Explorer & File Management",
+          "count": 63
+        },
+        {
+          "name": "Task Manager & System Monitoring",
+          "count": 21
+        },
+        {
+          "name": "Windows Desktop & Interface",
+          "count": 15
+        },
+        {
+          "name": "Other Windows Features",
+          "count": 4
+        },
+        {
+          "name": "Keyboard Shortcuts & Navigation",
+          "count": 16
+        },
+        {
+          "name": "Backup, Sync & Recovery",
+          "count": 2
+        },
+        {
+          "name": "Windows Settings & Personalization",
+          "count": 8
         }
       ]
     },
@@ -59,8 +175,52 @@
       "count": 358,
       "subtopics": [
         {
-          "name": "Uncategorized",
-          "count": 358
+          "name": "Paragraph Formatting & Lists",
+          "count": 39
+        },
+        {
+          "name": "Page Layout & Printing",
+          "count": 73
+        },
+        {
+          "name": "Keyboard Shortcuts & Editing",
+          "count": 45
+        },
+        {
+          "name": "Font & Text Formatting",
+          "count": 67
+        },
+        {
+          "name": "Review, Proofing & Collaboration",
+          "count": 35
+        },
+        {
+          "name": "Tables",
+          "count": 30
+        },
+        {
+          "name": "Files, Saving & Document Management",
+          "count": 24
+        },
+        {
+          "name": "Images, Shapes & Objects",
+          "count": 9
+        },
+        {
+          "name": "Other MS Word Features",
+          "count": 16
+        },
+        {
+          "name": "Word Interface & Document Views",
+          "count": 8
+        },
+        {
+          "name": "Mail Merge",
+          "count": 7
+        },
+        {
+          "name": "References & Document Indexing",
+          "count": 5
         }
       ]
     },
@@ -69,8 +229,52 @@
       "count": 503,
       "subtopics": [
         {
-          "name": "Uncategorized",
-          "count": 503
+          "name": "Formulas & Functions",
+          "count": 277
+        },
+        {
+          "name": "Files, Formats & Import/Export",
+          "count": 7
+        },
+        {
+          "name": "Workbooks & Worksheets",
+          "count": 59
+        },
+        {
+          "name": "Cell References, Ranges & Names",
+          "count": 32
+        },
+        {
+          "name": "Page Layout & Printing",
+          "count": 10
+        },
+        {
+          "name": "Data Types, Calculation & Errors",
+          "count": 2
+        },
+        {
+          "name": "Other MS Excel Features",
+          "count": 21
+        },
+        {
+          "name": "Keyboard Shortcuts & Editing",
+          "count": 17
+        },
+        {
+          "name": "Cell Formatting & Conditional Formatting",
+          "count": 39
+        },
+        {
+          "name": "Data Tools, Sorting & Filtering",
+          "count": 20
+        },
+        {
+          "name": "Charts & Data Visualization",
+          "count": 16
+        },
+        {
+          "name": "Excel Interface & Views",
+          "count": 3
         }
       ]
     },
@@ -79,8 +283,28 @@
       "count": 55,
       "subtopics": [
         {
-          "name": "Uncategorized",
-          "count": 55
+          "name": "Shortcuts & Presentation Management",
+          "count": 15
+        },
+        {
+          "name": "Slide Shows, Transitions & Animations",
+          "count": 14
+        },
+        {
+          "name": "Slide Design, Themes & Masters",
+          "count": 15
+        },
+        {
+          "name": "Text, Images & Multimedia",
+          "count": 4
+        },
+        {
+          "name": "Other PowerPoint Features",
+          "count": 4
+        },
+        {
+          "name": "Slide Views & Organization",
+          "count": 3
         }
       ]
     },
@@ -89,8 +313,24 @@
       "count": 66,
       "subtopics": [
         {
-          "name": "Uncategorized",
-          "count": 66
+          "name": "Network Types & Coverage",
+          "count": 15
+        },
+        {
+          "name": "Network Protocols & Addressing",
+          "count": 35
+        },
+        {
+          "name": "Data Communication & Network Technologies",
+          "count": 8
+        },
+        {
+          "name": "Networking Devices & Components",
+          "count": 4
+        },
+        {
+          "name": "Other Networking Concepts",
+          "count": 4
         }
       ]
     },
@@ -99,8 +339,36 @@
       "count": 310,
       "subtopics": [
         {
-          "name": "Uncategorized",
-          "count": 310
+          "name": "Other Internet & Online Services",
+          "count": 20
+        },
+        {
+          "name": "Web Browsers, WWW & Websites",
+          "count": 108
+        },
+        {
+          "name": "E-mail & Messaging",
+          "count": 154
+        },
+        {
+          "name": "E-Banking & Digital Payments",
+          "count": 12
+        },
+        {
+          "name": "Search Engines & Web Search",
+          "count": 8
+        },
+        {
+          "name": "Online Communication & Collaboration",
+          "count": 4
+        },
+        {
+          "name": "E-commerce & Online Services",
+          "count": 3
+        },
+        {
+          "name": "Internet Connectivity & Services",
+          "count": 1
         }
       ]
     },
@@ -109,8 +377,28 @@
       "count": 47,
       "subtopics": [
         {
-          "name": "Uncategorized",
-          "count": 47
+          "name": "Malware & Antivirus",
+          "count": 16
+        },
+        {
+          "name": "Encryption, Authentication & Data Integrity",
+          "count": 15
+        },
+        {
+          "name": "Other Cyber Security Concepts",
+          "count": 2
+        },
+        {
+          "name": "Cyberattacks & Network Security",
+          "count": 3
+        },
+        {
+          "name": "Passwords, Privacy & Safe Computing",
+          "count": 4
+        },
+        {
+          "name": "Phishing, Scams & Social Engineering",
+          "count": 7
         }
       ]
     },
@@ -119,8 +407,16 @@
       "count": 6,
       "subtopics": [
         {
-          "name": "Uncategorized",
-          "count": 6
+          "name": "Number Systems & Conversions",
+          "count": 3
+        },
+        {
+          "name": "Logic Gates & Boolean Algebra",
+          "count": 2
+        },
+        {
+          "name": "Character Codes",
+          "count": 1
         }
       ]
     },
@@ -129,8 +425,20 @@
       "count": 7,
       "subtopics": [
         {
-          "name": "Uncategorized",
-          "count": 7
+          "name": "SQL & Database Commands",
+          "count": 4
+        },
+        {
+          "name": "Keys & Constraints",
+          "count": 1
+        },
+        {
+          "name": "Database Tables, Records & Fields",
+          "count": 1
+        },
+        {
+          "name": "DBMS Concepts & Relational Databases",
+          "count": 1
         }
       ]
     },
@@ -139,8 +447,20 @@
       "count": 6,
       "subtopics": [
         {
-          "name": "Uncategorized",
-          "count": 6
+          "name": "Artificial Intelligence & Machine Learning",
+          "count": 3
+        },
+        {
+          "name": "Cloud Computing & Service Models",
+          "count": 1
+        },
+        {
+          "name": "Internet of Things (IoT)",
+          "count": 1
+        },
+        {
+          "name": "Blockchain & Distributed Ledger",
+          "count": 1
         }
       ]
     },
@@ -149,8 +469,16 @@
       "count": 6,
       "subtopics": [
         {
-          "name": "Uncategorized",
-          "count": 6
+          "name": "Multimedia Concepts",
+          "count": 2
+        },
+        {
+          "name": "Digital Images & File Formats",
+          "count": 1
+        },
+        {
+          "name": "Digital India & Digital Services",
+          "count": 3
         }
       ]
     }
